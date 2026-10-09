@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1020">
+  <meta name="description" content="خبرهای مهم کریپتو با خلاصه فارسی">
+  <title>نبض کریپتو</title>
+
+  <link rel="manifest" href="./manifest.json">
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="logo">₿</div>
+    <div>
+      <h1>نبض کریپتو</h1>
+      <p>رادار خبرهای مهم بازار</p>
+    </div>
+    <button id="installBtn" hidden>نصب اپ</button>
+  </header>
+
+  <main>
+    <section class="hero">
+      <span class="eyebrow">CRYPTO NEWS RADAR</span>
+      <h2>مهم‌ها رو از دست نده</h2>
+      <p>خبرهای مهم کریپتو، خلاصه‌شده به زبان ساده فارسی.</p>
+      <button id="refreshBtn">↻ تازه‌سازی خبرها</button>
+    </section>
+
+    <section class="status">
+      <span id="statusDot"></span>
+      <span id="statusText">آماده دریافت خبرها</span>
+      <span id="updatedAt"></span>
+    </section>
+
+    <section class="search">
+      <input id="searchInput" type="search"
+        placeholder="جست‌وجوی خبر یا پروژه...">
+    </section>
+
+    <nav id="filters" class="filters">
+      <button class="filter active" data-filter="all">همه</button>
+      <button class="filter" data-filter="BTC">بیت‌کوین</button>
+      <button class="filter" data-filter="USDT">تتر</button>
+      <button class="filter" data-filter="market">کل بازار</button>
+      <button class="filter" data-filter="altcoin">آلت‌کوین‌ها</button>
+    </nav>
+
+    <section class="section-heading">
+      <h2>خبرهای مهم</h2>
+      <span id="countBadge">۰ خبر</span>
+    </section>
+
+    <section id="newsList" class="news-list">
+      <article class="news-card">
+        <span class="tag">نسخه آزمایشی</span>
+        <h3>به‌زودی خبرهای واقعی اینجا نمایش داده می‌شن</h3>
+        <p>
+          بعد از اتصال دریافت‌کننده خبرها، خبرهای منابع خبری،
+          خلاصه فارسی و توضیح اثر احتمالی بازار در این قسمت قرار می‌گیرن.
+        </p>
+      </article>
+    </section>
+
+    <section id="emptyState" hidden>
+      <h3>خبری پیدا نشد</h3>
+      <p>فیلتر یا عبارت جست‌وجو رو تغییر بده.</p>
+    </section>
+
+    <footer>
+      <p>نبض کریپتو · نسخه آزمایشی</p>
+      <p>توضیح اثر خبر، تحلیل احتمالی است؛ نه توصیه خریدوفروش.</p>
+    </footer>
+  </main>
+
+  <dialog id="detailDialog">
+    <button id="closeDialog">بستن ×</button>
+    <div id="detailContent"></div>
+  </dialog>
+
+  <script src="./assets/js/app.js" defer></script>
+</body>
+</html>
