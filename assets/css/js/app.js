@@ -1,591 +1,394 @@
-/* =========================================
-NABZ CRYPTO NEWS
-News interface and filtering
-Version: 1.0
-========================================= */
-
 "use strict";
 
 (() => {
-const NEWS_URL = "./data/news.json";
+  const NEWS_URL = "./data/news.json";
 
-const state = {
-allNews: [],
-activeCategory: "all",
-searchQuery: "",
-loading: true,
-error: false
-};
+  const state = {
+    news: [],
+    category: "all",
+    query: "",
+    loading: true,
+    error: false
+  };
 
-const elements = {
-newsList: document.getElementById("newsList"),
-searchInput: document.getElementById("searchInput"),
-filters: document.querySelectorAll("[data-category]"),
-status: document.getElementById("statusText"),
-emptyState: document.getElementById("emptyState"),
-refreshButton: document.getElementById("refreshButton"),
-lastUpdated: document.getElementById("lastUpdated"),
-newsDialog: document.getElementById("newsDialog"),
-dialogContent: document.getElementById("dialogContent")
-};
+  const el = {
+    list: document.getElementById("newsList"),
+    search: document.getElementById("searchInput"),
+    filters: document.querySelectorAll("[data-filter]"),
+    status: document.getElementById("statusText"),
+    statusDot: document.getElementById("statusDot"),
+    empty: document.getElementById("emptyState"),
+    refresh: document.getElementById("refreshBtn"),
+    updated: document.getElementById("updatedAt"),
+    count: document.getElementById("countBadge"),
+    dialog: document.getElementById("detailDialog"),
+    detail: document.getElementById("detailContent"),
+    close: document.getElementById("closeDialog"),
+    install: document.getElementById("installBtn")
+  };
 
-const categoryNames = {
-btc: "بیت‌کوین",
-usdt: "تتر و استیبل‌کوین",
-market: "کل بازار",
-altcoin: "آلت‌کوین‌ها",
-regulation: "قوانین و مقررات",
-macro: "اقتصاد کلان",
-security: "امنیت",
-exchange: "صرافی‌ها",
-other: "سایر خبرها"
-};
+  const categories = {
+    btc: "بیت‌کوین",
+    usdt: "تتر و استیبل‌کوین",
+    market: "کل بازار",
+    altcoin: "آلت‌کوین‌ها",
+    regulation: "قوانین و مقررات",
+    macro: "اقتصاد کلان",
+    security: "امنیت",
+    exchange: "صرافی‌ها",
+    other: "سایر خبرها"
+  };
 
-const importanceNames = {
-high: "اهمیت زیاد",
-medium: "اهمیت متوسط",
-low: "اهمیت کم"
-};
+  const importanceNames = {
+    high: "اهمیت زیاد",
+    medium: "اهمیت متوسط",
+    low: "اهمیت کم"
+  };
 
-function getText(value, maxLength = 5000) {
-if (typeof value !== "string") return "";
-return value.trim().slice(0, maxLength);
-}
-
-function safeDate(value) {
-if (!value) return null;
-
-const date = new Date(value);
-
-if (Number.isNaN(date.getTime())) return null;
-
-return date;
-
-}
-
-function formatDate(value) {
-const date = safeDate(value);
-
-if (!date) return "زمان نامشخص";
-
-try {
-  return new Intl.DateTimeFormat("fa-IR", {
-    dateStyle: "medium",
-    timeStyle: "short",
-    timeZone: "Asia/Tehran"
-  }).format(date);
-} catch {
-  return date.toLocaleString("fa-IR");
-}
-
-}
-
-function safeExternalUrl(value) {
-const raw = getText(value, 2048);
-
-try {
-  const url = new URL(raw);
-
-  if (url.protocol !== "https:" && url.protocol !== "http:") {
-    return "";
+  function text(value, limit = 3000) {
+    return typeof value === "string"
+      ? value.trim().slice(0, limit)
+      : "";
   }
 
-  return url.href;
-} catch {
-  return "";
-}
-
-}
-
-function createElement(tag, className, text) {
-const element = document.createElement(tag);
-
-if (className) {
-  element.className = className;
-}
-
-if (text !== undefined) {
-  element.textContent = text;
-}
-
-return element;
-
-}
-
-function setStatus(message, isError = false) {
-if (!elements.status) return;
-
-elements.status.textContent = message;
-elements.status.setAttribute(
-  "aria-live",
-  "polite"
-);
-
-elements.status.dataset.state = isError
-  ? "error"
-  : "normal";
-
-}
-
-function setEmptyState(visible, title, description) {
-if (!elements.emptyState) return;
-
-elements.emptyState.hidden = !visible;
-
-const heading = elements.emptyState.querySelector("h3");
-const paragraph = elements.emptyState.querySelector("p");
-
-if (heading && title) {
-  heading.textContent = title;
-}
-
-if (paragraph && description) {
-  paragraph.textContent = description;
-}
-
-}
-
-function normalizeNews(item, index) {
-if (!item || typeof item !== "object") {
-return null;
-}
-
-const title = getText(item.title, 400);
-
-if (!title) return null;
-
-const category = getText(item.category, 40).toLowerCase();
-
-const allowedCategories = [
-  "btc",
-  "usdt",
-  "market",
-  "altcoin",
-  "regulation",
-  "macro",
-  "security",
-  "exchange",
-  "other"
-];
-
-const importance = getText(
-  item.importance,
-  20
-).toLowerCase();
-
-const allowedImportance = [
-  "high",
-  "medium",
-  "low"
-];
-
-return {
-  id: getText(item.id, 160) || `news-${index}`,
-  title,
-  summary: getText(item.summary, 3000),
-  impact: getText(item.impact, 1500),
-  source: getText(item.source, 150),
-  url: safeExternalUrl(item.url),
-  publishedAt: getText(item.publishedAt, 80),
-  category: allowedCategories.includes(category)
-    ? category
-    : "other",
-  importance: allowedImportance.includes(importance)
-    ? importance
-    : "low"
-};
-
-}
-
-function createNewsCard(news) {
-const card = createElement("article", "news-card");
-const top = createElement("div", "news-card-top");
-
-top.append(
-  createElement(
-    "span",
-    "news-category",
-    categoryNames[news.category] || "سایر خبرها"
-  )
-);
-
-top.append(
-  createElement(
-    "span",
-    "news-importance",
-    importanceNames[news.importance] || "اهمیت نامشخص"
-  )
-);
-
-if (news.source) {
-  top.append(
-    createElement("span", "news-source", news.source)
-  );
-}
-
-top.append(
-  createElement(
-    "time",
-    "news-time",
-    formatDate(news.publishedAt)
-  )
-);
-
-const title = createElement("h3", "news-title", news.title);
-const summary = createElement(
-  "p",
-  "news-summary",
-  news.summary || "خلاصه‌ای برای این خبر ثبت نشده است."
-);
-
-card.append(top, title, summary);
-
-if (news.impact) {
-  const impactBox = createElement("div", "news-impact");
-
-  impactBox.append(
-    createElement(
-      "strong",
-      "news-impact-title",
-      "اثر احتمالی بر بازار"
-    ),
-    createElement(
-      "p",
-      "news-impact-text",
-      news.impact
-    )
-  );
-
-  card.append(impactBox);
-}
-
-const footer = createElement("div", "news-card-footer");
-const disclaimer = createElement(
-  "span",
-  "news-disclaimer",
-  "اثر احتمالی است؛ نه پیش‌بینی قطعی."
-);
-
-if (news.url) {
-  const link = createElement(
-    "a",
-    "news-link",
-    "مشاهده منبع اصلی ↗"
-  );
-
-  link.href = news.url;
-  link.target = "_blank";
-  link.rel = "noopener noreferrer";
-  link.referrerPolicy = "no-referrer";
-
-  footer.append(link);
-} else {
-  footer.append(
-    createElement(
-      "span",
-      "news-disclaimer",
-      "لینک منبع موجود نیست."
-    )
-  );
-}
-
-const detailsButton = createElement(
-  "button",
-  "button",
-  "جزئیات خبر"
-);
-
-detailsButton.type = "button";
-detailsButton.addEventListener("click", () => {
-  showNewsDetails(news);
-});
-
-footer.append(detailsButton, disclaimer);
-card.append(footer);
-
-return card;
-
-}
-
-function showNewsDetails(news) {
-if (!elements.newsDialog || !elements.dialogContent) {
-return;
-}
-
-elements.dialogContent.replaceChildren();
-
-const heading = createElement(
-  "h2",
-  "news-title",
-  news.title
-);
-
-const source = createElement(
-  "p",
-  "news-summary",
-  `منبع: ${news.source || "نامشخص"}`
-);
-
-const date = createElement(
-  "p",
-  "news-disclaimer",
-  `زمان انتشار: ${formatDate(news.publishedAt)}`
-);
-
-const summaryHeading = createElement("h3", "", "خلاصه خبر");
-
-const summary = createElement(
-  "p",
-  "news-summary",
-  news.summary || "خلاصه‌ای ثبت نشده است."
-);
-
-elements.dialogContent.append(
-  heading,
-  source,
-  date,
-  summaryHeading,
-  summary
-);
-
-if (news.impact) {
-  elements.dialogContent.append(
-    createElement("h3", "", "اثر احتمالی بر بازار"),
-    createElement("p", "news-impact-text", news.impact)
-  );
-}
-
-if (news.url) {
-  const link = createElement(
-    "a",
-    "news-link",
-    "رفتن به منبع اصلی ↗"
-  );
-
-  link.href = news.url;
-  link.target = "_blank";
-  link.rel = "noopener noreferrer";
-  link.referrerPolicy = "no-referrer";
-
-  elements.dialogContent.append(link);
-}
-
-if (typeof elements.newsDialog.showModal === "function") {
-  elements.newsDialog.showModal();
-} else {
-  elements.newsDialog.setAttribute("open", "");
-}
-
-}
-
-function getFilteredNews() {
-const query = state.searchQuery.toLocaleLowerCase("fa-IR");
-
-return state.allNews.filter((news) => {
-  const matchesCategory =
-    state.activeCategory === "all" ||
-    news.category === state.activeCategory;
-
-  const searchableText = [
-    news.title,
-    news.summary,
-    news.impact,
-    news.source,
-    categoryNames[news.category] || ""
-  ].join(" ").toLocaleLowerCase("fa-IR");
-
-  const matchesSearch =
-    !query || searchableText.includes(query);
-
-  return matchesCategory && matchesSearch;
-});
-
-}
-
-function renderNews() {
-if (!elements.newsList) return;
-
-const filteredNews = getFilteredNews();
-const fragment = document.createDocumentFragment();
-
-filteredNews.forEach((news) => {
-  fragment.append(createNewsCard(news));
-});
-
-elements.newsList.replaceChildren(fragment);
-
-if (state.loading) {
-  setEmptyState(
-    true,
-    "در حال دریافت خبرها",
-    "کمی صبر کن؛ داریم خبرها را بارگذاری می‌کنیم."
-  );
-  return;
-}
-
-if (state.error && state.allNews.length === 0) {
-  setEmptyState(
-    true,
-    "دریافت خبرها ناموفق بود",
-    "ممکن است هنوز فایل خبرها ساخته نشده باشد یا اتصال برقرار نباشد."
-  );
-  return;
-}
-
-if (filteredNews.length === 0) {
-  setEmptyState(
-    true,
-    "خبری پیدا نشد",
-    "عبارت جست‌وجو یا دسته‌بندی را تغییر بده."
-  );
-} else {
-  setEmptyState(false);
-}
-
-setStatus(
-  `${filteredNews.length.toLocaleString("fa-IR")} خبر نمایش داده می‌شود`
-);
-
-}
-
-async function loadNews() {
-state.loading = true;
-state.error = false;
-
-setStatus("در حال دریافت خبرها...");
-renderNews();
-
-try {
-  const response = await fetch(
-    `${NEWS_URL}?v=${Date.now()}`,
-    {
-      method: "GET",
-      cache: "no-store",
-      headers: {
-        Accept: "application/json"
-      }
+  function dateText(value) {
+    if (!value) return "زمان نامشخص";
+
+    const date = new Date(value);
+    if (Number.isNaN(date.getTime())) {
+      return "زمان نامشخص";
     }
-  );
 
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status}`);
+    return new Intl.DateTimeFormat("fa-IR", {
+      dateStyle: "medium",
+      timeStyle: "short",
+      timeZone: "Asia/Tehran"
+    }).format(date);
   }
 
-  const data = await response.json();
-
-  if (!data || !Array.isArray(data.news)) {
-    throw new Error("ساختار فایل خبرها معتبر نیست.");
+  function node(tag, className, content) {
+    const item = document.createElement(tag);
+    if (className) item.className = className;
+    if (content !== undefined) item.textContent = content;
+    return item;
   }
 
-  state.allNews = data.news
-    .map(normalizeNews)
-    .filter(Boolean);
+  function setStatus(message, error = false) {
+    if (el.status) el.status.textContent = message;
 
-  state.loading = false;
-  state.error = false;
-
-  if (elements.lastUpdated) {
-    elements.lastUpdated.textContent =
-      data.updatedAt
-        ? `آخرین به‌روزرسانی: ${formatDate(data.updatedAt)}`
-        : "زمان به‌روزرسانی نامشخص";
+    if (el.statusDot) {
+      el.statusDot.dataset.state = error ? "error" : "normal";
+    }
   }
 
-  renderNews();
-} catch (error) {
-  state.loading = false;
-  state.error = true;
+  function showEmpty(show, heading, description) {
+    if (!el.empty) return;
 
-  console.error("News loading failed.");
+    el.empty.hidden = !show;
 
-  setStatus(
-    "خبرها دریافت نشدند؛ بعداً دوباره تلاش کن.",
-    true
-  );
+    const h3 = el.empty.querySelector("h3");
+    const p = el.empty.querySelector("p");
 
-  renderNews();
-}
+    if (h3 && heading) h3.textContent = heading;
+    if (p && description) p.textContent = description;
+  }
 
-}
+  function normalize(item, index) {
+    if (!item || typeof item !== "object") return null;
 
-function setupFilters() {
-elements.filters.forEach((button) => {
-button.addEventListener("click", () => {
-state.activeCategory =
-getText(button.dataset.category, 40) || "all";
+    const title = text(item.title, 400);
+    if (!title) return null;
 
-    elements.filters.forEach((item) => {
-      const active = item === button;
+    let url = "";
+    try {
+      const parsed = new URL(text(item.url, 2048));
+      if (["https:", "http:"].includes(parsed.protocol)) {
+        url = parsed.href;
+      }
+    } catch (_) {}
 
-      item.classList.toggle("active", active);
-      item.setAttribute(
-        "aria-pressed",
-        String(active)
+    const category = text(item.category, 40).toLowerCase();
+    const importance = text(item.importance, 20).toLowerCase();
+
+    return {
+      id: text(item.id, 160) || `news-${index}`,
+      title,
+      summary: text(item.summary),
+      impact: text(item.impact, 1500),
+      source: text(item.source, 150),
+      url,
+      publishedAt: text(item.publishedAt, 80),
+      category: categories[category] ? category : "other",
+      importance: importanceNames[importance] ? importance : "low"
+    };
+  }
+
+  function addLink(parent, url, label) {
+    if (!url) return;
+
+    const link = node("a", "news-link", label);
+    link.href = url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    parent.append(link);
+  }
+
+  function showDetails(news) {
+    if (!el.dialog || !el.detail) return;
+
+    el.detail.replaceChildren();
+
+    el.detail.append(
+      node("h2", "news-title", news.title),
+      node("p", "news-summary", `منبع: ${news.source || "نامشخص"}`),
+      node("p", "news-disclaimer",
+        `زمان انتشار: ${dateText(news.publishedAt)}`),
+      node("h3", "", "خلاصه خبر"),
+      node("p", "news-summary",
+        news.summary || "خلاصه‌ای برای این خبر ثبت نشده است.")
+    );
+
+    if (news.impact) {
+      el.detail.append(
+        node("h3", "", "اثر احتمالی بر بازار"),
+        node("p", "news-impact-text", news.impact)
       );
+    }
+
+    addLink(el.detail, news.url, "مشاهده منبع اصلی ↗");
+
+    if (typeof el.dialog.showModal === "function") {
+      if (!el.dialog.open) el.dialog.showModal();
+    } else {
+      el.dialog.setAttribute("open", "");
+    }
+  }
+
+  function createCard(news) {
+    const card = node("article", "news-card");
+    const top = node("div", "news-card-top");
+
+    top.append(
+      node("span", "news-category", categories[news.category]),
+      node("span", "news-importance",
+        importanceNames[news.importance])
+    );
+
+    if (news.source) {
+      top.append(node("span", "news-source", news.source));
+    }
+
+    top.append(node("time", "news-time", dateText(news.publishedAt)));
+
+    card.append(
+      top,
+      node("h3", "news-title", news.title),
+      node("p", "news-summary",
+        news.summary || "خلاصه‌ای برای این خبر ثبت نشده است.")
+    );
+
+    if (news.impact) {
+      const impact = node("div", "news-impact");
+      impact.append(
+        node("strong", "news-impact-title", "اثر احتمالی بر بازار"),
+        node("p", "news-impact-text", news.impact)
+      );
+      card.append(impact);
+    }
+
+    const footer = node("div", "news-card-footer");
+
+    addLink(footer, news.url, "مشاهده منبع اصلی ↗");
+
+    const button = node("button", "button", "جزئیات خبر");
+    button.type = "button";
+    button.addEventListener("click", () => showDetails(news));
+
+    footer.append(
+      button,
+      node("span", "news-disclaimer",
+        "اثر احتمالی است؛ نه پیش‌بینی قطعی.")
+    );
+
+    card.append(footer);
+    return card;
+  }
+
+  function filteredNews() {
+    const query = state.query.toLocaleLowerCase("fa-IR");
+
+    return state.news.filter(news => {
+      const categoryMatches =
+        state.category === "all" ||
+        news.category === state.category;
+
+      const searchable = [
+        news.title,
+        news.summary,
+        news.impact,
+        news.source,
+        categories[news.category]
+      ].join(" ").toLocaleLowerCase("fa-IR");
+
+      return categoryMatches &&
+        (!query || searchable.includes(query));
+    });
+  }
+
+  function render() {
+    if (!el.list) return;
+
+    const results = filteredNews();
+    const fragment = document.createDocumentFragment();
+
+    results.forEach(news => fragment.append(createCard(news)));
+    el.list.replaceChildren(fragment);
+
+    if (el.count) {
+      el.count.textContent = results.length.toLocaleString("fa-IR");
+    }
+
+    if (state.loading) {
+      showEmpty(true, "در حال دریافت خبرها",
+        "کمی صبر کن؛ خبرها در حال بارگذاری هستند.");
+      return;
+    }
+
+    if (state.error && state.news.length === 0) {
+      showEmpty(true, "دریافت خبرها ناموفق بود",
+        "اتصال را بررسی کن و دوباره تلاش کن.");
+      return;
+    }
+
+    if (results.length === 0) {
+      showEmpty(true, "خبری پیدا نشد",
+        "عبارت جست‌وجو یا دسته‌بندی را تغییر بده.");
+    } else {
+      showEmpty(false);
+    }
+
+    setStatus(`${results.length.toLocaleString("fa-IR")} خبر نمایش داده می‌شود`);
+  }
+
+  async function loadNews() {
+    state.loading = true;
+    state.error = false;
+    setStatus("در حال دریافت خبرها...");
+    render();
+
+    try {
+      const response = await fetch(
+        `${NEWS_URL}?v=${Date.now()}`,
+        { cache: "no-store" }
+      );
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      const data = await response.json();
+
+      if (!data || !Array.isArray(data.news)) {
+        throw new Error("ساختار فایل خبرها معتبر نیست.");
+      }
+
+      state.news = data.news.map(normalize).filter(Boolean);
+
+      if (el.updated) {
+        el.updated.textContent = data.updatedAt
+          ? `آخرین به‌روزرسانی: ${dateText(data.updatedAt)}`
+          : "زمان به‌روزرسانی نامشخص";
+      }
+
+      state.loading = false;
+      state.error = false;
+      render();
+    } catch (error) {
+      console.error("News loading failed:", error);
+      state.loading = false;
+      state.error = true;
+      setStatus("خبرها دریافت نشدند؛ بعداً دوباره تلاش کن.", true);
+      render();
+    }
+  }
+
+  function setup() {
+    el.filters.forEach(button => {
+      button.addEventListener("click", () => {
+        state.category = text(button.dataset.filter, 40)
+          .toLowerCase() || "all";
+
+        el.filters.forEach(filter => {
+          const active = filter === button;
+          filter.classList.toggle("active", active);
+          filter.setAttribute("aria-pressed", String(active));
+        });
+
+        render();
+      });
     });
 
-    renderNews();
-  });
-});
+    if (el.search) {
+      el.search.addEventListener("input", () => {
+        state.query = text(el.search.value, 200);
+        render();
+      });
+    }
 
-}
+    if (el.refresh) {
+      el.refresh.addEventListener("click", loadNews);
+    }
 
-function setupSearch() {
-if (!elements.searchInput) return;
+    if (el.close && el.dialog) {
+      el.close.addEventListener("click", () => {
+        if (typeof el.dialog.close === "function") {
+          el.dialog.close();
+        } else {
+          el.dialog.removeAttribute("open");
+        }
+      });
+    }
 
-elements.searchInput.addEventListener("input", () => {
-  state.searchQuery = getText(
-    elements.searchInput.value,
-    200
-  );
+    if (el.dialog) {
+      el.dialog.addEventListener("click", event => {
+        if (event.target === el.dialog &&
+            typeof el.dialog.close === "function") {
+          el.dialog.close();
+        }
+      });
+    }
 
-  renderNews();
-});
+    if (el.install) {
+      el.install.hidden = true;
 
-}
+      window.addEventListener("beforeinstallprompt", event => {
+        event.preventDefault();
+        window.installPrompt = event;
+        el.install.hidden = false;
+      });
 
-function setupRefresh() {
-if (!elements.refreshButton) return;
+      el.install.addEventListener("click", async () => {
+        if (!window.installPrompt) return;
 
-elements.refreshButton.addEventListener("click", () => {
-  loadNews();
-});
+        window.installPrompt.prompt();
+        await window.installPrompt.userChoice;
+        window.installPrompt = null;
+        el.install.hidden = true;
+      });
+    }
 
-}
+    if ("serviceWorker" in navigator &&
+        location.protocol === "https:") {
+      navigator.serviceWorker.register("./sw.js")
+        .catch(error => console.warn("Service worker:", error));
+    }
 
-function setupDialog() {
-if (!elements.newsDialog) return;
-
-const closeButton =
-  elements.newsDialog.querySelector("[data-close-dialog]");
-
-if (closeButton) {
-  closeButton.addEventListener("click", () => {
-    elements.newsDialog.close();
-  });
-}
-
-elements.newsDialog.addEventListener("click", (event) => {
-  if (event.target === elements.newsDialog) {
-    elements.newsDialog.close();
+    loadNews();
   }
-});
 
-}
-
-function init() {
-setupFilters();
-setupSearch();
-setupRefresh();
-setupDialog();
-loadNews();
-}
-
-if (document.readyState === "loading") {
-document.addEventListener("DOMContentLoaded", init, {
-once: true
-});
-} else {
-init();
-}
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", setup, { once: true });
+  } else {
+    setup();
+  }
 })();
