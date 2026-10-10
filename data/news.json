@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-10T07:45:45.702993+00:00",
+  "updatedAt": "2026-10-10T13:59:40.321121+00:00",
   "news": [
+    {
+      "id": "1636f411b7bbc87e33e6",
+      "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+      "summary": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+      "publishedAt": "2026-10-10T13:01:03+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "0b7fc67feaca8525f343",
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+      "publishedAt": "2026-10-10T12:00:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "7517e7e076908aee9fb1",
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "publishedAt": "2026-10-10T12:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "e20101d6102a1c7b3b7e",
+      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+      "summary": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-10T11:52:14+00:00",
+      "category": "market",
+      "importance": "medium"
+    },
+    {
+      "id": "d2c28431259b62d1f5c4",
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "publishedAt": "2026-10-10T11:00:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "0c464ec7b8bdb6e383a1",
       "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
@@ -1045,61 +1100,6 @@
       "publishedAt": "2026-10-08T07:30:42+00:00",
       "category": "btc",
       "importance": "high"
-    },
-    {
-      "id": "36288be9855450a0b7a7",
-      "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
-      "summary": "Former New York Governor Andrew Cuomo urged the crypto industry to balance its support for Democrats and Republicans if they want federal crypto legislation passed.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T05:06:51+00:00",
-      "category": "regulation",
-      "importance": "low"
-    },
-    {
-      "id": "4c4d8774b7c097ca7533",
-      "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
-      "summary": "Canton CEO Yuval Rooz compared blockchain adoption to Uber and Airbnb, arguing that widespread adoption could help insulate it from potential policy reversals.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T04:28:27+00:00",
-      "category": "market",
-      "importance": "medium"
-    },
-    {
-      "id": "9ee50053c314d3cf87ac",
-      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "summary": "Ethereum researchers say crypto users should consider an orderly migration of funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T00:04:32+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "a14de9c2dfe22e508323",
-      "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
-      "summary": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
-      "publishedAt": "2026-10-07T21:46:03+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "42ff039afa22f30ae3b5",
-      "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
-      "summary": "Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
-      "publishedAt": "2026-10-07T21:16:03+00:00",
-      "category": "market",
-      "importance": "low"
     }
   ]
 }
