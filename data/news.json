@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-10T13:59:40.321121+00:00",
+  "updatedAt": "2026-10-10T18:39:39.331649+00:00",
   "news": [
+    {
+      "id": "6aa4854642d02a2d09c8",
+      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule excludes casino-style gambling—sharpening the agency’s claim to exclusive jurisdiction.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "publishedAt": "2026-10-10T17:01:03+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "1f3bf76588843832f786",
+      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+      "summary": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+      "publishedAt": "2026-10-10T16:01:04+00:00",
+      "category": "btc",
+      "importance": "medium"
+    },
     {
       "id": "1636f411b7bbc87e33e6",
       "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
@@ -1078,28 +1100,6 @@
       "publishedAt": "2026-10-08T08:08:03+00:00",
       "category": "usdt",
       "importance": "low"
-    },
-    {
-      "id": "fad10ac9af249ead6043",
-      "title": "Greece plans 10% capital gains tax on cryptocurrencies",
-      "summary": "Greece’s draft bill proposes a 10% tax on crypto capital gains, with exemptions for annual gains of up to 500 euros and crypto-to-crypto swaps.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T08:03:47+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "7706d10819b31b9694f8",
-      "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
-      "summary": "Bitcoin ETFs erased October’s net inflows with $485 million in withdrawals, while Ether funds logged a seventh straight outflow session.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T07:30:42+00:00",
-      "category": "btc",
-      "importance": "high"
     }
   ]
 }
