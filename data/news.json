@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-10T01:18:34.126585+00:00",
+  "updatedAt": "2026-10-10T07:45:45.702993+00:00",
   "news": [
+    {
+      "id": "0c464ec7b8bdb6e383a1",
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "summary": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-10T07:10:43+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "44a79edc0af59e94daaa",
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "publishedAt": "2026-10-10T05:43:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "7488e1e0e09c619d7353",
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "publishedAt": "2026-10-10T03:00:00+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
     {
       "id": "76b25f055e41de3b242f",
       "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
@@ -1067,39 +1100,6 @@
       "publishedAt": "2026-10-07T21:16:03+00:00",
       "category": "market",
       "importance": "low"
-    },
-    {
-      "id": "8234b8c0f373f8c2c4ba",
-      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
-      "summary": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" can secure U.S. leadership.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
-      "publishedAt": "2026-10-07T20:16:04+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "dc115f8a68532e80ecc2",
-      "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-      "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
-      "publishedAt": "2026-10-07T19:46:04+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "f7c582be4e2d407324e0",
-      "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
-      "summary": "Seoul's Yoido Full Gospel Church says data on 850,000 members may be compromised, and a security firm found signs AI helped run the attack.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
-      "publishedAt": "2026-10-07T19:10:31+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
