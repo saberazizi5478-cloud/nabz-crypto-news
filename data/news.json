@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-11T14:09:26.710236+00:00",
+  "updatedAt": "2026-10-11T18:57:36.839618+00:00",
   "news": [
+    {
+      "id": "f3de79727dfc56c0531a",
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "publishedAt": "2026-10-11T18:30:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "2597804cae0fd34fe837",
+      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "summary": "An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+      "publishedAt": "2026-10-11T17:11:03+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "2b23da7df1f127f8bd59",
+      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-11T17:03:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "aac37e1aae10f802fb7c",
+      "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+      "summary": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+      "publishedAt": "2026-10-11T16:01:03+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "f5c69ed5f8a0ef5a3bcb",
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "publishedAt": "2026-10-11T16:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "0c2d5629fa7edbc706b3",
       "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
@@ -1045,61 +1100,6 @@
       "publishedAt": "2026-10-08T11:03:36+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "56f407e14b4eb6c25a07",
-      "title": "Greece Plans 10% Crypto Capital Gains Tax, Down From 15% Floated in June",
-      "summary": "A draft bill would exempt the first €500 of annual gains, as crypto tax rates across Europe run from Cyprus's 8% to Italy's 33%.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
-      "publishedAt": "2026-10-08T10:32:52+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "8bc0162a25282f9c4d73",
-      "title": "Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls",
-      "summary": "Bitcoin’s realized cap rise in the 30 days to Oct. 5 came mostly from existing holders, not fresh capital, Glassnode data showed.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T09:56:07+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "f8cda0e587dc743c97dc",
-      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
-      "summary": "ESMA said EU crypto firms should halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T09:42:04+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "ba40ee4868e40bdc4b30",
-      "title": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
-      "summary": "Users can send USDC across borders from late October, three months after Samsung teased stablecoin support without naming a blockchain.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
-      "publishedAt": "2026-10-08T09:05:50+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "c027e613287d8fcd8018",
-      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
-      "summary": "Eligible US Galaxy will be able to send USDC to crypto wallets and transfer funds to bank accounts in more than 60 countries.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T08:24:24+00:00",
-      "category": "usdt",
-      "importance": "high"
     }
   ]
 }
