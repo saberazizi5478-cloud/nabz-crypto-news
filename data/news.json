@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-11T07:15:21.573646+00:00",
+  "updatedAt": "2026-10-11T14:09:26.710236+00:00",
   "news": [
+    {
+      "id": "0c2d5629fa7edbc706b3",
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "publishedAt": "2026-10-11T13:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "ea12f96ace1b72a787a9",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-11T07:44:51+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "6aa4854642d02a2d09c8",
       "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
@@ -1078,28 +1100,6 @@
       "publishedAt": "2026-10-08T08:24:24+00:00",
       "category": "usdt",
       "importance": "high"
-    },
-    {
-      "id": "1b062befd8bc7cbb73e1",
-      "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
-      "summary": "NEAR climbed into the top 20 cryptocurrencies by market capitalization, as NEAR Intents surpassed $31 billion in cumulative transaction volume.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T08:17:14+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "0268dd0d0d9568b59c43",
-      "title": "Standard Chartered plans institutional crypto custody in Singapore",
-      "summary": "Standard Chartered plans custody for cryptocurrencies, stablecoins and tokenized assets for institutional and eligible corporate clients in Singapore.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T08:08:03+00:00",
-      "category": "usdt",
-      "importance": "low"
     }
   ]
 }
