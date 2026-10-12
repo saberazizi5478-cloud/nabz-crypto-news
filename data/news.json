@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-11T22:57:16.416367+00:00",
+  "updatedAt": "2026-10-12T02:27:10.297217+00:00",
   "news": [
+    {
+      "id": "c2ede984aa4550a579a6",
+      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+      "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-12T01:21:29+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "eb311330769971c60e1b",
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "summary": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a “$94 billion” XRP bug — but receive just a $250K bounty.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-11T22:57:53+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "f3de79727dfc56c0531a",
       "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
@@ -1078,28 +1100,6 @@
       "publishedAt": "2026-10-08T11:37:17+00:00",
       "category": "security",
       "importance": "high"
-    },
-    {
-      "id": "f486e02be2ac62808687",
-      "title": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
-      "publishedAt": "2026-10-08T11:30:19+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "0fd41ad6f9d95138cb43",
-      "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
-      "summary": "The US government moved 9,261 Bitcoin to Coinbase Prime, including 2,456 BTC in newly discovered funds pointing to federal law enforcement seizures.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T11:03:36+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
