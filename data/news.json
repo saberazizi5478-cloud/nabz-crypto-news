@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-10-12T02:27:10.297217+00:00",
+  "updatedAt": "2026-10-12T09:48:22.027975+00:00",
   "news": [
+    {
+      "id": "adae4a32ff25e873cbd5",
+      "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
+      "summary": "Standard Chartered has launched custody for Ripple’s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-12T09:30:57+00:00",
+      "category": "usdt",
+      "importance": "medium"
+    },
+    {
+      "id": "7d57ec3d925c298aee3b",
+      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "اخبار اقتصاد کلان می‌توانند بر دارایی‌های پرریسک اثر بگذارند؛ جهت و شدت اثر از پیش قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+      "publishedAt": "2026-10-12T08:58:24+00:00",
+      "category": "macro",
+      "importance": "medium"
+    },
+    {
+      "id": "cef7acd884e1d448362b",
+      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+      "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-12T08:45:58+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "80cc626f54d1ca421028",
+      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+      "publishedAt": "2026-10-12T07:49:40+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "2bacb33794803a710dd3",
+      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+      "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-12T06:30:21+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "aa236b7cb58c2c8f15a0",
+      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+      "publishedAt": "2026-10-12T04:49:30+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "5d673823f2b4574b804a",
+      "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+      "summary": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-12T04:45:15+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "c2ede984aa4550a579a6",
       "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
@@ -1023,83 +1100,6 @@
       "publishedAt": "2026-10-08T13:42:27+00:00",
       "category": "market",
       "importance": "low"
-    },
-    {
-      "id": "146cfb9498bb6a0e163a",
-      "title": "Crypto lending rises again… but have they solved the risks?",
-      "summary": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protocols. Here’s how to stay safe.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T13:30:00+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "68db48f108d0cf87e5a8",
-      "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-      "publishedAt": "2026-10-08T13:06:24+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "a032b465227329c5015a",
-      "title": "EU lawmakers push crypto onto anti-corruption agenda",
-      "summary": "MEPs also called for stronger asset recovery, while the Commission plans to adopt its first anti-corruption strategy by the end of this year.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T12:54:21+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "559432c5273fe930680f",
-      "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
-      "summary": "Hashi has more than $500M in commitments ahead of mainnet launch, while Anchorage offers institutions settlement and self-custody.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-08T12:03:28+00:00",
-      "category": "btc",
-      "importance": "medium"
-    },
-    {
-      "id": "fca761199ff3dd4a8301",
-      "title": "Morning Minute: AI Could Break Crypto Encryption Before Quantum, Says Ethereum Researcher",
-      "summary": "Justin Drake is calling for crypto holders to start calmly planning for “Bunker Mode.\" But reactions so far haven’t been too calm.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
-      "publishedAt": "2026-10-08T11:48:13+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "3c15d70e631ad4cdaa7b",
-      "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
-      "publishedAt": "2026-10-08T11:47:16+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "a9b5d6b2ef1da0196042",
-      "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft",
-      "summary": "Jonathan Spalletta also spent stolen crypto on a Roman coin marking Julius Caesar's assassination and moon-flown Wright brothers fabric.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
-      "publishedAt": "2026-10-08T11:37:17+00:00",
-      "category": "security",
-      "importance": "high"
     }
   ]
 }
