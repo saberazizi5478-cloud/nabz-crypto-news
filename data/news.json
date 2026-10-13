@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-12T19:49:46.743438+00:00",
+  "updatedAt": "2026-10-13T02:02:51.223150+00:00",
   "news": [
+    {
+      "id": "e20f92d40f1812f4cc48",
+      "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
+      "summary": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+      "publishedAt": "2026-10-12T21:16:03+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "4913c30346a3d3336ed6",
+      "title": "FTX’s crypto mining venture is now used to advance AI",
+      "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-12T21:11:26+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "9e9c19ceb95b61ec8afd",
       "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
@@ -1078,28 +1100,6 @@
       "publishedAt": "2026-10-09T04:04:36+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "87df5eb7ec15e1081b62",
-      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
-      "publishedAt": "2026-10-09T03:27:38+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "e3811b5ed00a0ca0215c",
-      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-      "summary": "The rules are set to take effect next week, allowing crypto ETFs to trade exclusively on the Stock Exchange of Thailand.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-09T03:08:51+00:00",
-      "category": "btc",
-      "importance": "high"
     }
   ]
 }
