@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-14T01:15:41.489707+00:00",
+  "updatedAt": "2026-10-14T06:14:12.449132+00:00",
   "news": [
+    {
+      "id": "0927ab2dd5dcbfbc45ac",
+      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+      "publishedAt": "2026-10-14T05:44:51+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "9111b375e451b55716dc",
+      "title": "Starknet introduces wallet privacy feature for DeFi activity",
+      "summary": "Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-14T05:32:14+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "e3ef192a526cc0aad9c9",
+      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+      "publishedAt": "2026-10-14T05:24:12+00:00",
+      "category": "altcoin",
+      "importance": "low"
+    },
+    {
+      "id": "2226566f31e038d72224",
+      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "publishedAt": "2026-10-14T04:11:16+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "e0e30b456feec4f839ac",
+      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+      "publishedAt": "2026-10-14T03:50:54+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "bec218f100a2b9da1389",
+      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+      "summary": "Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-14T02:19:56+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "4bffff79e04895a85e3a",
       "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
@@ -1034,72 +1100,6 @@
       "publishedAt": "2026-10-10T12:00:00+00:00",
       "category": "market",
       "importance": "low"
-    },
-    {
-      "id": "e20101d6102a1c7b3b7e",
-      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-      "summary": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-10T11:52:14+00:00",
-      "category": "market",
-      "importance": "medium"
-    },
-    {
-      "id": "d2c28431259b62d1f5c4",
-      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-      "publishedAt": "2026-10-10T11:00:00+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "0c464ec7b8bdb6e383a1",
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-      "summary": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-10T07:10:43+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "44a79edc0af59e94daaa",
-      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-      "publishedAt": "2026-10-10T05:43:00+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "7488e1e0e09c619d7353",
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-      "publishedAt": "2026-10-10T03:00:00+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "76b25f055e41de3b242f",
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-      "publishedAt": "2026-10-09T21:21:54+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
