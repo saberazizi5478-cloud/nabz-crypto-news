@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-14T17:15:50.486553+00:00",
+  "updatedAt": "2026-10-14T20:46:45.546816+00:00",
   "news": [
+    {
+      "id": "9be99d8f3531bdf575b9",
+      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+      "summary": "A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+      "publishedAt": "2026-10-14T20:16:05+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "3fb187dc12a95ae5e5df",
+      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+      "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+      "publishedAt": "2026-10-14T19:46:03+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "c482283076fa7909679a",
+      "title": "Solana Sets a Date for Its Next Major Upgrade",
+      "summary": "Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote transactions out of blocks entirely.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
+      "publishedAt": "2026-10-14T19:16:04+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "a7666c967f4ef5e725e5",
+      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
+      "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a “significant e-money token.“",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-14T19:03:52+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "a00eaa2d50903b849c49",
+      "title": "US authorities dismantle crypto scam network that stole tens of millions",
+      "summary": "Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites linked to investment scams that targeted Russian-speaking Americans.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-14T17:56:45+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "d3359cc57d1e97ba2242",
+      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+      "summary": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+      "publishedAt": "2026-10-14T17:46:05+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
     {
       "id": "6bea2c24ff86ec79cf1a",
       "title": "OCC report finds debanking efforts tied to crypto activities",
@@ -1033,72 +1099,6 @@
       "url": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-10-12T14:18:49+00:00",
       "category": "altcoin",
-      "importance": "low"
-    },
-    {
-      "id": "61706a92885258a0d1c4",
-      "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
-      "summary": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-12T14:07:00+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "db707258debcf2c1c3f2",
-      "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
-      "summary": "The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
-      "publishedAt": "2026-10-12T13:33:28+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "ff9766f2d943a1f6c097",
-      "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
-      "summary": "The purchase lifts Strategy's holdings to 848,250 BTC and follows a $176 million repurchase of STRC preferred stock the week before.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc",
-      "publishedAt": "2026-10-12T12:39:35+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "2e1c8cf377f85cc2a424",
-      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
-      "summary": "Michael Saylor’s Strategy said Bitcoin holdings reached 848,250 BTC after its latest purchase, while maintaining a $4.88 billion cash reserve.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-12T12:31:51+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "7fbced88d8ff14f06336",
-      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-      "publishedAt": "2026-10-12T12:01:53+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "f92c3748f56f7c8ba305",
-      "title": "Australia proposes leverage caps for crypto-settled derivatives",
-      "summary": "ASIC’s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-12T11:41:58+00:00",
-      "category": "market",
       "importance": "low"
     }
   ]
