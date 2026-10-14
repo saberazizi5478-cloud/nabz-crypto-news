@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-14T20:46:45.546816+00:00",
+  "updatedAt": "2026-10-14T23:30:14.694306+00:00",
   "news": [
+    {
+      "id": "c110003ab8dc99277d1b",
+      "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+      "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+      "publishedAt": "2026-10-14T21:46:04+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "e430c4803b54da2c4960",
+      "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+      "summary": "Illinois officials already agreed to delay implementation of a 0.2% tax on crypto assets, but industry-aligned organizations are pushing for summary judgment on the merits.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-14T20:56:22+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "9be99d8f3531bdf575b9",
       "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
@@ -1077,28 +1099,6 @@
       "url": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
       "publishedAt": "2026-10-12T15:27:09+00:00",
       "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "bc62854501004ec66607",
-      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
-      "publishedAt": "2026-10-12T15:00:00+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "ff44e621e18726db886b",
-      "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
-      "summary": "Evernorth’s share price rose by 5% as investors welcomed the Nasdaq debut of the first pure-play XRP digital asset treasury.",
-      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-12T14:18:49+00:00",
-      "category": "altcoin",
       "importance": "low"
     }
   ]
