@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-13T21:52:19.461886+00:00",
+  "updatedAt": "2026-10-14T01:15:41.489707+00:00",
   "news": [
+    {
+      "id": "4bffff79e04895a85e3a",
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "publishedAt": "2026-10-14T01:00:00+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "9a9097f43abaa0cb995e",
+      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+      "summary": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-13T23:28:19+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "08848bdfabd444bcf3d3",
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "publishedAt": "2026-10-13T23:23:05+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "8681ed7f453684e03d6c",
       "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
@@ -1067,39 +1100,6 @@
       "publishedAt": "2026-10-09T21:21:54+00:00",
       "category": "regulation",
       "importance": "high"
-    },
-    {
-      "id": "e03d8741b376a4ebe3b5",
-      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-      "summary": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-09T20:39:17+00:00",
-      "category": "market",
-      "importance": "high"
-    },
-    {
-      "id": "d53dc367e04ba1d522b0",
-      "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-      "summary": "The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodities industries.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-09T20:14:02+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "64cce5d2a71e052671d9",
-      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-      "summary": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without explanation.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-09T19:04:03+00:00",
-      "category": "usdt",
-      "importance": "low"
     }
   ]
 }
