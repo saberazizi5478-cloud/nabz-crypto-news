@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-10-14T12:03:33.164377+00:00",
+  "updatedAt": "2026-10-14T17:15:50.486553+00:00",
   "news": [
+    {
+      "id": "6bea2c24ff86ec79cf1a",
+      "title": "OCC report finds debanking efforts tied to crypto activities",
+      "summary": "The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-14T17:03:20+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "a7e8e1f7fb3009017df4",
+      "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
+      "summary": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-14T16:26:31+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "683c2d1ba3de7eff900a",
+      "title": "'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now",
+      "summary": "In a detailed technical post, the exchange argued Bitcoin’s multi-year migration to quantum-resistant cryptography must begin before any “Q-Day,” laying out requirements spanning block space, custody and dormant coins.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
+      "publishedAt": "2026-10-14T16:15:19+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "dd0005be298ffd03ea9d",
+      "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+      "publishedAt": "2026-10-14T15:35:36+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "cabd55a01ef7c8d80df3",
+      "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
+      "publishedAt": "2026-10-14T15:05:15+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "5865f6f15aee4e30590d",
+      "title": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
+      "summary": "September CPI hit 3.7%, above forecasts, sending Treasury yields higher and dragging crypto down with stocks.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds",
+      "publishedAt": "2026-10-14T14:51:44+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "23c805d2c073936106ef",
+      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+      "publishedAt": "2026-10-14T14:49:32+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "5bbafbb919982fbe4d83",
+      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+      "publishedAt": "2026-10-14T14:31:14+00:00",
+      "category": "market",
+      "importance": "high"
+    },
+    {
+      "id": "712b5f5693315f31d339",
+      "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+      "summary": "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-14T14:21:15+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "dc8b6bab8d5a783172c9",
+      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+      "publishedAt": "2026-10-14T14:08:43+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "32ba4a0d7a32c6453e7f",
+      "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
+      "summary": "Turkish police and intelligence officers reportedly seized cash, phones, jewelry and firearms at the crypto founder's address in Beşiktaş.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
+      "publishedAt": "2026-10-14T14:03:20+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "49a6f3d7a7cfa6c8f15f",
+      "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
+      "summary": "Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents new possible strategies for his controversial schemes.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
+      "publishedAt": "2026-10-14T13:41:21+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "35e29e0a04d6fc4c66db",
+      "title": "‘Bunker mode’ won’t protect your crypto, critics say",
+      "summary": "Even if Justin Drake’s prediction that AI could break cryptography proves correct, critics say “bunker mode” is an impractical suggestion that’s unlikely to protect your crypto.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-14T13:30:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "9f0a87b70e2fb7ff9eab",
+      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+      "publishedAt": "2026-10-14T13:07:45+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "dc3071d788b8dfe44957",
+      "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
+      "summary": "Remittance-sized crypto transfers from Canada to three Asian countries reached $2.36 billion, while transfers to the Philippines alone rose 28% to $61 million.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-14T13:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "811fc044839fa4b02ac9",
+      "title": "Qivalis wins Dutch e-money license for euro stablecoin",
+      "summary": "Qivalis said the Electronic Money Institution authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-14T12:53:41+00:00",
+      "category": "usdt",
+      "importance": "medium"
+    },
+    {
+      "id": "26a9696aed1751dd50e9",
+      "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+      "publishedAt": "2026-10-14T12:33:56+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "ececd96876351c86b32f",
       "title": "Can crypto users trust the supply chain behind hardware wallets?",
@@ -913,193 +1100,6 @@
       "publishedAt": "2026-10-12T11:41:58+00:00",
       "category": "market",
       "importance": "low"
-    },
-    {
-      "id": "550829e4176566fb0530",
-      "title": "Bitcoin Ranges Near $83K as Traders Look to US Inflation Data",
-      "summary": "October rate-hike odds have slumped, but analysts say Treasury yields at two-decade highs are still keeping a lid on risk appetite.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data",
-      "publishedAt": "2026-10-12T11:41:50+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "84c386b5d40eaace6d22",
-      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
-      "publishedAt": "2026-10-12T11:21:11+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "2629ae393add24904357",
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "summary": "Bitcoin traders braced for inflation-based volatility after BTC price action preserved key weekly support around $82,500.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-12T11:14:10+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "85b4623f72cf3b6de13a",
-      "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-      "publishedAt": "2026-10-12T11:02:38+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "fd96c638fed0f6e0918f",
-      "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
-      "publishedAt": "2026-10-12T10:57:37+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "c3c59596b859dcde1726",
-      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
-      "publishedAt": "2026-10-12T10:27:00+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "d9c537a83c992db20805",
-      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-      "publishedAt": "2026-10-12T10:20:54+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "99ccaaac86137315ac06",
-      "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
-      "summary": "Thet Li is accused of running the finances of a scam empire tied to $14 billion in Bitcoin the U.S. has moved to seize.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
-      "publishedAt": "2026-10-12T10:12:48+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "8d3f16386d435f66f51e",
-      "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
-      "summary": "Payward received full market approval from Dubai’s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-12T09:41:17+00:00",
-      "category": "market",
-      "importance": "high"
-    },
-    {
-      "id": "adae4a32ff25e873cbd5",
-      "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-      "summary": "Standard Chartered has launched custody for Ripple’s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-12T09:30:57+00:00",
-      "category": "usdt",
-      "importance": "medium"
-    },
-    {
-      "id": "7d57ec3d925c298aee3b",
-      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "اخبار اقتصاد کلان می‌توانند بر دارایی‌های پرریسک اثر بگذارند؛ جهت و شدت اثر از پیش قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
-      "publishedAt": "2026-10-12T08:58:24+00:00",
-      "category": "macro",
-      "importance": "medium"
-    },
-    {
-      "id": "cef7acd884e1d448362b",
-      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-      "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-12T08:45:58+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "80cc626f54d1ca421028",
-      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-      "publishedAt": "2026-10-12T07:49:40+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "2bacb33794803a710dd3",
-      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-      "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-12T06:30:21+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "aa236b7cb58c2c8f15a0",
-      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
-      "publishedAt": "2026-10-12T04:49:30+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "5d673823f2b4574b804a",
-      "title": "French lawmakers back reporting rule for crypto wallets over $112K",
-      "summary": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-12T04:45:15+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "c2ede984aa4550a579a6",
-      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
-      "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-12T01:21:29+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
