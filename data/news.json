@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-15T17:47:55.824758+00:00",
+  "updatedAt": "2026-10-15T21:27:08.395983+00:00",
   "news": [
+    {
+      "id": "6451a1523dd1d98a9b49",
+      "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+      "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+      "publishedAt": "2026-10-15T20:31:04+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "868885c0aeed1abc51ba",
+      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+      "summary": "The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance’s 2023 settlement with US authorities.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-15T20:21:11+00:00",
+      "category": "exchange",
+      "importance": "medium"
+    },
+    {
+      "id": "552e43ae5e35357af6a2",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-15T19:37:27+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "f6bd671bc446f947da58",
+      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+      "summary": "In a note to investors, Matt Hougan used a “Choose Your Own Adventure” framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoin higher.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+      "publishedAt": "2026-10-15T19:16:04+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "f000e25a533f81d8faef",
+      "title": "At the White House, crypto policy vacancy looms large",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+      "publishedAt": "2026-10-15T18:48:02+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "7ea5570bb47ee1ef0048",
       "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
@@ -1045,61 +1100,6 @@
       "publishedAt": "2026-10-13T16:14:50+00:00",
       "category": "market",
       "importance": "low"
-    },
-    {
-      "id": "210d51355636ea3dfad5",
-      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
-      "summary": "Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-13T15:57:55+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "dccf44e5780136a13b49",
-      "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
-      "publishedAt": "2026-10-13T15:52:09+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "6d4ffe82a9cf89eddf3f",
-      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
-      "summary": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea’s tech-stock rout.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-13T15:27:32+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "4dc8da47f7436da8fe57",
-      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-      "publishedAt": "2026-10-13T15:24:52+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "e2b9a6d9720eb28f6334",
-      "title": "Is Bitcoin kidding itself about the Lightning Network?",
-      "summary": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-13T13:30:00+00:00",
-      "category": "btc",
-      "importance": "medium"
     }
   ]
 }
