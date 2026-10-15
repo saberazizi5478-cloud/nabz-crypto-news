@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-14T23:30:14.694306+00:00",
+  "updatedAt": "2026-10-15T01:52:23.624387+00:00",
   "news": [
+    {
+      "id": "eeb792cd27eeb0af0998",
+      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "summary": "VanEck initially filed an S-1 registration statement for the exchange-traded fund in October last year.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-15T01:21:52+00:00",
+      "category": "exchange",
+      "importance": "high"
+    },
     {
       "id": "c110003ab8dc99277d1b",
       "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
@@ -1088,17 +1099,6 @@
       "url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
       "publishedAt": "2026-10-12T15:56:35+00:00",
       "category": "altcoin",
-      "importance": "low"
-    },
-    {
-      "id": "95210368726ce82ecbae",
-      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
-      "publishedAt": "2026-10-12T15:27:09+00:00",
-      "category": "market",
       "importance": "low"
     }
   ]
