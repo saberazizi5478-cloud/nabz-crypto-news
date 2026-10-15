@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-10-15T12:52:52.965470+00:00",
+  "updatedAt": "2026-10-15T17:47:55.824758+00:00",
   "news": [
+    {
+      "id": "7ea5570bb47ee1ef0048",
+      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "summary": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-15T17:14:45+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "4c0dad8df2c8154522a8",
+      "title": "Sweden revisits digital krona as ECB advances digital euro plans",
+      "summary": "Sweden’s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-15T16:49:59+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "45d8bbc5b3f4950d869c",
+      "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
+      "summary": "The first major integration since Mastercard’s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single API, with agentic commerce support planned.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
+      "publishedAt": "2026-10-15T16:28:50+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "b2d889dd4fd576ab4579",
+      "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+      "summary": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-15T15:46:05+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "a83c125b498ca7ebaf56",
+      "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
+      "summary": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
+      "publishedAt": "2026-10-15T15:20:41+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "71ea845ef157d6de13a8",
+      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+      "summary": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-15T15:10:44+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "393d46841b8b01ee2faf",
+      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+      "publishedAt": "2026-10-15T15:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "858d6794cdfcc2ae493d",
+      "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+      "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
+      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+      "publishedAt": "2026-10-15T14:27:18+00:00",
+      "category": "altcoin",
+      "importance": "low"
+    },
+    {
+      "id": "97c2fd8e758be9474553",
+      "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+      "summary": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-15T14:22:43+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "f323b92fcff09b94bb05",
+      "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
+      "summary": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-15T14:16:55+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "4090b3153f810d5d24f8",
+      "title": "Ledger Announces Atom Touchscreen Android Device",
+      "summary": "Ledger says the Android-based Atom will carry anti-tamper protections and be sold only on its site, as it probes tampered resold wallets.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
+      "publishedAt": "2026-10-15T13:32:21+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "121b696e152774809f8b",
+      "title": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
+      "summary": "The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the “anti-crypto army”?",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-15T13:30:00+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "7119e6c148fd402c5191",
       "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
@@ -968,138 +1100,6 @@
       "publishedAt": "2026-10-13T13:30:00+00:00",
       "category": "btc",
       "importance": "medium"
-    },
-    {
-      "id": "552e43ae5e35357af6a2",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-13T13:26:42+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "15894007b25be006b57c",
-      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
-      "summary": "Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-13T12:22:24+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "d58e50e288c9c68e4555",
-      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
-      "publishedAt": "2026-10-13T11:58:04+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "dd9e3763356d7e9bb8d3",
-      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
-      "publishedAt": "2026-10-13T11:56:04+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "daacf46c25bd2bc7f165",
-      "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
-      "summary": "Ledger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-      "publishedAt": "2026-10-13T11:53:15+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "b5be4cbd5b25dfd1c924",
-      "title": "Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down",
-      "summary": "Crypto majors are red, alts are down bad and onchain is facing capitulation. This was not the ‘Uptober’ that was promised…",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
-      "publishedAt": "2026-10-13T11:40:51+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "d7be066767ff5fc20643",
-      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
-      "publishedAt": "2026-10-13T11:26:45+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "b534fd1184c30f32274c",
-      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
-      "summary": "New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-13T11:11:27+00:00",
-      "category": "market",
-      "importance": "high"
-    },
-    {
-      "id": "1715c74b32d20b7cfafd",
-      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
-      "publishedAt": "2026-10-13T11:06:39+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "03b19eb02b9e1f0e4270",
-      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
-      "publishedAt": "2026-10-13T11:02:47+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "55b464662a90bed38e76",
-      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
-      "summary": "A judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
-      "publishedAt": "2026-10-13T10:51:33+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "f8d694ca755bb94b24ec",
-      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-      "publishedAt": "2026-10-13T10:46:57+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
