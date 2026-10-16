@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-15T23:53:56.924199+00:00",
+  "updatedAt": "2026-10-16T04:36:41.261732+00:00",
   "news": [
+    {
+      "id": "4ff7bba93cd6863a65ba",
+      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+      "publishedAt": "2026-10-16T04:29:19+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "cb8d8c9ab1e4a0427e65",
+      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+      "publishedAt": "2026-10-16T04:14:22+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "0ad0134eea022d20cde5",
       "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
@@ -1078,28 +1100,6 @@
       "publishedAt": "2026-10-13T19:07:04+00:00",
       "category": "market",
       "importance": "low"
-    },
-    {
-      "id": "a50fedd70c6d1cda083f",
-      "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-      "summary": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
-      "publishedAt": "2026-10-13T18:15:05+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "6855ba8475367d2c9e16",
-      "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
-      "summary": "A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-13T16:51:25+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
