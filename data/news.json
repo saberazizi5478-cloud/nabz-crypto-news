@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-16T18:25:48.819610+00:00",
+  "updatedAt": "2026-10-16T21:44:38.348929+00:00",
   "news": [
+    {
+      "id": "11f98b39d940238f1241",
+      "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+      "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+      "publishedAt": "2026-10-16T19:36:04+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "8bcb122f300751e3d37c",
+      "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+      "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and the Middle East.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+      "publishedAt": "2026-10-16T18:55:37+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
     {
       "id": "862cb8b848e63a11d8f4",
       "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
@@ -1078,28 +1100,6 @@
       "publishedAt": "2026-10-14T13:07:45+00:00",
       "category": "regulation",
       "importance": "high"
-    },
-    {
-      "id": "dc3071d788b8dfe44957",
-      "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
-      "summary": "Remittance-sized crypto transfers from Canada to three Asian countries reached $2.36 billion, while transfers to the Philippines alone rose 28% to $61 million.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-14T13:00:00+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "811fc044839fa4b02ac9",
-      "title": "Qivalis wins Dutch e-money license for euro stablecoin",
-      "summary": "Qivalis said the Electronic Money Institution authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-14T12:53:41+00:00",
-      "category": "usdt",
-      "importance": "medium"
     }
   ]
 }
