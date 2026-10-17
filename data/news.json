@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-17T08:50:58.155544+00:00",
+  "updatedAt": "2026-10-17T12:59:36.415656+00:00",
   "news": [
+    {
+      "id": "29dc99b21dbfca01ac01",
+      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+      "publishedAt": "2026-10-17T12:00:00+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "2d0ba556e5cc9055319d",
+      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+      "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-17T10:00:07+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
     {
       "id": "34bd1d562b79d33de4d2",
       "title": "Bitget to discontinue services for some users in one-off exercise",
@@ -1076,28 +1098,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
       "publishedAt": "2026-10-14T14:08:43+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "32ba4a0d7a32c6453e7f",
-      "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
-      "summary": "Turkish police and intelligence officers reportedly seized cash, phones, jewelry and firearms at the crypto founder's address in Beşiktaş.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
-      "publishedAt": "2026-10-14T14:03:20+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "49a6f3d7a7cfa6c8f15f",
-      "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
-      "summary": "Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents new possible strategies for his controversial schemes.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
-      "publishedAt": "2026-10-14T13:41:21+00:00",
       "category": "regulation",
       "importance": "high"
     }
