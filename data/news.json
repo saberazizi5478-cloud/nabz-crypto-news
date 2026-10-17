@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-16T23:56:51.714269+00:00",
+  "updatedAt": "2026-10-17T04:33:01.996499+00:00",
   "news": [
+    {
+      "id": "435c5f0a61ba2472bf76",
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "publishedAt": "2026-10-17T02:30:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "11f98b39d940238f1241",
       "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
@@ -1089,17 +1100,6 @@
       "publishedAt": "2026-10-14T13:30:00+00:00",
       "category": "market",
       "importance": "low"
-    },
-    {
-      "id": "9f0a87b70e2fb7ff9eab",
-      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
-      "publishedAt": "2026-10-14T13:07:45+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
