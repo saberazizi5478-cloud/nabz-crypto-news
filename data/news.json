@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-17T16:28:00.746965+00:00",
+  "updatedAt": "2026-10-17T18:51:53.162145+00:00",
   "news": [
+    {
+      "id": "fa1a384d6d966fc71595",
+      "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
+      "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 million—days after the PAC expanded its map to 32 House races.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+      "publishedAt": "2026-10-17T17:01:03+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "17b13e948a09591c5272",
+      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+      "publishedAt": "2026-10-17T17:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "6a0ee0dbfbe877aa9613",
       "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
@@ -1077,28 +1099,6 @@
       "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
       "publishedAt": "2026-10-14T15:35:36+00:00",
       "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "cabd55a01ef7c8d80df3",
-      "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
-      "publishedAt": "2026-10-14T15:05:15+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "5865f6f15aee4e30590d",
-      "title": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
-      "summary": "September CPI hit 3.7%, above forecasts, sending Treasury yields higher and dragging crypto down with stocks.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds",
-      "publishedAt": "2026-10-14T14:51:44+00:00",
-      "category": "btc",
       "importance": "low"
     }
   ]
