@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-17T12:59:36.415656+00:00",
+  "updatedAt": "2026-10-17T16:28:00.746965+00:00",
   "news": [
+    {
+      "id": "6a0ee0dbfbe877aa9613",
+      "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+      "summary": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+      "publishedAt": "2026-10-17T16:01:03+00:00",
+      "category": "btc",
+      "importance": "medium"
+    },
+    {
+      "id": "496fe609eb075e2c3336",
+      "title": "Citrini sees a tokenization boom. The harder question is who profits",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+      "publishedAt": "2026-10-17T15:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "93fc463cab59edef1dd1",
+      "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+      "publishedAt": "2026-10-17T14:00:00+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "17a7d44b42179733aaab",
+      "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+      "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+      "publishedAt": "2026-10-17T13:01:04+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "29dc99b21dbfca01ac01",
       "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
@@ -1056,50 +1100,6 @@
       "publishedAt": "2026-10-14T14:51:44+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "23c805d2c073936106ef",
-      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
-      "publishedAt": "2026-10-14T14:49:32+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "5bbafbb919982fbe4d83",
-      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-      "publishedAt": "2026-10-14T14:31:14+00:00",
-      "category": "market",
-      "importance": "high"
-    },
-    {
-      "id": "712b5f5693315f31d339",
-      "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
-      "summary": "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-14T14:21:15+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "dc8b6bab8d5a783172c9",
-      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-      "publishedAt": "2026-10-14T14:08:43+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
