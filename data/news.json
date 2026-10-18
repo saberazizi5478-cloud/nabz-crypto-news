@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-18T20:48:41.248538+00:00",
+  "updatedAt": "2026-10-18T23:16:56.979732+00:00",
   "news": [
+    {
+      "id": "8f7855cf402558f1cbbd",
+      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+      "summary": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-18T22:58:17+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "8c0a2bcaf78f13f1428d",
       "title": "The White House's crypto chief departs: State of Crypto",
@@ -1087,17 +1098,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
       "publishedAt": "2026-10-15T03:57:45+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "d90990486d58ebbf04d8",
-      "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
-      "summary": "TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-15T03:29:22+00:00",
       "category": "btc",
       "importance": "low"
     }
