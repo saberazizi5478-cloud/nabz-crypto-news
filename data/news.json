@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-18T01:34:08.810352+00:00",
+  "updatedAt": "2026-10-18T06:37:51.783685+00:00",
   "news": [
+    {
+      "id": "a9640f0e0a3642e5583a",
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "summary": "The round brings AIsa’s total funding to more than $9 million.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-18T06:26:53+00:00",
+      "category": "usdt",
+      "importance": "medium"
+    },
     {
       "id": "201ccde0ca36a1e4a0ee",
       "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
@@ -1089,17 +1100,6 @@
       "publishedAt": "2026-10-14T16:26:31+00:00",
       "category": "usdt",
       "importance": "high"
-    },
-    {
-      "id": "683c2d1ba3de7eff900a",
-      "title": "'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now",
-      "summary": "In a detailed technical post, the exchange argued Bitcoin’s multi-year migration to quantum-resistant cryptography must begin before any “Q-Day,” laying out requirements spanning block space, custody and dormant coins.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
-      "publishedAt": "2026-10-14T16:15:19+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
