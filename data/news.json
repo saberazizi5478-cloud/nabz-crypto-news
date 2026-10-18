@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-18T11:45:31.205101+00:00",
+  "updatedAt": "2026-10-18T14:52:54.414476+00:00",
   "news": [
+    {
+      "id": "fb4c99eaa11794faf225",
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "publishedAt": "2026-10-18T14:00:00+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "011692c9d9dd856167b0",
+      "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+      "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle’s USDC most sensitive.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+      "publishedAt": "2026-10-18T13:01:04+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "83ea2da1c844a470d9ce",
+      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "publishedAt": "2026-10-18T13:00:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "ec816aa276ea76595333",
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "publishedAt": "2026-10-18T13:00:00+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "b5112167703fe2a4781e",
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+      "publishedAt": "2026-10-18T12:00:00+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
     {
       "id": "eb2f9423bf8d7279eb4c",
       "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
@@ -1045,61 +1100,6 @@
       "publishedAt": "2026-10-14T20:16:05+00:00",
       "category": "exchange",
       "importance": "low"
-    },
-    {
-      "id": "3fb187dc12a95ae5e5df",
-      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-      "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
-      "publishedAt": "2026-10-14T19:46:03+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "c482283076fa7909679a",
-      "title": "Solana Sets a Date for Its Next Major Upgrade",
-      "summary": "Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote transactions out of blocks entirely.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
-      "publishedAt": "2026-10-14T19:16:04+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "a7666c967f4ef5e725e5",
-      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-      "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a “significant e-money token.“",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-14T19:03:52+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "a00eaa2d50903b849c49",
-      "title": "US authorities dismantle crypto scam network that stole tens of millions",
-      "summary": "Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites linked to investment scams that targeted Russian-speaking Americans.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-14T17:56:45+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "d3359cc57d1e97ba2242",
-      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-      "summary": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
-      "publishedAt": "2026-10-14T17:46:05+00:00",
-      "category": "btc",
-      "importance": "high"
     }
   ]
 }
