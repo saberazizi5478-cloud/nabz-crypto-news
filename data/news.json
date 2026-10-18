@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-18T18:09:26.987512+00:00",
+  "updatedAt": "2026-10-18T20:48:41.248538+00:00",
   "news": [
+    {
+      "id": "8c0a2bcaf78f13f1428d",
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "publishedAt": "2026-10-18T18:30:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "590257f6ddbaa8cd0c7b",
       "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
@@ -1089,17 +1100,6 @@
       "publishedAt": "2026-10-15T03:29:22+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "eeb792cd27eeb0af0998",
-      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-      "summary": "VanEck initially filed an S-1 registration statement for the exchange-traded fund in October last year.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-15T01:21:52+00:00",
-      "category": "exchange",
-      "importance": "high"
     }
   ]
 }
