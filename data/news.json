@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-18T06:37:51.783685+00:00",
+  "updatedAt": "2026-10-18T11:45:31.205101+00:00",
   "news": [
+    {
+      "id": "eb2f9423bf8d7279eb4c",
+      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-18T10:43:12+00:00",
+      "category": "market",
+      "importance": "medium"
+    },
+    {
+      "id": "0549911662ae6b0ec6ff",
+      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-18T09:14:26+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "a9640f0e0a3642e5583a",
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
@@ -1077,28 +1099,6 @@
       "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
       "publishedAt": "2026-10-14T17:46:05+00:00",
       "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "6bea2c24ff86ec79cf1a",
-      "title": "OCC report finds debanking efforts tied to crypto activities",
-      "summary": "The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-14T17:03:20+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "a7e8e1f7fb3009017df4",
-      "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
-      "summary": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-14T16:26:31+00:00",
-      "category": "usdt",
       "importance": "high"
     }
   ]
