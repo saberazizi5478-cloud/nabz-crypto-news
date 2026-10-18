@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-17T23:28:34.541587+00:00",
+  "updatedAt": "2026-10-18T01:34:08.810352+00:00",
   "news": [
+    {
+      "id": "201ccde0ca36a1e4a0ee",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "publishedAt": "2026-10-18T01:06:35+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
     {
       "id": "fa1a384d6d966fc71595",
       "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
@@ -1088,17 +1099,6 @@
       "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
       "publishedAt": "2026-10-14T16:15:19+00:00",
       "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "dd0005be298ffd03ea9d",
-      "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
-      "publishedAt": "2026-10-14T15:35:36+00:00",
-      "category": "market",
       "importance": "low"
     }
   ]
