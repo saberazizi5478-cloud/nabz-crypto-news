@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-19T20:14:42.436576+00:00",
+  "updatedAt": "2026-10-19T23:47:11.500611+00:00",
   "news": [
+    {
+      "id": "477149928081027180ee",
+      "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
+      "summary": "The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
+      "publishedAt": "2026-10-19T21:46:05+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "ee3fd575628d864d0277",
+      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+      "summary": "XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
+      "publishedAt": "2026-10-19T20:46:05+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "dd5b156f17cbab0ee5e4",
+      "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+      "summary": "A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in November, but the congresswoman already won a special election in the district.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-19T20:22:41+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "a7af9ba6945185b3f3fa",
+      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+      "publishedAt": "2026-10-19T20:21:13+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "552e43ae5e35357af6a2",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-19T20:02:30+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "7f75e0ee52df37206331",
       "title": "Market participants weigh in on SEC’s proposed crypto regulations",
@@ -1045,61 +1100,6 @@
       "publishedAt": "2026-10-16T05:53:58+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "4ff7bba93cd6863a65ba",
-      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-      "publishedAt": "2026-10-16T04:29:19+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "cb8d8c9ab1e4a0427e65",
-      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-      "publishedAt": "2026-10-16T04:14:22+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "0ad0134eea022d20cde5",
-      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "summary": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-15T23:34:19+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "1aea686bada8b7fa0498",
-      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-      "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-15T22:42:58+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "6451a1523dd1d98a9b49",
-      "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
-      "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
-      "publishedAt": "2026-10-15T20:31:04+00:00",
-      "category": "btc",
-      "importance": "high"
     }
   ]
 }
