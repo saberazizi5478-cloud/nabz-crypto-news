@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-19T01:23:14.481276+00:00",
+  "updatedAt": "2026-10-19T06:54:59.921142+00:00",
   "news": [
+    {
+      "id": "899497b547d5178cacd4",
+      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+      "publishedAt": "2026-10-19T06:23:16+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "abf7eb1231605ca11abe",
+      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+      "summary": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s start date back two years.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-19T05:14:06+00:00",
+      "category": "regulation",
+      "importance": "low"
+    },
+    {
+      "id": "7a439832e7fcddd44681",
+      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+      "publishedAt": "2026-10-19T03:36:58+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "2eef2675d2b428dc8e6e",
+      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+      "publishedAt": "2026-10-19T02:00:00+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "13dd70da16b630c59b0d",
       "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
@@ -1056,50 +1100,6 @@
       "publishedAt": "2026-10-15T09:14:28+00:00",
       "category": "btc",
       "importance": "high"
-    },
-    {
-      "id": "ae24e2d4b3f23e5a91a6",
-      "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
-      "summary": "Bitcoin ETFs have recorded $151 million in net outflows since Monday, after investors withdrew $681 million the previous week.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-15T07:23:43+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "29312798aef0eeaa857f",
-      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
-      "summary": "South Korea is proposing tougher cybersecurity assessments after a review identified security deficiencies at 130 financial firms.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-15T05:52:21+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "4ecbb268983b7ce07db4",
-      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
-      "summary": "The consultation follows Parliament’s passage of digital asset legislation in April, with Australia’s securities regulator now proposing capital, custody and trading standards for crypto platforms.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-15T05:00:40+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "3a54fb3b4278826dc6f4",
-      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-      "publishedAt": "2026-10-15T04:25:15+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
