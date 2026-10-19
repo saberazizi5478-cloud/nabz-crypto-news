@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-18T23:16:56.979732+00:00",
+  "updatedAt": "2026-10-19T01:23:14.481276+00:00",
   "news": [
+    {
+      "id": "13dd70da16b630c59b0d",
+      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+      "summary": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-19T01:03:27+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "2583d4526ca252e764a3",
+      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+      "publishedAt": "2026-10-18T23:28:06+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "8f7855cf402558f1cbbd",
       "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
@@ -1076,28 +1098,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
       "publishedAt": "2026-10-15T04:25:15+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "751bed842837f6f71e1f",
-      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
-      "publishedAt": "2026-10-15T04:13:56+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "65386932f158963f23d4",
-      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-      "publishedAt": "2026-10-15T03:57:45+00:00",
       "category": "btc",
       "importance": "low"
     }
