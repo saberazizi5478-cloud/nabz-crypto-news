@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-10-20T15:08:18.610306+00:00",
+  "updatedAt": "2026-10-20T19:19:08.113416+00:00",
   "news": [
+    {
+      "id": "8de569e95581cb7c4a1e",
+      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+      "summary": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
+      "publishedAt": "2026-10-20T18:31:04+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "c4873ad5e8a24f5d40a1",
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+      "publishedAt": "2026-10-20T18:26:29+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "14cba2dc897c6e907dc5",
+      "title": "Bitcoin's Next Move: Here's What to Watch",
+      "summary": "Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
+      "publishedAt": "2026-10-20T17:45:04+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "53b5b15ce1719e983614",
+      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+      "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet’s holdings if it allocates the full amount.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-20T17:40:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "9d498bf479df8f46dba0",
+      "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
+      "summary": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
+      "publishedAt": "2026-10-20T17:03:26+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "de2ca794af617f6d1d20",
+      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+      "publishedAt": "2026-10-20T17:02:31+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "dde07a4106f656170598",
+      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+      "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-20T16:47:48+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "8031c26fd04862d9b58b",
+      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
+      "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-20T16:38:13+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "4c82a4f7da0b71bd25a4",
+      "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
+      "summary": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-20T16:23:17+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "d4891712c13d2dfcee7b",
+      "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+      "summary": "Strategy’s co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here’s what you need to know.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
+      "publishedAt": "2026-10-20T16:17:02+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "06e6a2475224bf264b6b",
+      "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
+      "summary": "High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-20T16:14:09+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "8b1856feaf0fd5b820df",
       "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
@@ -979,127 +1100,6 @@
       "publishedAt": "2026-10-17T16:01:03+00:00",
       "category": "btc",
       "importance": "medium"
-    },
-    {
-      "id": "496fe609eb075e2c3336",
-      "title": "Citrini sees a tokenization boom. The harder question is who profits",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
-      "publishedAt": "2026-10-17T15:00:00+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "93fc463cab59edef1dd1",
-      "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-      "publishedAt": "2026-10-17T14:00:00+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "17a7d44b42179733aaab",
-      "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
-      "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
-      "publishedAt": "2026-10-17T13:01:04+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "29dc99b21dbfca01ac01",
-      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-      "publishedAt": "2026-10-17T12:00:00+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "2d0ba556e5cc9055319d",
-      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-      "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-17T10:00:07+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "34bd1d562b79d33de4d2",
-      "title": "Bitget to discontinue services for some users in one-off exercise",
-      "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-17T07:26:57+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "435c5f0a61ba2472bf76",
-      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-      "publishedAt": "2026-10-17T02:30:00+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "11f98b39d940238f1241",
-      "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-      "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-      "publishedAt": "2026-10-16T19:36:04+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "8bcb122f300751e3d37c",
-      "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
-      "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and the Middle East.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
-      "publishedAt": "2026-10-16T18:55:37+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "862cb8b848e63a11d8f4",
-      "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-      "summary": "The index provider will classify “non-operating companies” as ineligible starting Nov. 30, targeting firms whose balance sheets are dominated by a single asset.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
-      "publishedAt": "2026-10-16T18:16:04+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "b0ed5d0d5afa137cf5d5",
-      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-      "summary": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown’s return to the Senate.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-16T17:30:09+00:00",
-      "category": "market",
-      "importance": "low"
     }
   ]
 }
