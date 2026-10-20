@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-10-20T19:19:08.113416+00:00",
+  "updatedAt": "2026-10-20T22:42:44.840329+00:00",
   "news": [
+    {
+      "id": "3e3218437757207f87f3",
+      "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+      "summary": "J.P. Morgan Asset Management’s 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn’t adding it to its main portfolio models.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+      "publishedAt": "2026-10-20T21:16:04+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "83a4f26ee865aa6abcbb",
+      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+      "publishedAt": "2026-10-20T21:12:21+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "d719cf346debf8397df5",
+      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+      "publishedAt": "2026-10-20T20:46:04+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "b613e8409dd9d07fd991",
+      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC’s public comment period comes to a close.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-20T20:38:00+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "ff421581c018f3402bb5",
+      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+      "summary": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
+      "publishedAt": "2026-10-20T20:16:04+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "5aa033958b1ffd87098b",
+      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+      "summary": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-20T19:59:39+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "fd3fa5e8ef2468a63c3f",
+      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+      "summary": "FINMA waived the diversification rules for the fund but leaned hard on custody and investor-protection safeguards.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
+      "publishedAt": "2026-10-20T19:31:04+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "8de569e95581cb7c4a1e",
       "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
@@ -1023,83 +1100,6 @@
       "publishedAt": "2026-10-18T12:00:00+00:00",
       "category": "exchange",
       "importance": "low"
-    },
-    {
-      "id": "eb2f9423bf8d7279eb4c",
-      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-      "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-18T10:43:12+00:00",
-      "category": "market",
-      "importance": "medium"
-    },
-    {
-      "id": "0549911662ae6b0ec6ff",
-      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-      "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-18T09:14:26+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "a9640f0e0a3642e5583a",
-      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "summary": "The round brings AIsa’s total funding to more than $9 million.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-18T06:26:53+00:00",
-      "category": "usdt",
-      "importance": "medium"
-    },
-    {
-      "id": "201ccde0ca36a1e4a0ee",
-      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-      "publishedAt": "2026-10-18T01:06:35+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "fa1a384d6d966fc71595",
-      "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
-      "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 million—days after the PAC expanded its map to 32 House races.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
-      "publishedAt": "2026-10-17T17:01:03+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "17b13e948a09591c5272",
-      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
-      "publishedAt": "2026-10-17T17:00:00+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "6a0ee0dbfbe877aa9613",
-      "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-      "summary": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
-      "publishedAt": "2026-10-17T16:01:03+00:00",
-      "category": "btc",
-      "importance": "medium"
     }
   ]
 }
