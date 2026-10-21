@@ -1,6 +1,160 @@
 {
-  "updatedAt": "2026-10-21T06:04:36.405187+00:00",
+  "updatedAt": "2026-10-21T11:55:48.920164+00:00",
   "news": [
+    {
+      "id": "69b9249fc33c155eda7a",
+      "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
+      "summary": "The rule sets reserve, redemption and risk standards for issuers, but the OCC has yet to say when it will begin accepting applications.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+      "publishedAt": "2026-10-21T11:52:23+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "e6def5232248eedc16ce",
+      "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+      "publishedAt": "2026-10-21T11:15:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "9e0962f2d88429d05dd9",
+      "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+      "publishedAt": "2026-10-21T11:00:00+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "0b93d128274e8339beb9",
+      "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
+      "summary": "PancakeSwap’s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain’s DeFi activity expands.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-21T10:50:52+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "ee327954f3390a667a86",
+      "title": "France proposes liability for crypto exchanges offering DeFi access",
+      "summary": "French authorities want crypto exchanges to conduct checks on DeFi protocols and face liability for certain customer losses under proposed changes to EU crypto rules.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-21T10:46:00+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "6c9f1cee3b59f1cf4108",
+      "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
+      "summary": "Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-21T10:39:13+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "005303216cb5be632040",
+      "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
+      "publishedAt": "2026-10-21T10:34:37+00:00",
+      "category": "market",
+      "importance": "medium"
+    },
+    {
+      "id": "81674b2dda4150f50301",
+      "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
+      "publishedAt": "2026-10-21T10:30:40+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "43ad2388ebb03a85a0b7",
+      "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
+      "summary": "Lloyds drew the most complaints despite having no published policy restricting crypto transfers, according to a Stand With Crypto report.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381475/uk-banks-hit-with-10000-complaints-over-blocked-crypto-transfers-in-90-days-report",
+      "publishedAt": "2026-10-21T10:29:41+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "70c3c2c3cf44d4c6f6db",
+      "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
+      "summary": "The companies will assess safeguards for travelers and whether stablecoins can speed up trade settlement between South Korea and Japan.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-21T10:22:44+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "e483a8575e859c4a4ac0",
+      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+      "summary": "Wallets linked to the $295 million April hack still held $138 million in Ether after sending another $46 million to the mixer Wednesday.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-21T10:13:52+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "f395a3e3a7221e90da50",
+      "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+      "publishedAt": "2026-10-21T09:23:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "d62d4a550cf195f43b04",
+      "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
+      "publishedAt": "2026-10-21T08:47:11+00:00",
+      "category": "usdt",
+      "importance": "medium"
+    },
+    {
+      "id": "fbfdc12d573d94cba327",
+      "title": "Ether ETF outflows continue, pass $1B in October so far",
+      "summary": "US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-21T08:11:50+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
     {
       "id": "933fff426ec4ba77ee42",
       "title": "Malaysia central bank launches DLT platform for tokenized bonds",
@@ -945,160 +1099,6 @@
       "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
       "publishedAt": "2026-10-19T09:12:39+00:00",
       "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "f187c23c58bb1d8ea39c",
-      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
-      "summary": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-19T08:58:45+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "755dae6a0c7befb95aab",
-      "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
-      "summary": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-19T07:54:13+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "899497b547d5178cacd4",
-      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-      "publishedAt": "2026-10-19T06:23:16+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "abf7eb1231605ca11abe",
-      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-      "summary": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s start date back two years.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-19T05:14:06+00:00",
-      "category": "regulation",
-      "importance": "low"
-    },
-    {
-      "id": "7a439832e7fcddd44681",
-      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-      "publishedAt": "2026-10-19T03:36:58+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "2eef2675d2b428dc8e6e",
-      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
-      "publishedAt": "2026-10-19T02:00:00+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "13dd70da16b630c59b0d",
-      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-      "summary": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-19T01:03:27+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "2583d4526ca252e764a3",
-      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-      "publishedAt": "2026-10-18T23:28:06+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "8f7855cf402558f1cbbd",
-      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
-      "summary": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-18T22:58:17+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "8c0a2bcaf78f13f1428d",
-      "title": "The White House's crypto chief departs: State of Crypto",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
-      "publishedAt": "2026-10-18T18:30:00+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "590257f6ddbaa8cd0c7b",
-      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-      "publishedAt": "2026-10-18T16:33:00+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "44114056d873450ea9eb",
-      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
-      "publishedAt": "2026-10-18T16:00:00+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "90fbbe05d2d2cd432476",
-      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
-      "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
-      "publishedAt": "2026-10-18T15:01:04+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "fb4c99eaa11794faf225",
-      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
-      "publishedAt": "2026-10-18T14:00:00+00:00",
-      "category": "usdt",
       "importance": "low"
     }
   ]
