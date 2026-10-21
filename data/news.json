@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-21T20:42:25.042970+00:00",
+  "updatedAt": "2026-10-21T23:42:08.038212+00:00",
   "news": [
+    {
+      "id": "5a01fc281928fc8b27b0",
+      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "summary": "Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing against changes to provisions on yield.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-21T21:53:48+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
     {
       "id": "27f49eef7142b479eaa9",
       "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
@@ -1087,17 +1098,6 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-10-19T17:24:49+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "e1541b326d27e3d67dcd",
-      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
-      "publishedAt": "2026-10-19T16:47:00+00:00",
       "category": "regulation",
       "importance": "high"
     }
