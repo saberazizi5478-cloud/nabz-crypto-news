@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-21T17:16:13.226366+00:00",
+  "updatedAt": "2026-10-21T20:42:25.042970+00:00",
   "news": [
+    {
+      "id": "27f49eef7142b479eaa9",
+      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+      "summary": "The investment will support Peso’s expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local banking networks.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-21T20:26:07+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "260f3706af35f8699317",
+      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+      "summary": "The US President detailed many schemes defrauding Americans, but referred only to “cybercurrency“ related to scams.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-21T20:19:39+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "068e7d2df8056a703af9",
+      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+      "summary": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-21T17:57:39+00:00",
+      "category": "regulation",
+      "importance": "low"
+    },
+    {
+      "id": "44b0db1cc09d032d4176",
+      "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+      "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
+      "publishedAt": "2026-10-21T17:31:03+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "cd82229c2b7e333d1c08",
+      "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+      "summary": "The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-21T17:25:00+00:00",
+      "category": "regulation",
+      "importance": "low"
+    },
     {
       "id": "f5ffafc9394f791df17b",
       "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
@@ -1045,61 +1100,6 @@
       "publishedAt": "2026-10-19T16:47:00+00:00",
       "category": "regulation",
       "importance": "high"
-    },
-    {
-      "id": "c1010984a9a55826c6ac",
-      "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
-      "summary": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the “Noah Doe” lawsuit.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
-      "publishedAt": "2026-10-19T16:46:05+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "7f4747c073c7ff25a465",
-      "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
-      "summary": "The transaction would give Metaplanet access to US capital markets, where it plans to use preferred stock offerings to finance additional Bitcoin purchases.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-19T16:41:55+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "2541492f8e3d71e0bace",
-      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
-      "summary": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-19T16:30:18+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "5a13c56d856b6a1b4166",
-      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
-      "summary": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-19T16:05:57+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "7029ed8ef6a16cb80828",
-      "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
-      "summary": "Bitcoin keeps limping back to the same floor while $108 oil and 5% yields weigh on risk assets. The chart shows a coiled spring, not a trend.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
-      "publishedAt": "2026-10-19T16:05:09+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
