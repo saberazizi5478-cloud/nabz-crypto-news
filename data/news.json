@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-20T22:42:44.840329+00:00",
+  "updatedAt": "2026-10-21T01:01:13.928162+00:00",
   "news": [
+    {
+      "id": "5e60c3d2ea5ce6467dd2",
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "summary": "The network’s validators approved a recovery plan and opened claims until May 1, 2027.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-20T23:26:02+00:00",
+      "category": "security",
+      "importance": "high"
+    },
     {
       "id": "3e3218437757207f87f3",
       "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
@@ -1089,17 +1100,6 @@
       "publishedAt": "2026-10-18T13:00:00+00:00",
       "category": "regulation",
       "importance": "high"
-    },
-    {
-      "id": "b5112167703fe2a4781e",
-      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
-      "publishedAt": "2026-10-18T12:00:00+00:00",
-      "category": "exchange",
-      "importance": "low"
     }
   ]
 }
