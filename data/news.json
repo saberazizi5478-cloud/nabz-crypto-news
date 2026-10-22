@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-21T23:42:08.038212+00:00",
+  "updatedAt": "2026-10-22T01:55:21.976210+00:00",
   "news": [
+    {
+      "id": "850311e97a14df3a83a5",
+      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
+      "summary": "Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-22T00:44:00+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "5a01fc281928fc8b27b0",
       "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
@@ -1087,17 +1098,6 @@
       "source": "Decrypt",
       "url": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
       "publishedAt": "2026-10-19T17:31:04+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "ec4fd2145e86799b13a8",
-      "title": "Revolut secures Gibraltar crypto license to support global expansion",
-      "summary": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-19T17:24:49+00:00",
       "category": "regulation",
       "importance": "high"
     }
