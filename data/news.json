@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-22T01:55:21.976210+00:00",
+  "updatedAt": "2026-10-22T07:38:26.530734+00:00",
   "news": [
+    {
+      "id": "dee5457143e4f2ab34b2",
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+      "publishedAt": "2026-10-22T06:24:10+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "207ca03528d88176197c",
+      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
+      "summary": "“Plenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,” says Illuvium co-founder Kieran Warwick.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-22T05:35:38+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "e4ac1dc64b299d41dc62",
+      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+      "publishedAt": "2026-10-22T04:41:59+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "f92c92cf4c685e0fd295",
+      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+      "publishedAt": "2026-10-22T03:51:34+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "850311e97a14df3a83a5",
       "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
@@ -1055,50 +1099,6 @@
       "url": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
       "publishedAt": "2026-10-19T19:16:04+00:00",
       "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "34e17ab8d2bf31aa513c",
-      "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
-      "summary": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-19T19:03:23+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "6b696838ce199f88a1f3",
-      "title": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
-      "summary": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
-      "publishedAt": "2026-10-19T18:46:05+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "0def8e81ba3550d10814",
-      "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
-      "summary": "The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
-      "publishedAt": "2026-10-19T18:16:04+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "d27e3bfa746638e67cf8",
-      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-      "summary": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
-      "publishedAt": "2026-10-19T17:31:04+00:00",
-      "category": "regulation",
       "importance": "high"
     }
   ]
