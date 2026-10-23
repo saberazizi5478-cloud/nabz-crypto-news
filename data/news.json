@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-23T00:11:56.617901+00:00",
+  "updatedAt": "2026-10-23T04:56:52.015920+00:00",
   "news": [
+    {
+      "id": "f67f45a8400ed3426f8a",
+      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "summary": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T04:34:14+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "209f4e15b41f04fef1b6",
+      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+      "publishedAt": "2026-10-23T03:13:01+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "808737b0ff504972d1dc",
+      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "summary": "BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T00:59:35+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
     {
       "id": "52ad7d2b827c89ecc712",
       "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
@@ -1065,39 +1098,6 @@
       "source": "Decrypt",
       "url": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
       "publishedAt": "2026-10-20T17:45:04+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "53b5b15ce1719e983614",
-      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
-      "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet’s holdings if it allocates the full amount.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-20T17:40:00+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "9d498bf479df8f46dba0",
-      "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
-      "summary": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
-      "publishedAt": "2026-10-20T17:03:26+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "de2ca794af617f6d1d20",
-      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
-      "publishedAt": "2026-10-20T17:02:31+00:00",
       "category": "btc",
       "importance": "low"
     }
