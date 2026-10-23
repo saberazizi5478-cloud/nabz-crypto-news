@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-10-23T15:08:06.726112+00:00",
+  "updatedAt": "2026-10-23T19:17:58.512829+00:00",
   "news": [
+    {
+      "id": "52d22f4d94b63af0f1ae",
+      "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+      "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+      "publishedAt": "2026-10-23T18:54:55+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "1deb2060be540e3146d5",
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T18:39:02+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "c87339f0f760dbbcd9e1",
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "summary": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T17:42:12+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "a64e2d31f084a8dad2df",
+      "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+      "summary": "Developers will now backport fixes and cut releases immediately for flaws flagged as “easily discoverable,” abandoning long embargoes for bugs an attacker can surface with a single AI prompt.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+      "publishedAt": "2026-10-23T17:16:03+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "0ee1e8fa729f8173bab8",
+      "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+      "summary": "New York’s attorney general asked a court to order NovaTech’s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
+      "publishedAt": "2026-10-23T16:31:03+00:00",
+      "category": "regulation",
+      "importance": "low"
+    },
+    {
+      "id": "cc818be07793deba35db",
+      "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+      "summary": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T16:08:40+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "1b3f9fff014ca66cbda7",
+      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+      "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+      "publishedAt": "2026-10-23T15:50:41+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "f0d15e070f5e86963a94",
+      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+      "summary": "Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T15:39:17+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "768b7eaf95e9a883d9e8",
       "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
@@ -1012,94 +1100,6 @@
       "publishedAt": "2026-10-21T12:16:38+00:00",
       "category": "btc",
       "importance": "high"
-    },
-    {
-      "id": "4adc09d4b5af179e6d88",
-      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
-      "publishedAt": "2026-10-21T12:12:36+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "5a2f12d1702a1a8b04f5",
-      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-      "publishedAt": "2026-10-21T12:10:39+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "2c36d18fac7392c23cf3",
-      "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
-      "summary": "The signing follows shareholders’ acceptance of Standard Chartered’s non-binding offer in May, with regulatory approvals still pending.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-21T12:06:23+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "d28cc198d244b5984744",
-      "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-      "publishedAt": "2026-10-21T12:00:00+00:00",
-      "category": "altcoin",
-      "importance": "low"
-    },
-    {
-      "id": "69b9249fc33c155eda7a",
-      "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
-      "summary": "The rule sets reserve, redemption and risk standards for issuers, but the OCC has yet to say when it will begin accepting applications.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
-      "publishedAt": "2026-10-21T11:52:23+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "e6def5232248eedc16ce",
-      "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-      "publishedAt": "2026-10-21T11:15:00+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "9e0962f2d88429d05dd9",
-      "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
-      "publishedAt": "2026-10-21T11:00:00+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "0b93d128274e8339beb9",
-      "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
-      "summary": "PancakeSwap’s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain’s DeFi activity expands.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-21T10:50:52+00:00",
-      "category": "market",
-      "importance": "low"
     }
   ]
 }
