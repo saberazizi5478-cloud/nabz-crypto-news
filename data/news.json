@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-22T21:40:07.709547+00:00",
+  "updatedAt": "2026-10-23T00:11:56.617901+00:00",
   "news": [
+    {
+      "id": "52ad7d2b827c89ecc712",
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "summary": "DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-22T22:50:22+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "6e20e281f16f6fdd04af",
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "publishedAt": "2026-10-22T22:43:36+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "7cf66c979499fc2d58d5",
+      "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+      "summary": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
+      "publishedAt": "2026-10-22T22:21:46+00:00",
+      "category": "market",
+      "importance": "medium"
+    },
+    {
+      "id": "c586a3d00e001ff788bf",
+      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "summary": "According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-22T21:39:18+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
     {
       "id": "fbf40bf31922fda5c933",
       "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
@@ -1054,50 +1098,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
       "publishedAt": "2026-10-20T17:02:31+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "dde07a4106f656170598",
-      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-      "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-20T16:47:48+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "8031c26fd04862d9b58b",
-      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
-      "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-20T16:38:13+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "4c82a4f7da0b71bd25a4",
-      "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
-      "summary": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-20T16:23:17+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "d4891712c13d2dfcee7b",
-      "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-      "summary": "Strategy’s co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here’s what you need to know.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
-      "publishedAt": "2026-10-20T16:17:02+00:00",
       "category": "btc",
       "importance": "low"
     }
