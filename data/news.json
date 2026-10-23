@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-10-23T04:56:52.015920+00:00",
+  "updatedAt": "2026-10-23T10:08:29.389828+00:00",
   "news": [
+    {
+      "id": "ce12afe8df2126dcb0d0",
+      "title": "Bybit secures first full Dubai license for spot trading services",
+      "summary": "Bybit’s new VARA licence authorizes spot trading services in Dubai, but the exchange must complete additional regulatory requirements before launching.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T09:50:04+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "e807650df0ddfc3e9c70",
+      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+      "publishedAt": "2026-10-23T08:57:34+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "a024ffaf2b68c75683e7",
+      "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
+      "summary": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+      "publishedAt": "2026-10-23T08:55:35+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "74f3a0f899bfdd0b39ee",
+      "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+      "summary": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T08:47:34+00:00",
+      "category": "usdt",
+      "importance": "medium"
+    },
+    {
+      "id": "aa05a624e874e739124d",
+      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+      "publishedAt": "2026-10-23T08:02:35+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "0045ff4a4b03406e6d57",
+      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "summary": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T07:15:53+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "303ffb3e2f066b0c02e6",
+      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+      "summary": "Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T07:09:39+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "38baffe7303da360782f",
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "summary": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T05:09:41+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "b0107c1b1c8250f8e40a",
+      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+      "publishedAt": "2026-10-23T04:59:34+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "f67f45a8400ed3426f8a",
       "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
@@ -999,105 +1098,6 @@
       "source": "Decrypt",
       "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
       "publishedAt": "2026-10-20T21:16:04+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "83a4f26ee865aa6abcbb",
-      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
-      "publishedAt": "2026-10-20T21:12:21+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "d719cf346debf8397df5",
-      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-      "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-      "publishedAt": "2026-10-20T20:46:04+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "b613e8409dd9d07fd991",
-      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
-      "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC’s public comment period comes to a close.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-20T20:38:00+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "ff421581c018f3402bb5",
-      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
-      "summary": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
-      "publishedAt": "2026-10-20T20:16:04+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "5aa033958b1ffd87098b",
-      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
-      "summary": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-20T19:59:39+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "fd3fa5e8ef2468a63c3f",
-      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
-      "summary": "FINMA waived the diversification rules for the fund but leaned hard on custody and investor-protection safeguards.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
-      "publishedAt": "2026-10-20T19:31:04+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "8de569e95581cb7c4a1e",
-      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
-      "summary": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
-      "publishedAt": "2026-10-20T18:31:04+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "c4873ad5e8a24f5d40a1",
-      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
-      "publishedAt": "2026-10-20T18:26:29+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "14cba2dc897c6e907dc5",
-      "title": "Bitcoin's Next Move: Here's What to Watch",
-      "summary": "Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
-      "publishedAt": "2026-10-20T17:45:04+00:00",
       "category": "btc",
       "importance": "low"
     }
