@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-23T19:17:58.512829+00:00",
+  "updatedAt": "2026-10-23T22:39:44.417844+00:00",
   "news": [
+    {
+      "id": "e062cb076c9212cffcac",
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "summary": "As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized stock platform under the SEC’s innovation exemption.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T21:32:16+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "8431d2a8c78e7d538a2b",
+      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "summary": "Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+      "publishedAt": "2026-10-23T21:16:03+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "07c97964d33a38aec222",
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "summary": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-23T20:54:17+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "4d27763b53746412ed59",
+      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+      "summary": "Sen. Richard Blumenthal demanded Tether’s records on payments to Nxum, a firm co-owned by former White House crypto adviser Bo Hines.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+      "publishedAt": "2026-10-23T20:16:02+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
     {
       "id": "52d22f4d94b63af0f1ae",
       "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
@@ -1056,50 +1100,6 @@
       "publishedAt": "2026-10-21T13:31:39+00:00",
       "category": "exchange",
       "importance": "low"
-    },
-    {
-      "id": "a662c60864448cec7602",
-      "title": "5 alternatives to Ledger to store your Bitcoin",
-      "summary": "Hardware wallets aren’t the only way to protect your crypto, but from ETFs and passkeys to multisig accounts, each alternative has its own risks and trade-offs.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-21T13:30:00+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "91668483d14d05a232ca",
-      "title": "GTA 6 Trailer Features 'Dacity' Meme Coin—Here's What Traders Think It'll Do",
-      "summary": "Grand Theft Auto 6 is rumoured to feature a meme coin, and crypto traders are speculating on how prominently Rockstar will integrate it.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381511/gta-6-trailer-features-dacity-meme-coin-heres-what-traders-think-itll-do",
-      "publishedAt": "2026-10-21T13:16:04+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "05e3c8387bf28f333e6e",
-      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-      "summary": "The Office of the Comptroller of the Currency’s final rule covers payment stablecoin issuance and some custody activities, with the GENIUS Act framework taking effect in mid-January.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-21T12:26:58+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "f8204d1a4b3c2702af71",
-      "title": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
-      "summary": "The bank has Bitcoin outperforming all asset classes spanning real estate, stocks and gold over the next 10-15 years.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
-      "publishedAt": "2026-10-21T12:16:38+00:00",
-      "category": "btc",
-      "importance": "high"
     }
   ]
 }
