@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-24T14:35:41.718716+00:00",
+  "updatedAt": "2026-10-24T17:38:08.495947+00:00",
   "news": [
+    {
+      "id": "b1c57cafe2560e629794",
+      "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+      "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+      "publishedAt": "2026-10-24T16:01:03+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "1bb14bc988b893cb4776",
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+      "publishedAt": "2026-10-24T16:00:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "3fc826119397a497414a",
+      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+      "publishedAt": "2026-10-24T15:11:24+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "a7d6dfe323429320b11c",
+      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+      "publishedAt": "2026-10-24T15:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "eff577e8666b0e380aa2",
       "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
@@ -1054,50 +1098,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
       "publishedAt": "2026-10-21T16:23:44+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "9fcdbaaf85271aca0a9d",
-      "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-      "summary": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla’s 11,509 BTC and SpaceX’s 18,712 BTC—roughly $2.5 billion worth—onto a single balance sheet.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
-      "publishedAt": "2026-10-21T16:16:05+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "9e1007fa85b0f9265218",
-      "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
-      "summary": "Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-21T16:09:26+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "7508f6f72f90dac30f9b",
-      "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-      "summary": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
-      "publishedAt": "2026-10-21T15:43:32+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "37b559cbebe20845fed5",
-      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-      "publishedAt": "2026-10-21T15:22:46+00:00",
       "category": "market",
       "importance": "low"
     }
