@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-24T11:07:24.423263+00:00",
+  "updatedAt": "2026-10-24T14:35:41.718716+00:00",
   "news": [
+    {
+      "id": "eff577e8666b0e380aa2",
+      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+      "publishedAt": "2026-10-24T14:06:24+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "a3d0fef62feb0dd21a0c",
+      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/",
+      "publishedAt": "2026-10-24T14:00:00+00:00",
+      "category": "btc",
+      "importance": "medium"
+    },
+    {
+      "id": "6ffaac32a999bf053a55",
+      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+      "publishedAt": "2026-10-24T13:01:02+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
     {
       "id": "8292d1e16004675a52a2",
       "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
@@ -1067,39 +1100,6 @@
       "publishedAt": "2026-10-21T15:22:46+00:00",
       "category": "market",
       "importance": "low"
-    },
-    {
-      "id": "4c6de8984f95907352df",
-      "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
-      "summary": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-21T15:13:17+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "81c67a369952d6caf312",
-      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-      "publishedAt": "2026-10-21T15:00:53+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "896e07756e41ac872345",
-      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-      "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
-      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-      "publishedAt": "2026-10-21T14:24:25+00:00",
-      "category": "altcoin",
-      "importance": "medium"
     }
   ]
 }
