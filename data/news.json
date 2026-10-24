@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-24T01:09:46.387284+00:00",
+  "updatedAt": "2026-10-24T05:56:43.395381+00:00",
   "news": [
+    {
+      "id": "8292d1e16004675a52a2",
+      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+      "publishedAt": "2026-10-24T04:45:43+00:00",
+      "category": "altcoin",
+      "importance": "low"
+    },
     {
       "id": "e062cb076c9212cffcac",
       "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
@@ -1089,17 +1100,6 @@
       "publishedAt": "2026-10-21T14:24:25+00:00",
       "category": "altcoin",
       "importance": "medium"
-    },
-    {
-      "id": "69b59d506aaa17e51189",
-      "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
-      "summary": "CertiK says crypto trading bots and exchange applications may remain exposed to the eMudhra certificate flaw because browser fixes may not protect all software.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-21T13:31:39+00:00",
-      "category": "exchange",
-      "importance": "low"
     }
   ]
 }
