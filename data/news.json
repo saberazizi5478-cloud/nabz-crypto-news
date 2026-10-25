@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-25T14:24:43.344650+00:00",
+  "updatedAt": "2026-10-25T17:53:11.849738+00:00",
   "news": [
+    {
+      "id": "5163ce18942b895f4e4b",
+      "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
+      "summary": "Twenty-two companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, after Wells Fargo, Cisco, Marvell, Arm, Moderna. and Intuit joined the list.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
+      "publishedAt": "2026-10-25T16:01:03+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "efb06a6b6a4c20ceea41",
+      "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+      "publishedAt": "2026-10-25T15:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "894ce6ec0cbe9ff51eb6",
       "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
@@ -1077,28 +1099,6 @@
       "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-10-21T20:19:39+00:00",
       "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "068e7d2df8056a703af9",
-      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-      "summary": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-21T17:57:39+00:00",
-      "category": "regulation",
-      "importance": "low"
-    },
-    {
-      "id": "44b0db1cc09d032d4176",
-      "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
-      "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
-      "publishedAt": "2026-10-21T17:31:03+00:00",
-      "category": "btc",
       "importance": "low"
     }
   ]
