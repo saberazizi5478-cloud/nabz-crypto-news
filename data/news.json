@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-10-26T15:14:15.560049+00:00",
+  "updatedAt": "2026-10-26T20:35:08.931145+00:00",
   "news": [
+    {
+      "id": "0e20d373c87c293db5c6",
+      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+      "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-26T19:47:40+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "4f268fc10e1687315393",
+      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+      "summary": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-26T17:46:09+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "800d2d12ab7baaeb238f",
+      "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+      "summary": "A confirmed exploit let rogue servers replace Electrum’s pending transactions, tricking users into redirecting Bitcoin to attacker addresses.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
+      "publishedAt": "2026-10-26T17:41:21+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "622caa9bc02fe60c1ec5",
+      "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
+      "summary": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year’s $44 million hack, bringing its combined losses to nearly $60 million—and it’s absorbing the hit.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
+      "publishedAt": "2026-10-26T16:36:03+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "8d4634de5b892ff16bdf",
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+      "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-26T16:18:09+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "277fecaee59336f01a35",
+      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+      "publishedAt": "2026-10-26T16:05:12+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "b6c0ef66e49bc1934a8e",
+      "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
+      "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Flávio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
+      "publishedAt": "2026-10-26T16:04:51+00:00",
+      "category": "market",
+      "importance": "high"
+    },
+    {
+      "id": "c7fca40de3a80e48e50f",
+      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+      "publishedAt": "2026-10-26T15:59:55+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "5eba59b186bec255ce58",
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+      "publishedAt": "2026-10-26T15:45:51+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "20ac4567aebc7c84b017",
+      "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
+      "summary": "The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares—part of what it calls the largest equity buyback any crypto treasury company has run.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
+      "publishedAt": "2026-10-26T15:36:03+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "ad8b036e4cd5761701e0",
       "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
@@ -989,116 +1099,6 @@
       "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
       "publishedAt": "2026-10-22T16:31:07+00:00",
       "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "96ccd4b516cfe4fd9714",
-      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-      "summary": "Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump’s comments on Iran military action.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-22T16:20:35+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "2d43d8d9f1a7c8c5dfbf",
-      "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
-      "summary": "Neoclouds like CoreWeave and Nebius rent Nvidia GPUs to AI labs, and several started out mining crypto. Here's how the AI cloud model works.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
-      "publishedAt": "2026-10-22T15:45:07+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "1a5b4ec50802e89016b5",
-      "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-      "publishedAt": "2026-10-22T15:40:25+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "1af7917c39e89e8b329f",
-      "title": "Crypto for Advisors: Stablecoins are ready for prime time",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
-      "publishedAt": "2026-10-22T14:58:31+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "a613f7fedb30516617b7",
-      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-      "publishedAt": "2026-10-22T14:37:12+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "ba4b5659cce31cab64a9",
-      "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
-      "summary": "Decrypt is building a destination where readers can discover, understand and trade the news, directly where they consume information.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
-      "publishedAt": "2026-10-22T14:04:48+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "9d1131d89f027f417593",
-      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
-      "summary": "Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-22T13:42:34+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "552e43ae5e35357af6a2",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-22T13:22:57+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "bd86f8d7a2936af7873c",
-      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
-      "summary": "Thailand’s SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-22T13:20:57+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "4e9b4e8004415dcf6669",
-      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
-      "summary": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-22T13:13:45+00:00",
-      "category": "usdt",
       "importance": "high"
     }
   ]
