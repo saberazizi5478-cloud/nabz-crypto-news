@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-26T01:47:14.424128+00:00",
+  "updatedAt": "2026-10-26T07:51:04.831159+00:00",
   "news": [
+    {
+      "id": "e42d02aef41b16879bfa",
+      "title": "Over 11 million bitcoin has no known owner. Here's what it means",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+      "publishedAt": "2026-10-26T07:18:24+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "98b7fb8545fd1c42eae3",
+      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+      "publishedAt": "2026-10-26T05:39:17+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "a5597ec7cfbdd3ead69c",
+      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+      "publishedAt": "2026-10-26T05:15:20+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "64f7071ea3fec426a186",
+      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+      "publishedAt": "2026-10-26T04:37:02+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "02c456071a74fc3f2047",
+      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "summary": "A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-26T02:24:04+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "89c3de86f492b8bcdbeb",
       "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
@@ -1045,61 +1100,6 @@
       "publishedAt": "2026-10-22T06:24:10+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "207ca03528d88176197c",
-      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
-      "summary": "“Plenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,” says Illuvium co-founder Kieran Warwick.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-22T05:35:38+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "e4ac1dc64b299d41dc62",
-      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-      "publishedAt": "2026-10-22T04:41:59+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "f92c92cf4c685e0fd295",
-      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-      "publishedAt": "2026-10-22T03:51:34+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "850311e97a14df3a83a5",
-      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
-      "summary": "Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-22T00:44:00+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "5a01fc281928fc8b27b0",
-      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
-      "summary": "Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing against changes to provisions on yield.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-21T21:53:48+00:00",
-      "category": "usdt",
-      "importance": "high"
     }
   ]
 }
