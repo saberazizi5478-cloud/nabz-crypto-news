@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-25T23:18:33.367940+00:00",
+  "updatedAt": "2026-10-26T01:47:14.424128+00:00",
   "news": [
+    {
+      "id": "89c3de86f492b8bcdbeb",
+      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-26T00:13:29+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
     {
       "id": "5ea82259ddb2b5b9fe01",
       "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
@@ -1087,17 +1098,6 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-10-21T21:53:48+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "27f49eef7142b479eaa9",
-      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
-      "summary": "The investment will support Peso’s expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local banking networks.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-21T20:26:07+00:00",
       "category": "usdt",
       "importance": "high"
     }
