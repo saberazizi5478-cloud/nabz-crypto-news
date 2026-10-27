@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-27T00:05:46.531866+00:00",
+  "updatedAt": "2026-10-27T05:10:59.521413+00:00",
   "news": [
+    {
+      "id": "0aae9292857d177188e8",
+      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+      "summary": "The stablecoin payments company previously disputed reports that its US listing had been delayed.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-27T04:26:51+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "d95b72aa6402a0cdee42",
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "summary": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-27T01:55:03+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "1ef4e908a97ef880d0e6",
+      "title": "Ripple wins final US approval for national trust bank",
+      "summary": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-27T00:06:41+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
     {
       "id": "a05fd4dfd93b138aab6b",
       "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
@@ -1065,39 +1098,6 @@
       "source": "Decrypt",
       "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
       "publishedAt": "2026-10-22T19:46:02+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "f30e05d33b6865b93307",
-      "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
-      "summary": "While crypto-aligned PACs have stepped up spending in Ohio, a committee launched by the co-founders of crypto exchange Gemini made one of its first forays into the Lone Star State.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-22T19:29:53+00:00",
-      "category": "exchange",
-      "importance": "medium"
-    },
-    {
-      "id": "b1e7324c3270bdb10bb9",
-      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-      "summary": "The Central Bank of Ireland penalized Coinbase Ireland €3,252,618 for leaning too heavily on its U.S. parent and leaving its safeguarding account underfunded—its second hit to the exchange’s European arm in the last year.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
-      "publishedAt": "2026-10-22T18:36:03+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "2152135b654782a45b72",
-      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-      "publishedAt": "2026-10-22T18:30:57+00:00",
       "category": "market",
       "importance": "low"
     }
