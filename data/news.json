@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-10-28T18:52:41.942034+00:00",
+  "updatedAt": "2026-10-28T23:15:13.300485+00:00",
   "news": [
+    {
+      "id": "27b1700782a8c5dc2a2d",
+      "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+      "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+      "publishedAt": "2026-10-28T21:46:02+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "233839dc12e6b7ee3657",
+      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
+      "summary": "Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-28T21:35:52+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "0a7e0ba1464921bdfa36",
+      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+      "publishedAt": "2026-10-28T21:13:44+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "f13cdba64e4b34e5e512",
+      "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+      "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+      "publishedAt": "2026-10-28T20:16:03+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "552e43ae5e35357af6a2",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-28T19:46:45+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "18d8d35b7d2e471af787",
+      "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
+      "summary": "A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
+      "publishedAt": "2026-10-28T19:46:03+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "defd7b1f228b85a40c49",
+      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+      "summary": "The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relationship with Caroline Ellison.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-28T19:10:40+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "addc15512b482f366e2f",
+      "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
+      "publishedAt": "2026-10-28T19:01:53+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "fecf12aebd8babea15dd",
       "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
@@ -1011,94 +1099,6 @@
       "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-10-26T16:18:09+00:00",
       "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "277fecaee59336f01a35",
-      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-      "publishedAt": "2026-10-26T16:05:12+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "b6c0ef66e49bc1934a8e",
-      "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
-      "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Flávio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
-      "publishedAt": "2026-10-26T16:04:51+00:00",
-      "category": "market",
-      "importance": "high"
-    },
-    {
-      "id": "c7fca40de3a80e48e50f",
-      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-      "publishedAt": "2026-10-26T15:59:55+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "5eba59b186bec255ce58",
-      "title": "OCC calls on community banks to enter the stablecoin payments market",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-      "publishedAt": "2026-10-26T15:45:51+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "20ac4567aebc7c84b017",
-      "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-      "summary": "The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares—part of what it calls the largest equity buyback any crypto treasury company has run.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
-      "publishedAt": "2026-10-26T15:36:03+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "ad8b036e4cd5761701e0",
-      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-      "publishedAt": "2026-10-26T14:51:07+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "efa70c08b50ae9a5d2ef",
-      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-      "publishedAt": "2026-10-26T14:23:41+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "8491d00df92ae6a2f1c4",
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "summary": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-26T13:27:38+00:00",
-      "category": "btc",
       "importance": "low"
     }
   ]
