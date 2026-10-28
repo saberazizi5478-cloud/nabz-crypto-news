@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-28T00:04:07.334420+00:00",
+  "updatedAt": "2026-10-28T05:48:02.911949+00:00",
   "news": [
+    {
+      "id": "d0c115d5525e8b9199b2",
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+      "publishedAt": "2026-10-28T05:28:13+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "a2a10e8cdf4f8fbeb657",
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+      "publishedAt": "2026-10-28T04:15:20+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "5147fc1a71bcb7a78bb9",
+      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+      "summary": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-28T03:55:57+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "a16e3e891ea482ce5d71",
+      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+      "publishedAt": "2026-10-28T03:11:14+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
     {
       "id": "e95bf8c1b9975af0a249",
       "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
@@ -1056,50 +1100,6 @@
       "publishedAt": "2026-10-24T14:00:00+00:00",
       "category": "btc",
       "importance": "medium"
-    },
-    {
-      "id": "1567a401e3d91f330f1c",
-      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-      "publishedAt": "2026-10-24T14:00:00+00:00",
-      "category": "btc",
-      "importance": "medium"
-    },
-    {
-      "id": "6ffaac32a999bf053a55",
-      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
-      "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
-      "publishedAt": "2026-10-24T13:01:02+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "8292d1e16004675a52a2",
-      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-      "publishedAt": "2026-10-24T04:45:43+00:00",
-      "category": "altcoin",
-      "importance": "low"
-    },
-    {
-      "id": "e062cb076c9212cffcac",
-      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-      "summary": "As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized stock platform under the SEC’s innovation exemption.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-23T21:32:16+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
