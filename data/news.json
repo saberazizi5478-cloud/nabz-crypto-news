@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-10-29T16:11:36.268520+00:00",
+  "updatedAt": "2026-10-29T21:11:03.356293+00:00",
   "news": [
+    {
+      "id": "b3a8327630efbe9975b7",
+      "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
+      "summary": "Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
+      "publishedAt": "2026-10-29T20:46:43+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "17fa1f0123dc12be635e",
+      "title": "Public companies double share of blockchain revenue since 2022: Report",
+      "summary": "A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-29T19:53:14+00:00",
+      "category": "market",
+      "importance": "medium"
+    },
+    {
+      "id": "b6c4ed1c71fb04ae3e77",
+      "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
+      "summary": "Polymarket restricted trading and paused relayer actions as users report funds leaving their accounts. A suspected attacker wallet holds about $2.65 million in POL, per Arkham data.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident",
+      "publishedAt": "2026-10-29T18:53:44+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "c878275101105c0bd5e7",
+      "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+      "summary": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
+      "publishedAt": "2026-10-29T18:46:02+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "d561ec5cf5f7d557827b",
+      "title": "Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority",
+      "summary": "Only 13% of Americans say a candidate’s support for crypto growth is very important, according to a survey conducted by Ipsos for the DeFi Education Fund, even as the industry spends heavily on next week’s elections.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
+      "publishedAt": "2026-10-29T17:46:02+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "68b2bfda2e28d76384e9",
+      "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
+      "summary": "A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why that matters for Bitcoin's price.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
+      "publishedAt": "2026-10-29T17:15:11+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "b82e34e5a2bae57432d8",
+      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
+      "summary": "Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-29T17:12:03+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "abfacfb52b1f4d4bbd21",
+      "title": "KuCoin suspends services in Russia and Belarus",
+      "summary": "The exchange cited legal and regulatory compliance in its reason for cutting off services to users based in the two countries, currently the targets of international sanctions.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-29T17:08:41+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "62cf9c78a0cf3e164209",
+      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
+      "publishedAt": "2026-10-29T16:51:18+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "f420e8b5491484981f98",
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+      "publishedAt": "2026-10-29T16:35:43+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "4582350115a19fd8929b",
+      "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+      "summary": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
+      "publishedAt": "2026-10-29T16:32:47+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "1683175160410a16a50c",
+      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+      "summary": "The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC’s innovation exemption.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-29T16:27:39+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "087552e5552a9d88bc35",
       "title": "Crypto exchange HTX exits the UK after settling with the FCA",
@@ -968,138 +1100,6 @@
       "publishedAt": "2026-10-28T04:15:20+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "5147fc1a71bcb7a78bb9",
-      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
-      "summary": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-28T03:55:57+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "a16e3e891ea482ce5d71",
-      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
-      "publishedAt": "2026-10-28T03:11:14+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "e95bf8c1b9975af0a249",
-      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
-      "summary": "VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-27T21:28:22+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "c24f94e66cf6fbb5261f",
-      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
-      "summary": "More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-27T21:26:41+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "674abc5d6b9b1ba782db",
-      "title": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow",
-      "summary": "Robinhood posted record revenue of $1.42 billion but earned $0.51 per share, short of the $0.55 expected, as bets on sports and elections grew to $173 million and crypto edged up.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets",
-      "publishedAt": "2026-10-27T20:42:11+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "3264e2f7ad04cea6144e",
-      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
-      "publishedAt": "2026-10-27T20:41:33+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "35fad0b53b4285e6d5d8",
-      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
-      "summary": "Speaking on Cointelegraph’s Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin’s quantum security could deter institutional investors.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-27T20:33:19+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "3ad8c5d1505f9bfec197",
-      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
-      "publishedAt": "2026-10-27T20:32:21+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "b879517cb75732081d28",
-      "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
-      "summary": "Ripple's RLUSD stablecoin is live on Robinhood Chain and Bitstamp, and heads to the Robinhood app later this year as the companies deepen ties in treasury and institutional trading.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
-      "publishedAt": "2026-10-27T20:16:02+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "216dcd827f98e1b158c2",
-      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-      "summary": "Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger.",
-      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-27T19:54:05+00:00",
-      "category": "altcoin",
-      "importance": "medium"
-    },
-    {
-      "id": "ecb280fdd941ee1090bf",
-      "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
-      "summary": "An expanded deal with Bitso puts Anchorage Digital Bank’s custody beneath both sides of the US-Mexico remittance route.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
-      "publishedAt": "2026-10-27T19:46:02+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "b5815f378291e0005adf",
-      "title": "CFTC sues Utah to block action against prediction markets",
-      "summary": "The US state filed a lawsuit against Kalshi last week, seeking to recover up to $60 million in profits related to event contracts on prediction markets.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-27T19:21:59+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
