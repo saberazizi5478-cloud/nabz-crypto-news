@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-30T19:28:15.916805+00:00",
+  "updatedAt": "2026-10-30T23:16:50.314609+00:00",
   "news": [
+    {
+      "id": "163a6bfa40e95f7d4942",
+      "title": "Binance hackers raced to move billions before it could be frozen",
+      "summary": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-30T22:00:00+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "c81296acbf6d40832b20",
+      "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
+      "summary": "Michael Selig said the record $6.4 billion theft shows why offshore exchanges should register with the CFTC and adopt U.S.-grade cybersecurity standards.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+      "publishedAt": "2026-10-30T21:16:04+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "42a94adb8b7e1017f4cf",
+      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+      "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+      "publishedAt": "2026-10-30T20:06:03+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "d013ededa6e5a9adc35a",
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+      "publishedAt": "2026-10-30T19:55:00+00:00",
+      "category": "security",
+      "importance": "high"
+    },
     {
       "id": "6dcb8aade174bcfc505d",
       "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
@@ -154,6 +198,17 @@
       "publishedAt": "2026-10-30T14:10:45+00:00",
       "category": "security",
       "importance": "high"
+    },
+    {
+      "id": "552e43ae5e35357af6a2",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-30T14:07:42+00:00",
+      "category": "btc",
+      "importance": "low"
     },
     {
       "id": "dda1ec9b730d49ec4510",
@@ -1045,61 +1100,6 @@
       "publishedAt": "2026-10-29T10:41:39+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "af3c85ff155400aafb6f",
-      "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
-      "publishedAt": "2026-10-29T10:04:36+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "f9fe883d4ec1df04af40",
-      "title": "Bermuda taps WalletConnect to advance its onchain economy plan",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan",
-      "publishedAt": "2026-10-29T10:00:00+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "c26c797618acd5d27be1",
-      "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
-      "publishedAt": "2026-10-29T09:00:00+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "6c5a2de99651867624b8",
-      "title": "The chart bitcoin traders should be paying attention to",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
-      "publishedAt": "2026-10-29T07:44:44+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "943524cbdbf48f8de2f8",
-      "title": "Bitcoin ETFs add $137M, pushing October back into the green",
-      "summary": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-29T07:32:20+00:00",
-      "category": "btc",
-      "importance": "high"
     }
   ]
 }
