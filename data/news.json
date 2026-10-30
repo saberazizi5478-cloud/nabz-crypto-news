@@ -1,6 +1,149 @@
 {
-  "updatedAt": "2026-10-30T14:14:49.498227+00:00",
+  "updatedAt": "2026-10-30T19:28:15.916805+00:00",
   "news": [
+    {
+      "id": "6dcb8aade174bcfc505d",
+      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+      "summary": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-30T19:01:58+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "9a9edd1d4a8d96fec699",
+      "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+      "summary": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
+      "publishedAt": "2026-10-30T18:45:03+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "e7d0d3e078b246614f97",
+      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+      "summary": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in one of the clearest “wrench attack” prosecutions yet.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
+      "publishedAt": "2026-10-30T18:16:02+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "4ad92ddb3fd36758b15c",
+      "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+      "summary": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as investigators trace the stolen funds.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+      "publishedAt": "2026-10-30T17:50:26+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "3df6f629eedf23b4c917",
+      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+      "summary": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-30T17:48:27+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "2866f0dc9ce814687f38",
+      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+      "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-30T17:09:31+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "d6a31787069e81f198db",
+      "title": "Recap: How Binance’s record $6.3B hack unfolded",
+      "summary": "A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-30T16:53:46+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "277266722519978ed5ad",
+      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+      "summary": "Richard Teng said the attacker used a self-destruct mechanism and an EIP-7702 delegation that bypassed Binance's normal approval controls.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+      "publishedAt": "2026-10-30T16:34:21+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "ef1b832ed047f63efca0",
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+      "publishedAt": "2026-10-30T16:31:17+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "d4034f37e7df69d8b3b5",
+      "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+      "summary": "After Musk appeared to mock Binance’s $6.3 billion hack, CZ reminded him that the exchange’s $500 million bet on his Twitter takeover is now worth over $1 billion in SpaceX shares.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+      "publishedAt": "2026-10-30T16:25:06+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "9bb2e0d95d8350bb1286",
+      "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+      "summary": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-30T16:06:28+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "934b7fa35f599419c840",
+      "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+      "summary": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+      "publishedAt": "2026-10-30T14:17:34+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "22884e4e4cfaff4ad414",
+      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
+      "publishedAt": "2026-10-30T14:13:34+00:00",
+      "category": "security",
+      "importance": "high"
+    },
     {
       "id": "04f5303bbea0208ae7da",
       "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
@@ -957,149 +1100,6 @@
       "publishedAt": "2026-10-29T07:32:20+00:00",
       "category": "btc",
       "importance": "high"
-    },
-    {
-      "id": "6966318478a1a3db85f9",
-      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
-      "publishedAt": "2026-10-29T05:54:39+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "516e36af856e856538b5",
-      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
-      "publishedAt": "2026-10-29T05:30:34+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "ac665a0cbcc02d814ffd",
-      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
-      "summary": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-29T04:39:49+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "dd74760b71eb209c7a7b",
-      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
-      "publishedAt": "2026-10-29T03:32:43+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "aa830a5d1d50c1e46ef9",
-      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
-      "publishedAt": "2026-10-29T03:21:24+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "730736a128fbbab6da3d",
-      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
-      "summary": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-29T03:16:32+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "2f7af1814b86d7d42017",
-      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
-      "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-29T01:12:01+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "27b1700782a8c5dc2a2d",
-      "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-      "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-      "publishedAt": "2026-10-28T21:46:02+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "233839dc12e6b7ee3657",
-      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
-      "summary": "Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-28T21:35:52+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "0a7e0ba1464921bdfa36",
-      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
-      "publishedAt": "2026-10-28T21:13:44+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "f13cdba64e4b34e5e512",
-      "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-      "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
-      "publishedAt": "2026-10-28T20:16:03+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "552e43ae5e35357af6a2",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-28T19:46:45+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "18d8d35b7d2e471af787",
-      "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
-      "summary": "A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
-      "publishedAt": "2026-10-28T19:46:03+00:00",
-      "category": "market",
-      "importance": "low"
     }
   ]
 }
