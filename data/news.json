@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-10-29T21:11:03.356293+00:00",
+  "updatedAt": "2026-10-30T01:04:48.465649+00:00",
   "news": [
+    {
+      "id": "601ab3fef3809964fbd0",
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+      "publishedAt": "2026-10-30T00:17:10+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "3de5b2a10f409ec6f819",
+      "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+      "summary": "Blockaid’s Ido Ben-Natan suspects attackers manipulated Binance’s transaction-signing infrastructure, drawing parallels with the Bybit hack.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-30T00:11:26+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "8eec0e40dc3205d8bf0e",
+      "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+      "summary": "Bitcoin and Ether tumbled as the broader crypto market fell 3.3%, with reports of suspicious multibillion-dollar transfers from Binance-linked wallets fueling uncertainty.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-29T23:24:21+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "96c79be066cee0a10fd2",
+      "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+      "summary": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+      "publishedAt": "2026-10-29T22:57:48+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "45cea5d931db75bc4ac5",
+      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+      "summary": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-29T22:31:07+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "06ce5a806586b1d1407d",
+      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+      "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+      "publishedAt": "2026-10-29T21:36:24+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "e39011378999510595ec",
+      "title": "Live Updates: Binance says $2.54 billion frozen after hack",
+      "summary": "Follow live updates as Binance says $2.54 billion in assets has been frozen after a multibillion-dollar hack, with further freezes possible as investigators trace funds.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-29T21:24:36+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "6e73187697234488cf91",
+      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+      "publishedAt": "2026-10-29T21:12:45+00:00",
+      "category": "security",
+      "importance": "high"
+    },
     {
       "id": "b3a8327630efbe9975b7",
       "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
@@ -1012,94 +1100,6 @@
       "publishedAt": "2026-10-28T10:10:31+00:00",
       "category": "security",
       "importance": "high"
-    },
-    {
-      "id": "b56817e7d8b4ab9d9966",
-      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-      "publishedAt": "2026-10-28T10:07:54+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "5f7976b59132b523ba5b",
-      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-      "summary": "Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-28T09:56:00+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "e1b6be419a4e58ba9af9",
-      "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
-      "publishedAt": "2026-10-28T09:15:22+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "d6790c28de437e7a67c1",
-      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
-      "publishedAt": "2026-10-28T09:00:00+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "254bc98250e529272ca2",
-      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-      "summary": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-28T07:57:18+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "ba0f153edaae5d4fa6b0",
-      "title": "Coinbase denies systems breach, says vendor exposed customer data",
-      "summary": "Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, but it found no evidence of unauthorized access to its own systems.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-28T07:42:55+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "d0c115d5525e8b9199b2",
-      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-      "publishedAt": "2026-10-28T05:28:13+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "a2a10e8cdf4f8fbeb657",
-      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-      "publishedAt": "2026-10-28T04:15:20+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
