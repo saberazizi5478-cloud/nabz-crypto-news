@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-31T15:22:21.613745+00:00",
+  "updatedAt": "2026-10-31T19:34:20.170106+00:00",
   "news": [
+    {
+      "id": "e5af74987e2162a7d31c",
+      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+      "publishedAt": "2026-10-31T18:00:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "79437addc9474547e56f",
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+      "publishedAt": "2026-10-31T16:09:30+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "51f6e4a5a092f8966ca1",
+      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+      "publishedAt": "2026-10-31T16:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "5c2aa4f3f64768be2877",
+      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+      "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-31T15:36:01+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "04e07f99ea5b6a6ec29e",
+      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+      "summary": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-10-31T15:26:46+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "3b17bac9899962bc4dec",
+      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+      "publishedAt": "2026-10-31T15:24:10+00:00",
+      "category": "security",
+      "importance": "high"
+    },
     {
       "id": "bd2e8391f4ad4babb5e1",
       "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
@@ -1034,72 +1100,6 @@
       "publishedAt": "2026-10-29T13:01:02+00:00",
       "category": "usdt",
       "importance": "high"
-    },
-    {
-      "id": "a44c74a3babcf92f1afb",
-      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
-      "summary": "The FCA says the Justin Sun-linked exchange will no longer target UK consumers, ending its first case against a crypto firm over marketing.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
-      "publishedAt": "2026-10-29T12:58:28+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "363e067c92ba0985a43a",
-      "title": "A new framework for tokenized asset tracking",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking",
-      "publishedAt": "2026-10-29T12:57:51+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "04776bbd4d74bc27175f",
-      "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework",
-      "publishedAt": "2026-10-29T12:51:48+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "a5209e2474abab27f598",
-      "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
-      "summary": "The analysis followed US sanctions against 10 people and one entity accused of helping North Korean IT worker schemes fund weapons programs.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-29T12:38:03+00:00",
-      "category": "market",
-      "importance": "high"
-    },
-    {
-      "id": "ab7433ceece7d63e5346",
-      "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
-      "summary": "Now the BTC ETFs have flipped green for the month after $400M+ inflows this week, setting the stage for a big November.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
-      "publishedAt": "2026-10-29T12:30:38+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "ddcd6b39440968079683",
-      "title": "Unlimit founder backs Phase blockchain with $45M as mainnet launches",
-      "summary": "Phase’s new network lets smartphone owners earn tokens for validating transactions and sharing internet connections with AI agents.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-29T12:30:00+00:00",
-      "category": "market",
-      "importance": "medium"
     }
   ]
 }
