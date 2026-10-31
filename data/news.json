@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-31T02:31:22.883931+00:00",
+  "updatedAt": "2026-10-31T08:55:25.258168+00:00",
   "news": [
+    {
+      "id": "5048d832d1e26795d252",
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+      "publishedAt": "2026-10-31T05:01:32+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
     {
       "id": "163a6bfa40e95f7d4942",
       "title": "Binance hackers raced to move billions before it could be frozen",
@@ -1088,17 +1099,6 @@
       "url": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
       "publishedAt": "2026-10-29T10:44:48+00:00",
       "category": "altcoin",
-      "importance": "low"
-    },
-    {
-      "id": "51d60e7a1e33c71b3e39",
-      "title": "Live updates: Bitcoin catches small bid as Nasdaq and interest rates fall sharply",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-      "publishedAt": "2026-10-29T10:41:39+00:00",
-      "category": "btc",
       "importance": "low"
     }
   ]
