@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-01T02:16:29.792689+00:00",
+  "updatedAt": "2026-11-01T09:23:56.720359+00:00",
   "news": [
+    {
+      "id": "3b546dbdac4f85d81490",
+      "title": "FBI blames North Korea for record $6.3B Binance hack",
+      "summary": "US agency seeks private-sector help to block further money-laundering of stolen digital assets.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-01T07:44:38+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "4f11cd7ede748fda16e6",
       "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
@@ -1088,17 +1099,6 @@
       "url": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-10-29T13:30:00+00:00",
       "category": "regulation",
-      "importance": "low"
-    },
-    {
-      "id": "ed6670dc2c2bd9f3691b",
-      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-      "summary": "USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-29T13:30:00+00:00",
-      "category": "usdt",
       "importance": "low"
     }
   ]
