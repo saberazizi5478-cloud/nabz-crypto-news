@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-31T22:51:03.328570+00:00",
+  "updatedAt": "2026-11-01T02:16:29.792689+00:00",
   "news": [
+    {
+      "id": "4f11cd7ede748fda16e6",
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "publishedAt": "2026-11-01T01:10:05+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
     {
       "id": "e5af74987e2162a7d31c",
       "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
@@ -1089,17 +1100,6 @@
       "publishedAt": "2026-10-29T13:30:00+00:00",
       "category": "usdt",
       "importance": "low"
-    },
-    {
-      "id": "334eb7b8150f238fd5b9",
-      "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
-      "summary": "The expansion gives Solana businesses one integration to connect bank funding, embedded wallets, cross-chain transfers and global payouts, with cross-border firm Kira among the first adopters.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
-      "publishedAt": "2026-10-29T13:01:02+00:00",
-      "category": "usdt",
-      "importance": "high"
     }
   ]
 }
