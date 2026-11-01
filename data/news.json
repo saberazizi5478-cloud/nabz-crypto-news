@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-01T16:26:29.632232+00:00",
+  "updatedAt": "2026-11-01T20:51:28.676353+00:00",
   "news": [
+    {
+      "id": "37bb335c6e665fc123e3",
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "publishedAt": "2026-11-01T19:30:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "4352bdcddcad5cf08ccb",
+      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "publishedAt": "2026-11-01T17:00:00+00:00",
+      "category": "market",
+      "importance": "high"
+    },
     {
       "id": "55e05f0896bb6f3d8774",
       "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
@@ -1078,28 +1100,6 @@
       "publishedAt": "2026-10-29T15:00:02+00:00",
       "category": "exchange",
       "importance": "low"
-    },
-    {
-      "id": "a65398a43bcca96120bd",
-      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
-      "publishedAt": "2026-10-29T14:55:47+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "a9b4d5d5b0af668f6e28",
-      "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
-      "publishedAt": "2026-10-29T14:39:01+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
