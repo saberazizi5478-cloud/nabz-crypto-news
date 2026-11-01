@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-11-01T09:23:56.720359+00:00",
+  "updatedAt": "2026-11-01T16:26:29.632232+00:00",
   "news": [
+    {
+      "id": "55e05f0896bb6f3d8774",
+      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+      "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+      "publishedAt": "2026-11-01T16:01:02+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "74fe19048ac98b79de20",
+      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
+      "publishedAt": "2026-11-01T15:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "92913a38b0669272ef7c",
+      "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
+      "publishedAt": "2026-11-01T14:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "5efd78b12ba1dcb1f20d",
+      "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+      "publishedAt": "2026-11-01T13:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "e43243d6c9fe36744aa6",
+      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+      "publishedAt": "2026-11-01T10:35:42+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "dee423da7631dc403294",
+      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
+      "summary": "The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-01T09:38:18+00:00",
+      "category": "security",
+      "importance": "high"
+    },
     {
       "id": "3b546dbdac4f85d81490",
       "title": "FBI blames North Korea for record $6.3B Binance hack",
@@ -1034,72 +1100,6 @@
       "publishedAt": "2026-10-29T14:39:01+00:00",
       "category": "regulation",
       "importance": "high"
-    },
-    {
-      "id": "f430cb53aab06c2aecb0",
-      "title": "Bank of England opens consultation on tokenized collateral for clearing",
-      "summary": "Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-29T14:27:46+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "6fd3408332ef071a3297",
-      "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
-      "publishedAt": "2026-10-29T14:15:46+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "7388b277092aad38240b",
-      "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
-      "publishedAt": "2026-10-29T14:15:00+00:00",
-      "category": "market",
-      "importance": "medium"
-    },
-    {
-      "id": "5ae1374da12f07d1cb49",
-      "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
-      "publishedAt": "2026-10-29T13:55:42+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "a98c9709c94b319ba5e8",
-      "title": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans",
-      "publishedAt": "2026-10-29T13:39:18+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "6630aec11d638790df4a",
-      "title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
-      "summary": "Brazil’s crypto exchanges face an application deadline on Friday, with costly requirements and unanswered regulatory questions complicating compliance.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-29T13:30:00+00:00",
-      "category": "regulation",
-      "importance": "low"
     }
   ]
 }
