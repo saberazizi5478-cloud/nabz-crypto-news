@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-01T20:51:28.676353+00:00",
+  "updatedAt": "2026-11-02T00:47:46.775556+00:00",
   "news": [
+    {
+      "id": "0d960e20631339c297f0",
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "summary": "The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-01T23:59:27+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "c259f08c24f2f9dff2f7",
+      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
+      "summary": "Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-01T23:09:13+00:00",
+      "category": "security",
+      "importance": "high"
+    },
     {
       "id": "37bb335c6e665fc123e3",
       "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
@@ -1077,28 +1099,6 @@
       "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-10-29T15:39:54+00:00",
       "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "59776322c154fcffb24c",
-      "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
-      "summary": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 38.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
-      "publishedAt": "2026-10-29T15:07:15+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "ed0ced255dffc832f804",
-      "title": "French Senate adopts bill for automatic sharing of crypto tax data",
-      "summary": "The French Senate adopted a bill authorizing the automatic exchange of crypto-asset tax information between international tax authorities, pending completion of the legislative process.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-29T15:00:02+00:00",
-      "category": "exchange",
       "importance": "low"
     }
   ]
