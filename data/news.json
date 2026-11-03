@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-11-03T00:03:20.336594+00:00",
+  "updatedAt": "2026-11-03T06:53:27.003297+00:00",
   "news": [
+    {
+      "id": "552e43ae5e35357af6a2",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-03T06:00:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "4b559d77f0d0c4506f57",
+      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+      "publishedAt": "2026-11-03T05:36:56+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "82a13de5eef810b47193",
+      "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+      "publishedAt": "2026-11-03T05:25:12+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "b0dfe67675f0195ae3cb",
+      "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+      "summary": "Crypto.com will discontinue its consumer app services in Hong Kong in February next year.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-03T05:10:19+00:00",
+      "category": "regulation",
+      "importance": "low"
+    },
+    {
+      "id": "74975a458d63519d7fd3",
+      "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+      "publishedAt": "2026-11-03T04:48:17+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "1e98f23dd4a22d043f1c",
+      "title": "Binance begins second withdrawal phase, exchange outflows slow",
+      "summary": "The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an initial reopening on Sunday.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-03T03:03:44+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "e50e0d33974da5b82bf2",
+      "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+      "summary": "South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-03T01:32:39+00:00",
+      "category": "security",
+      "importance": "high"
+    },
     {
       "id": "6346c5d4817650b77925",
       "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
@@ -1022,83 +1099,6 @@
       "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
       "publishedAt": "2026-10-30T18:45:03+00:00",
       "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "e7d0d3e078b246614f97",
-      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
-      "summary": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in one of the clearest “wrench attack” prosecutions yet.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
-      "publishedAt": "2026-10-30T18:16:02+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "4ad92ddb3fd36758b15c",
-      "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
-      "summary": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as investigators trace the stolen funds.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
-      "publishedAt": "2026-10-30T17:50:26+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "3df6f629eedf23b4c917",
-      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
-      "summary": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-30T17:48:27+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "2866f0dc9ce814687f38",
-      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-30T17:09:31+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "d6a31787069e81f198db",
-      "title": "Recap: How Binance’s record $6.3B hack unfolded",
-      "summary": "A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-10-30T16:53:46+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "277266722519978ed5ad",
-      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-      "summary": "Richard Teng said the attacker used a self-destruct mechanism and an EIP-7702 delegation that bypassed Binance's normal approval controls.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
-      "publishedAt": "2026-10-30T16:34:21+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "ef1b832ed047f63efca0",
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-      "publishedAt": "2026-10-30T16:31:17+00:00",
-      "category": "security",
       "importance": "high"
     }
   ]
