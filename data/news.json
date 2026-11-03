@@ -1,6 +1,160 @@
 {
-  "updatedAt": "2026-11-03T15:14:11.555319+00:00",
+  "updatedAt": "2026-11-03T21:04:11.261185+00:00",
   "news": [
+    {
+      "id": "930690a867e3ec7a71a3",
+      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+      "summary": "US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-03T20:24:55+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "614372054c005dd6a651",
+      "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+      "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
+      "publishedAt": "2026-11-03T19:46:03+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "e2e233e8508805e28d0c",
+      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+      "summary": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil’s runoff.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-03T19:38:19+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "1c9fedee7f30ab50c2e6",
+      "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
+      "summary": "Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional stocks.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+      "publishedAt": "2026-11-03T19:16:02+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "edb55a89a3db41f0d1c5",
+      "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+      "summary": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+      "publishedAt": "2026-11-03T18:16:03+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "0bc8996724b1b679ff13",
+      "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+      "summary": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
+      "publishedAt": "2026-11-03T17:46:15+00:00",
+      "category": "market",
+      "importance": "high"
+    },
+    {
+      "id": "222b47c0286b6170ee7f",
+      "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
+      "summary": "From AI deepfakes to poisoning code libraries: here's how North Korean hackers get inside crypto companies.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
+      "publishedAt": "2026-11-03T17:30:54+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "a2e2c061320101b8568c",
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+      "publishedAt": "2026-11-03T16:49:56+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "314358622da28aea0464",
+      "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+      "summary": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-03T16:47:01+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "ff5d2b8110e845324b09",
+      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+      "summary": "Hackers exploited compromised employee computers and stolen credentials to breach Binance’s wallet infrastructure, according to the exchange’s investigation.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-03T16:44:06+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "2bd641a1a45de9e737f7",
+      "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+      "publishedAt": "2026-11-03T16:17:51+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "7ab74bff20cd1047f40f",
+      "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
+      "publishedAt": "2026-11-03T16:12:35+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "95a045d2728747e879ed",
+      "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
+      "summary": "The National Cyber Security Centre said AI will expose security flaws \"tolerated for far too long,\" and called time on \"tech on the cheap.\"",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
+      "publishedAt": "2026-11-03T16:09:19+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "4412c957851f7d804399",
+      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
+      "summary": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-03T15:44:42+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "585e04d66d663169ffd4",
       "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
@@ -946,160 +1100,6 @@
       "publishedAt": "2026-11-02T08:32:01+00:00",
       "category": "regulation",
       "importance": "high"
-    },
-    {
-      "id": "51ad7c5cd8e9e17b00c5",
-      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
-      "summary": "US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T07:50:36+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "e19cfa30a5b55be9104a",
-      "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
-      "publishedAt": "2026-11-02T06:46:41+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "36c1062340d705641b81",
-      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
-      "summary": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T05:34:02+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "0f31ba9842d76a1677e3",
-      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
-      "publishedAt": "2026-11-02T05:18:12+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "8682ff6dabd1af820e6e",
-      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
-      "publishedAt": "2026-11-02T04:42:22+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "d2f0ed060182ba057f7b",
-      "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
-      "publishedAt": "2026-11-02T04:41:16+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "382c20a30d1bce02480f",
-      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
-      "summary": "The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T03:55:50+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "65d388158f9963f2cd6e",
-      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
-      "summary": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T01:51:48+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "0d960e20631339c297f0",
-      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-      "summary": "The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-01T23:59:27+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "c259f08c24f2f9dff2f7",
-      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
-      "summary": "Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-01T23:09:13+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "37bb335c6e665fc123e3",
-      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
-      "publishedAt": "2026-11-01T19:30:00+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "4352bdcddcad5cf08ccb",
-      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
-      "publishedAt": "2026-11-01T17:00:00+00:00",
-      "category": "market",
-      "importance": "high"
-    },
-    {
-      "id": "55e05f0896bb6f3d8774",
-      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-      "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-      "publishedAt": "2026-11-01T16:01:02+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "74fe19048ac98b79de20",
-      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
-      "publishedAt": "2026-11-01T15:00:00+00:00",
-      "category": "market",
-      "importance": "low"
     }
   ]
 }
