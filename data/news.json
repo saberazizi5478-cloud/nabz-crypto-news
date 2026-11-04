@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-11-04T01:26:08.061015+00:00",
+  "updatedAt": "2026-11-04T08:04:30.892221+00:00",
   "news": [
+    {
+      "id": "d462bfef1fc1aa0003de",
+      "title": "Democrats win US House to secure control of Congress in midterms",
+      "summary": "Democrats will take control of House committees in January 2027, giving them power to investigate President Donald Trump’s administration.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-04T07:50:27+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "f9d53e8a1fa1fdba96fc",
+      "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+      "summary": "Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-04T07:25:47+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "5a08f91d725c74b43fa0",
+      "title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
+      "publishedAt": "2026-11-04T06:16:40+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "99fc4cc459a54ef72dc0",
+      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
+      "publishedAt": "2026-11-04T06:06:04+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "46e6095b1ddaa7132e4d",
+      "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
+      "summary": "Ethereum researcher Justin Drake said it is their “hope” that Ethereum will achieve its post-quantum and post-AI transition by December 2028.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-04T05:46:33+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "2122e50a2141fcc6ea83",
+      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+      "publishedAt": "2026-11-04T05:14:12+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "b16d3e630599e508af4d",
+      "title": "South Korea's ruling party wants to delay its crypto tax again",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
+      "publishedAt": "2026-11-04T05:09:40+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "cf272fa14795e82bf0dd",
+      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
+      "publishedAt": "2026-11-04T04:55:11+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "194253bdfdb2069bedde",
+      "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
+      "publishedAt": "2026-11-04T04:48:16+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "47817efb98efbe4a7b35",
+      "title": "Democrats claim control of the US Senate",
+      "summary": "The shift in Senate control could change the path for the CLARITY Act, reshape committee leadership and bring closer scrutiny of Trump’s crypto businesses.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-04T04:40:44+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "aa2d658eb146beea1807",
+      "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
+      "summary": "The French bank has not confirmed its alleged involvement in the crypto theft, which ZachXBT said could have resulted in losses exceeding $133 million.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-04T03:35:30+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "752b765ca97fbf031ae7",
       "title": "US midterms election 2026 live: Democratic Senate odds climb above 90%",
@@ -21,6 +142,17 @@
       "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-04T00:45:16+00:00",
       "category": "regulation",
+      "importance": "low"
+    },
+    {
+      "id": "acd75f7f3ceae2543529",
+      "title": "Live updates: Crypto's election gamble falters as Democratic victories usher in a 'blue wave'",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+      "publishedAt": "2026-11-04T00:00:00+00:00",
+      "category": "market",
       "importance": "low"
     },
     {
@@ -967,138 +1099,6 @@
       "url": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-02T13:48:28+00:00",
       "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "0abf7c4a011c9f635b80",
-      "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
-      "summary": "Uptober was far from it, with the Binance hack punctuating a red month. Will November be better? Or will the Binance hack hang over crypto?",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
-      "publishedAt": "2026-11-02T13:34:02+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "6e6b226855172f056159",
-      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
-      "summary": "Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T13:21:47+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "8b0752ead413b4cefbfd",
-      "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
-      "summary": "The Bitcoin treasury firm also spent $208.2 million buying back its STRC preferred stock, cutting its USD Cash balance to $132.7 million.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
-      "publishedAt": "2026-11-02T13:19:36+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "319aa6c3801544c610c7",
-      "title": "FATF targets crypto hubs in review of money laundering controls",
-      "summary": "The watchdog has not named the jurisdictions under review. Initial findings on compliance with its crypto standards are due in June 2027.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T12:56:07+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "dd4f1bce021515c1fddf",
-      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
-      "summary": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T12:40:45+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "1998793636ffdee37dde",
-      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
-      "publishedAt": "2026-11-02T12:37:24+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "f3b09015fbf0261b75dd",
-      "title": "Bitcoin's 'volatility curve' has a midterm bump",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
-      "publishedAt": "2026-11-02T12:30:17+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "eb9df210a992092721b2",
-      "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
-      "summary": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
-      "publishedAt": "2026-11-02T12:24:18+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "2eedefd24e179572e4d5",
-      "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
-      "publishedAt": "2026-11-02T11:57:45+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "33872bdc3f6c9c126765",
-      "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
-      "publishedAt": "2026-11-02T11:30:00+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "322591fa315f88c6efee",
-      "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
-      "summary": "Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T11:19:18+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "6e5b40bab7b3defec586",
-      "title": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
-      "summary": "Trezor cited July’s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T10:46:59+00:00",
-      "category": "market",
       "importance": "low"
     }
   ]
