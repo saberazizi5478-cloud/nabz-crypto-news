@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-11-03T21:04:11.261185+00:00",
+  "updatedAt": "2026-11-04T01:26:08.061015+00:00",
   "news": [
+    {
+      "id": "752b765ca97fbf031ae7",
+      "title": "US midterms election 2026 live: Democratic Senate odds climb above 90%",
+      "summary": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-04T01:20:56+00:00",
+      "category": "regulation",
+      "importance": "low"
+    },
+    {
+      "id": "60ffa8c293838def672a",
+      "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+      "summary": "Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-04T00:45:16+00:00",
+      "category": "regulation",
+      "importance": "low"
+    },
+    {
+      "id": "95f684ef15a1a9237aa3",
+      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+      "summary": "THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-03T23:56:09+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "9c4358ede7e414bf2665",
+      "title": "What voters said about their views on crypto",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+      "publishedAt": "2026-11-03T23:19:44+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "bdeb86cc48fbe219e9a8",
+      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+      "publishedAt": "2026-11-03T23:00:07+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "ba417a5b50b45c2776d2",
+      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
+      "summary": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+      "publishedAt": "2026-11-03T22:46:02+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "ff2510dd16b05b2ef081",
+      "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+      "publishedAt": "2026-11-03T22:14:44+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "97778b01a1d8528e57f5",
+      "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+      "summary": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-03T21:47:20+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "0002d0f5c33b159e89b0",
+      "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+      "summary": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
+      "publishedAt": "2026-11-03T21:16:03+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "930690a867e3ec7a71a3",
       "title": "CFTC clears stock perpetual futures for trading on US exchanges",
@@ -1001,105 +1100,6 @@
       "publishedAt": "2026-11-02T10:46:59+00:00",
       "category": "market",
       "importance": "low"
-    },
-    {
-      "id": "73c351bfba765d04761b",
-      "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
-      "summary": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
-      "publishedAt": "2026-11-02T10:36:19+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "edb64a5a5b2d3fca9ff3",
-      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
-      "summary": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T10:14:55+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "c9d9888506d0e060b4bd",
-      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
-      "summary": "Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T09:41:36+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "c50d3fd27b44bf02ccd0",
-      "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
-      "publishedAt": "2026-11-02T09:33:20+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "a020213a75cd68a65434",
-      "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
-      "publishedAt": "2026-11-02T09:04:49+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "3b871b6abd375d15a88d",
-      "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
-      "summary": "OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-02T08:56:03+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "f6b369780d1002d11c3d",
-      "title": "Live updates: Bitcoin bounce fades as Binance records $6 billion outflows after starting withdrawals",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
-      "publishedAt": "2026-11-02T08:49:30+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "73f6b3edb2cd08c6efc6",
-      "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
-      "publishedAt": "2026-11-02T08:41:28+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "4c3bea3345a47964d7a2",
-      "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
-      "publishedAt": "2026-11-02T08:32:01+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
