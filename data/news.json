@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-11-05T02:33:49.957723+00:00",
+  "updatedAt": "2026-11-05T09:52:29.023889+00:00",
   "news": [
+    {
+      "id": "01b8ca36d06d6cda5ecd",
+      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+      "summary": "South Korea is seeking a fourth delay to its 22% crypto tax, months after reaffirming plans to begin taxing digital asset gains in January 2027.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-05T09:35:29+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "2764fbaace02d581e221",
+      "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+      "summary": "Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-05T09:04:42+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "62ac9041758f5d89a709",
+      "title": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities",
+      "publishedAt": "2026-11-05T08:35:37+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "ed7bbfbda8aea76965c4",
+      "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
+      "publishedAt": "2026-11-05T08:26:26+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "642dbf0a23d1a71c92fc",
+      "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+      "summary": "Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 million, extending its outflow streak to four trading sessions.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-05T08:22:30+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "552e43ae5e35357af6a2",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-05T06:21:12+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "76ffeee77d0f306aecd4",
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "summary": "Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-05T06:02:29+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "40d4e18374f1d897ebe7",
+      "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+      "publishedAt": "2026-11-05T05:25:06+00:00",
+      "category": "altcoin",
+      "importance": "low"
+    },
+    {
+      "id": "dff30f3062ba2ace847d",
+      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+      "publishedAt": "2026-11-05T05:13:45+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "4ce9b7a630547485df03",
+      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+      "publishedAt": "2026-11-05T04:11:33+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "9a81190b94e6ccb48f83",
       "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
@@ -989,116 +1099,6 @@
       "url": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-03T10:49:26+00:00",
       "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "b10bad0e6e08b3c6587a",
-      "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
-      "summary": "Kim Yo Jong suggested the U.S. itself could be behind the theft, as Binance said hourly deposits had begun to exceed withdrawals.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
-      "publishedAt": "2026-11-03T10:18:48+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "e622e2ff9e0692f78066",
-      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
-      "publishedAt": "2026-11-03T10:15:53+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "64233337082eafd8f352",
-      "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
-      "summary": "Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-03T10:04:05+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "cd3c0f16155a2e212460",
-      "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
-      "publishedAt": "2026-11-03T09:50:16+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "a9f466b3efacd003e771",
-      "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
-      "publishedAt": "2026-11-03T09:40:32+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "87d4a0d656be3926cb6a",
-      "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
-      "publishedAt": "2026-11-03T08:56:48+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "0b5143000719e7886f33",
-      "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
-      "publishedAt": "2026-11-03T08:50:56+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "1896eb8e28c63055bd19",
-      "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
-      "summary": "ARK Invest added Coinbase and Circle shares across two trading sessions while selling about $8 million in Bullish as crypto stocks declined.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-03T08:35:13+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "accfb1c0cd1d94834504",
-      "title": "Kraken restricts accounts amid suspected $133M EU crypto theft",
-      "summary": "Crypto.com also took steps to block funds tied to the suspected theft, while Kraken said its systems and customer accounts were not compromised.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-03T08:18:22+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "92e8827bb978f67f2362",
-      "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
-      "summary": "BlackRock’s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-03T07:49:51+00:00",
-      "category": "btc",
       "importance": "high"
     }
   ]
