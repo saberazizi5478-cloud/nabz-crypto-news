@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-05T23:40:13.734668+00:00",
+  "updatedAt": "2026-11-06T03:41:18.314690+00:00",
   "news": [
+    {
+      "id": "1bdca65b3884fffacfa7",
+      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+      "publishedAt": "2026-11-06T01:30:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "ab7269d7415f979c5dc5",
+      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+      "summary": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T00:19:49+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "ab29cd2a4869275ee131",
       "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
@@ -99,6 +121,17 @@
       "publishedAt": "2026-11-05T19:02:19+00:00",
       "category": "security",
       "importance": "high"
+    },
+    {
+      "id": "59fd7c04a44fefbd29c9",
+      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+      "publishedAt": "2026-11-05T18:48:40+00:00",
+      "category": "btc",
+      "importance": "low"
     },
     {
       "id": "c6866791fe0f8bd4ea5b",
@@ -1066,39 +1099,6 @@
       "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-04T00:45:16+00:00",
       "category": "regulation",
-      "importance": "low"
-    },
-    {
-      "id": "acd75f7f3ceae2543529",
-      "title": "Live updates: Crypto's election gamble falters as Democratic victories usher in a 'blue wave'",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
-      "publishedAt": "2026-11-04T00:00:00+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "95f684ef15a1a9237aa3",
-      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-      "summary": "THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-03T23:56:09+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "9c4358ede7e414bf2665",
-      "title": "What voters said about their views on crypto",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
-      "publishedAt": "2026-11-03T23:19:44+00:00",
-      "category": "market",
       "importance": "low"
     }
   ]
