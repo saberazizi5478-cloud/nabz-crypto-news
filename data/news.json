@@ -1,6 +1,149 @@
 {
-  "updatedAt": "2026-11-06T03:41:18.314690+00:00",
+  "updatedAt": "2026-11-06T11:33:45.279949+00:00",
   "news": [
+    {
+      "id": "67b4d3fbff656820df8f",
+      "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+      "summary": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T11:26:30+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "79f970bb8924e7f6bc2f",
+      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+      "summary": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T11:16:53+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "12c6575618869c766558",
+      "title": "Greece approves 10% tax on crypto gains starting in 2027",
+      "summary": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T11:05:36+00:00",
+      "category": "market",
+      "importance": "high"
+    },
+    {
+      "id": "22e2a728569868f2594a",
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+      "summary": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+      "publishedAt": "2026-11-06T10:57:06+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "624ec5346ea70382f935",
+      "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+      "summary": "South Korea’s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T10:47:33+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "1e876f4573f1c5bc4139",
+      "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
+      "summary": "Experts say blockchain records show repeated wallet drains but cannot establish Binance’s internal signing controls or transaction limits.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T10:40:57+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "3be0fb52393f4b7b989b",
+      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+      "publishedAt": "2026-11-06T09:53:27+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "9e5e0f52c8ff0c0f86a2",
+      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+      "publishedAt": "2026-11-06T08:47:42+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "dc95826bdb4462795617",
+      "title": "Hyperliquid Strategies seeks futures registration for perps",
+      "summary": "The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T08:42:54+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "8b56a8691c02299ac313",
+      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+      "summary": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T08:19:18+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "8ee0a12ccdd586b42e35",
+      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+      "publishedAt": "2026-11-06T08:04:52+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "cf0a5925a73f9073dee0",
+      "title": "Chainalysis says breach exposed password hashes and live tokens",
+      "summary": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T06:54:34+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "0ec2ed00000c9a4bace5",
+      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+      "summary": "Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T05:07:00+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
     {
       "id": "1bdca65b3884fffacfa7",
       "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
@@ -957,149 +1100,6 @@
       "publishedAt": "2026-11-04T09:15:55+00:00",
       "category": "security",
       "importance": "high"
-    },
-    {
-      "id": "d462bfef1fc1aa0003de",
-      "title": "Democrats win US House to secure control of Congress in midterms",
-      "summary": "Democrats will take control of House committees in January 2027, giving them power to investigate President Donald Trump’s administration.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T07:50:27+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "f9d53e8a1fa1fdba96fc",
-      "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
-      "summary": "Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T07:25:47+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "5a08f91d725c74b43fa0",
-      "title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
-      "publishedAt": "2026-11-04T06:16:40+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "99fc4cc459a54ef72dc0",
-      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
-      "publishedAt": "2026-11-04T06:06:04+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "46e6095b1ddaa7132e4d",
-      "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
-      "summary": "Ethereum researcher Justin Drake said it is their “hope” that Ethereum will achieve its post-quantum and post-AI transition by December 2028.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T05:46:33+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "2122e50a2141fcc6ea83",
-      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
-      "publishedAt": "2026-11-04T05:14:12+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "b16d3e630599e508af4d",
-      "title": "South Korea's ruling party wants to delay its crypto tax again",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
-      "publishedAt": "2026-11-04T05:09:40+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "cf272fa14795e82bf0dd",
-      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
-      "publishedAt": "2026-11-04T04:55:11+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "194253bdfdb2069bedde",
-      "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
-      "publishedAt": "2026-11-04T04:48:16+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "47817efb98efbe4a7b35",
-      "title": "Democrats claim control of the US Senate",
-      "summary": "The shift in Senate control could change the path for the CLARITY Act, reshape committee leadership and bring closer scrutiny of Trump’s crypto businesses.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T04:40:44+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "aa2d658eb146beea1807",
-      "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
-      "summary": "The French bank has not confirmed its alleged involvement in the crypto theft, which ZachXBT said could have resulted in losses exceeding $133 million.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T03:35:30+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "752b765ca97fbf031ae7",
-      "title": "US midterms election 2026 live: Democratic Senate odds climb above 90%",
-      "summary": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T01:20:56+00:00",
-      "category": "regulation",
-      "importance": "low"
-    },
-    {
-      "id": "60ffa8c293838def672a",
-      "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
-      "summary": "Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T00:45:16+00:00",
-      "category": "regulation",
-      "importance": "low"
     }
   ]
 }
