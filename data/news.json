@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-06T18:30:48.356685+00:00",
+  "updatedAt": "2026-11-06T23:32:28.312029+00:00",
   "news": [
+    {
+      "id": "36177d33aff2e6e2190f",
+      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+      "summary": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+      "publishedAt": "2026-11-06T21:06:03+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "17e77e6707e03aabe5e2",
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T20:51:23+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "b909892be08d22ac79cb",
+      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+      "summary": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T20:36:25+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "0f810f875dec02998134",
+      "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+      "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+      "publishedAt": "2026-11-06T20:36:03+00:00",
+      "category": "market",
+      "importance": "high"
+    },
+    {
+      "id": "edc856ed1d76aa727efe",
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+      "publishedAt": "2026-11-06T20:09:18+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "7366d94d8dd0b8a5c22e",
+      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+      "summary": "While the proposal doesn’t exclude altcoins and smaller cryptocurrencies, experts say they could face challenges getting into retirement plans.",
+      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T20:04:27+00:00",
+      "category": "altcoin",
+      "importance": "low"
+    },
+    {
+      "id": "f1191265ab7f58895258",
+      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+      "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-06T18:47:45+00:00",
+      "category": "usdt",
+      "importance": "medium"
+    },
+    {
+      "id": "713fecced3aa9fff288e",
+      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+      "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+      "publishedAt": "2026-11-06T18:36:03+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
     {
       "id": "09568f176e71607711cf",
       "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
@@ -1011,94 +1099,6 @@
       "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-04T18:47:56+00:00",
       "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "4f541a51b9b9b3f27f55",
-      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
-      "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
-      "publishedAt": "2026-11-04T18:16:02+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "0ff6d887039b15e221a0",
-      "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
-      "summary": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T18:02:42+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "f5d5ff2c8b54d8246ac1",
-      "title": "What Is x402? How AI Agents Pay With Crypto",
-      "summary": "Coinbase's x402 protocol puts the web's long-unused 402 code to work so AI agents and apps can pay for APIs and data in stablecoins like USDC.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
-      "publishedAt": "2026-11-04T17:59:09+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "6aa3c2e881bbd7dff280",
-      "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
-      "summary": "Bitcoin bounced back after Democrats won control of Congress, but a stalled market structure bill and heavy industry campaign spending reveal crypto’s exposure to shifting US political power.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
-      "publishedAt": "2026-11-04T16:49:31+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "523de79e9f0b4bb3f0ae",
-      "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
-      "summary": "Morgan Stanley says it has converted U.S. equities and Treasuries into tokenized form through the newly launched DTCC Tokenization Service, which 20 Wall Street firms have signed up to use.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
-      "publishedAt": "2026-11-04T16:29:36+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "f489bc05b1eeda4634f2",
-      "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
-      "summary": "The French bank said the attack allowed \"fraudulent operations\" but did not mention crypto, and is still assessing the amounts.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
-      "publishedAt": "2026-11-04T15:30:31+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "6d8e58a25d929e2bcb9a",
-      "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
-      "summary": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T15:29:23+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "52c48c7085d2f7d82547",
-      "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
-      "publishedAt": "2026-11-04T15:27:20+00:00",
-      "category": "market",
       "importance": "low"
     }
   ]
