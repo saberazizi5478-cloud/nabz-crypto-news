@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-07T10:26:18.862986+00:00",
+  "updatedAt": "2026-11-07T16:38:27.037774+00:00",
   "news": [
+    {
+      "id": "93b43cac4180e03f4254",
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "summary": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-07T14:16:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "132eb4ddfdc37214444b",
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "summary": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-07T13:30:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "b07dcc74f0aec1e521fc",
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-07T11:10:47+00:00",
+      "category": "exchange",
+      "importance": "high"
+    },
     {
       "id": "36177d33aff2e6e2190f",
       "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
@@ -1067,39 +1100,6 @@
       "publishedAt": "2026-11-04T20:46:03+00:00",
       "category": "regulation",
       "importance": "high"
-    },
-    {
-      "id": "d9c848a678890c73e5d2",
-      "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
-      "publishedAt": "2026-11-04T20:29:12+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "140ec845ac3f9273a591",
-      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
-      "summary": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T19:15:39+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "3c54c29950cd88b9ce88",
-      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
-      "summary": "Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T18:47:56+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
