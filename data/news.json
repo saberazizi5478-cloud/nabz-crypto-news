@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-07T16:38:27.037774+00:00",
+  "updatedAt": "2026-11-07T20:32:35.299176+00:00",
   "news": [
+    {
+      "id": "40fc94677bef6f99dbf8",
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "publishedAt": "2026-11-07T19:13:16+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "9e599ca2c9163cbc9a4c",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "publishedAt": "2026-11-07T17:36:46+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "62014a88065e7c5ddf8a",
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "publishedAt": "2026-11-07T16:51:00+00:00",
+      "category": "security",
+      "importance": "high"
+    },
     {
       "id": "93b43cac4180e03f4254",
       "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
@@ -1066,39 +1099,6 @@
       "url": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-04T22:31:58+00:00",
       "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "fc82586ca296cc25ed4f",
-      "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
-      "summary": "Crypto super PACs spent more than $176 million on the midterms, but the Democratic sweep raises the prospect of tougher industry scrutiny.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T22:17:33+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "0b36456661611febe384",
-      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1",
-      "summary": "From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies Australian Bitcoiners can employ to deal with 2027’s massive CGT hike.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T21:30:00+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "3649f95031ae4e95b47e",
-      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
-      "summary": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
-      "publishedAt": "2026-11-04T20:46:03+00:00",
-      "category": "regulation",
       "importance": "high"
     }
   ]
