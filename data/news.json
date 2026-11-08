@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-08T06:08:23.596636+00:00",
+  "updatedAt": "2026-11-08T13:30:03.224233+00:00",
   "news": [
+    {
+      "id": "a38bace2a83eee61518f",
+      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+      "summary": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-08T12:57:51+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "2826810ae2f67188cb78",
+      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+      "publishedAt": "2026-11-08T12:55:59+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "1d7a234ee549f655210e",
+      "title": "Binance’s finance chief Kaiser Ng to leave company, report says",
+      "summary": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-08T08:12:56+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
     {
       "id": "40fc94677bef6f99dbf8",
       "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
@@ -1067,39 +1100,6 @@
       "publishedAt": "2026-11-04T22:55:00+00:00",
       "category": "usdt",
       "importance": "low"
-    },
-    {
-      "id": "eddc0395264fcd09b834",
-      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
-      "publishedAt": "2026-11-04T22:51:42+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "7c13c147073b08812313",
-      "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
-      "summary": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it’s about Bitcoin maintenance.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
-      "publishedAt": "2026-11-04T22:46:03+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "70b072955be318296cf2",
-      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-      "summary": "The crypto exchange’s founder warned of security staffing shortages amid restructuring as analysts flagged suspicious transfers potentially linked to the Mercado Bitcoin hack.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-04T22:31:58+00:00",
-      "category": "btc",
-      "importance": "high"
     }
   ]
 }
