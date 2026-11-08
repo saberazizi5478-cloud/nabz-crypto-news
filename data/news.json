@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-08T13:30:03.224233+00:00",
+  "updatedAt": "2026-11-08T18:31:29.742124+00:00",
   "news": [
+    {
+      "id": "516d3f7ea51a1de04e9c",
+      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+      "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+      "publishedAt": "2026-11-08T14:01:03+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "a38bace2a83eee61518f",
       "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
@@ -1089,17 +1100,6 @@
       "publishedAt": "2026-11-04T23:20:17+00:00",
       "category": "btc",
       "importance": "high"
-    },
-    {
-      "id": "8f1efed04af428e1f4d0",
-      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
-      "publishedAt": "2026-11-04T22:55:00+00:00",
-      "category": "usdt",
-      "importance": "low"
     }
   ]
 }
