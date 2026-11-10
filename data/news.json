@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-11-09T20:47:28.447642+00:00",
+  "updatedAt": "2026-11-10T03:36:37.494892+00:00",
   "news": [
+    {
+      "id": "a41b3bf4ab07178dcc3c",
+      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "publishedAt": "2026-11-10T03:22:26+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "1bac089069c9d0d88bf2",
+      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "summary": "Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-10T03:04:54+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "ce4302c3b53a881e317e",
+      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+      "summary": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-10T00:42:39+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "3020b139aac9a3dba067",
+      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+      "publishedAt": "2026-11-09T22:56:27+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "7c7b2d50ea2b2f89f5e7",
+      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+      "summary": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-09T21:00:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "943cbaf4dd6f3d15eebd",
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-09T20:26:34+00:00",
+      "category": "security",
+      "importance": "high"
+    },
     {
       "id": "c63f42c0b36c16de86e7",
       "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
@@ -1033,72 +1099,6 @@
       "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-05T22:18:42+00:00",
       "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "690eedb85529b815f6c5",
-      "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
-      "summary": "Ueno’s collapse trapped millions of Paraguayan depositors and triggered a president’s resignation, reviving Bitcoin’s argument for self-custody.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
-      "publishedAt": "2026-11-05T22:16:03+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "32aa84ce82b3812ca03e",
-      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
-      "summary": "Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take control in January.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-05T21:39:19+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "28bba554cbde81fa5596",
-      "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
-      "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
-      "publishedAt": "2026-11-05T21:36:03+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "8f68bf54e498649a53e9",
-      "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
-      "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
-      "publishedAt": "2026-11-05T20:16:03+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "426b9fd8ce0a0ed9204f",
-      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
-      "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
-      "publishedAt": "2026-11-05T19:46:03+00:00",
-      "category": "market",
-      "importance": "medium"
-    },
-    {
-      "id": "9d58435549ef8636309c",
-      "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
-      "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
-      "publishedAt": "2026-11-05T19:16:03+00:00",
-      "category": "regulation",
       "importance": "high"
     }
   ]
