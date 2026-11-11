@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-11-10T19:47:17.176209+00:00",
+  "updatedAt": "2026-11-11T00:41:06.818210+00:00",
   "news": [
+    {
+      "id": "8ce118761c6b05538121",
+      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+      "summary": "The prediction markets operator says the issue involves procedural errors affecting a handful of contracts, many of which weren’t live, according to Politico.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-10T23:49:51+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "34b1a3d06bb9bac39fb2",
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "summary": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-10T23:08:28+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "30234a21dc2f294616b9",
+      "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
+      "summary": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
+      "publishedAt": "2026-11-10T22:46:02+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "06de0c73462de2a21635",
+      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+      "summary": "Truth Social’s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
+      "publishedAt": "2026-11-10T21:36:03+00:00",
+      "category": "btc",
+      "importance": "medium"
+    },
+    {
+      "id": "b06162c128174aec4695",
+      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+      "summary": "Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-10T21:34:40+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "54093cc819b4ce8b5e5c",
+      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
+      "summary": "The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-10T21:24:36+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "7c3c587e1059480270bf",
+      "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
+      "summary": "Ava Labs’ John Nahas said the collaboration with the NYSE shows institutions moving past pilots toward purpose-built onchain market infrastructure.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-10T21:07:44+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "88589055529b3496e625",
+      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+      "summary": "The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-10T20:26:02+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "1a98c97c5b83bf4a3f89",
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+      "publishedAt": "2026-11-10T20:15:08+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "6ccaed233252427c52a5",
       "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
@@ -1001,105 +1100,6 @@
       "publishedAt": "2026-11-07T19:13:16+00:00",
       "category": "exchange",
       "importance": "low"
-    },
-    {
-      "id": "9e599ca2c9163cbc9a4c",
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-      "publishedAt": "2026-11-07T17:36:46+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "62014a88065e7c5ddf8a",
-      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-      "publishedAt": "2026-11-07T16:51:00+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "93b43cac4180e03f4254",
-      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
-      "summary": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-07T14:16:00+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "132eb4ddfdc37214444b",
-      "title": "Bitcoin holders have received eCash — What can you do with it?",
-      "summary": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-07T13:30:00+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "b07dcc74f0aec1e521fc",
-      "title": "US sanctions Canadian money-exchange firms over Iran ties",
-      "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-07T11:10:47+00:00",
-      "category": "exchange",
-      "importance": "high"
-    },
-    {
-      "id": "36177d33aff2e6e2190f",
-      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "summary": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
-      "publishedAt": "2026-11-06T21:06:03+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "17e77e6707e03aabe5e2",
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-06T20:51:23+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "b909892be08d22ac79cb",
-      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
-      "summary": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-06T20:36:25+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "0f810f875dec02998134",
-      "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
-      "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
-      "publishedAt": "2026-11-06T20:36:03+00:00",
-      "category": "market",
-      "importance": "high"
     }
   ]
 }
