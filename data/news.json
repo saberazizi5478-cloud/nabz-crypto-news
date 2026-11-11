@@ -1,6 +1,149 @@
 {
-  "updatedAt": "2026-11-11T15:18:45.568963+00:00",
+  "updatedAt": "2026-11-11T22:18:28.952466+00:00",
   "news": [
+    {
+      "id": "e1d78f2318ffe81a39ca",
+      "title": "Uncalled US House races could send more crypto allies to Congress",
+      "summary": "The remaining races feature pro-crypto candidates and others without a stated position, giving advocacy groups what they see as “an opportunity” for outreach.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-11T22:05:17+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "645b579f9a99605f3998",
+      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+      "summary": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+      "publishedAt": "2026-11-11T21:46:03+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "7f0da959150d3cf63b18",
+      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+      "summary": "The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European operations.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-11T21:36:01+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "8710196f2016d867c4ee",
+      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "summary": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+      "publishedAt": "2026-11-11T21:16:03+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "65aa2b1cabee6a9dc40c",
+      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+      "summary": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-11T20:43:19+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "e352a1481f87fdc3f1e3",
+      "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
+      "summary": "BotPsy packs 800 million parameters into an AI assistant designed to manage everyday tasks locally, outperforming larger rivals as Tether expands its push into decentralized artificial intelligence.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
+      "publishedAt": "2026-11-11T19:36:02+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "73bf1cd1ff93958fbd07",
+      "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
+      "summary": "Deutsche Bank’s custody service now holds Bitcoin, Ethereum and three stablecoins for institutional and corporate clients in Europe.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+      "publishedAt": "2026-11-11T19:06:02+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "1624cce69e4472214ed8",
+      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
+      "summary": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-11T18:30:43+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "30cd91a4cfbab9057675",
+      "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+      "summary": "Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
+      "publishedAt": "2026-11-11T17:56:02+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "dd3d90efe88c49dcdea4",
+      "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
+      "summary": "Three bugs—spanning denial-of-service and privacy issues rather than coin theft—have all been patched, with the most serious capable of halting a miner’s ability to build new blocks.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+      "publishedAt": "2026-11-11T16:58:57+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "2e3f13f84392be8b9a05",
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "summary": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-11T16:26:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "4da29d5e85a407ab296e",
+      "title": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
+      "summary": "OKXICE will open its tokenized securities venue Nov. 23 with more than 70 assets, led by crypto companies like Coinbase, Circle, Robinhood and Strategy, after 67 companies objected to having their shares listed.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
+      "publishedAt": "2026-11-11T16:14:01+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "3fa7323e5dbf5761bd2c",
+      "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
+      "publishedAt": "2026-11-11T16:00:45+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "9f6acbdcf8d9a1acb1c4",
       "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
@@ -957,149 +1100,6 @@
       "publishedAt": "2026-11-09T17:13:25+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "70040b95f944ee20c51d",
-      "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
-      "summary": "The firm’s stash reached 6.07 million ETH—4.97% of supply and 99% of the way to its “Alchemy of 5%” goal—as chairman Tom Lee called Vitalik Buterin’s “ETH is money” comments a “seismic shift.”",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money",
-      "publishedAt": "2026-11-09T17:08:21+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "8225f613df042b29ec9d",
-      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
-      "publishedAt": "2026-11-09T16:19:45+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "836db68309bfece2bef0",
-      "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
-      "summary": "Ava Labs said Avalanche will serve as the “core ledger technology” for the clearing firm behind the NYSE-affiliated venue, which aims to bring 24/7 trading, clearing and settlement of tokenized securities onchain.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform",
-      "publishedAt": "2026-11-09T15:49:22+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "62c6fdc0d92a825d2d6d",
-      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
-      "publishedAt": "2026-11-09T15:00:44+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "245624b21467a42c7d55",
-      "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
-      "summary": "Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-09T13:52:46+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "aad22da6ee896a386ab5",
-      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
-      "publishedAt": "2026-11-09T13:40:06+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "552e43ae5e35357af6a2",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-09T13:36:56+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "2c1a1174c465fba0d75e",
-      "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
-      "summary": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-09T13:30:00+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "5a3805f22d55a5c3d191",
-      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-      "summary": "Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-09T13:29:47+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "cfd35b2cdc4380c4e7a8",
-      "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
-      "summary": "The Bitcoin treasury firm sold $284 million of MSTR stock to fund the moves, days before MSCI names companies facing index removal.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
-      "publishedAt": "2026-11-09T13:24:29+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "72742bbfe6ff313c39fc",
-      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-      "publishedAt": "2026-11-09T12:41:35+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "47b4774360a33336e38e",
-      "title": "Bitcoin bulls can't rely on ETF flows",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-      "publishedAt": "2026-11-09T12:30:00+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "620cbb60d6c05ecb0929",
-      "title": "EU taps industry to set standards for tokenized securities",
-      "summary": "Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-09T12:27:06+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
