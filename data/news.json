@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-11T00:41:06.818210+00:00",
+  "updatedAt": "2026-11-11T07:12:46.831376+00:00",
   "news": [
+    {
+      "id": "2ecdb828a8a7d75833c8",
+      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+      "summary": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on its halted network.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-11T05:52:14+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "8ef4189a6918d6980505",
+      "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+      "summary": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Democrats won the midterms.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-11T03:07:45+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "443733b5f757dcd2d4e4",
+      "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+      "summary": "The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after upgrading.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-11T01:16:58+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "8ce118761c6b05538121",
       "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
@@ -1065,39 +1098,6 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-08T12:57:51+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "2826810ae2f67188cb78",
-      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-      "publishedAt": "2026-11-08T12:55:59+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "1d7a234ee549f655210e",
-      "title": "Binance’s finance chief Kaiser Ng to leave company, report says",
-      "summary": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-08T08:12:56+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "40fc94677bef6f99dbf8",
-      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-      "publishedAt": "2026-11-07T19:13:16+00:00",
       "category": "exchange",
       "importance": "low"
     }
