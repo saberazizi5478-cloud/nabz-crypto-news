@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-11T22:18:28.952466+00:00",
+  "updatedAt": "2026-11-12T03:24:23.153865+00:00",
   "news": [
+    {
+      "id": "44f38d1b0d4b2991aff6",
+      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+      "summary": "The self-custodial wallet will keep its API services running through Nov. 14. Sui’s DeFi total value locked has fallen more than 22% over the past month.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-11T23:18:44+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "1cb4929acc1971749f7b",
+      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
+      "summary": "The report about Huang’s possible departure came after the New York Times reported that he had a second extramarital affair.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-11T22:44:47+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "552e43ae5e35357af6a2",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-11T22:15:26+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "e1d78f2318ffe81a39ca",
       "title": "Uncalled US House races could send more crypto allies to Congress",
@@ -1067,39 +1100,6 @@
       "publishedAt": "2026-11-09T17:46:02+00:00",
       "category": "regulation",
       "importance": "high"
-    },
-    {
-      "id": "66e747ece47fa620f782",
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-      "summary": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-09T17:41:02+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "6d7411fe0aaa5459ab14",
-      "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
-      "summary": "The Ethereum co-founder says ETH's value comes from stability, not fee burns, citing its decentralization, censorship resistance and security.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
-      "publishedAt": "2026-11-09T17:14:10+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "7d167ad339aeb71a313b",
-      "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
-      "summary": "Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-09T17:13:25+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
