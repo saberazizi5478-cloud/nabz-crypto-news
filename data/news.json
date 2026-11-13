@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-11-13T01:08:13.859146+00:00",
+  "updatedAt": "2026-11-13T08:03:39.618369+00:00",
   "news": [
+    {
+      "id": "e25f7c9dcd544c737f51",
+      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+      "publishedAt": "2026-11-13T07:05:29+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "81a2324ddc1d81e8dc5c",
+      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+      "publishedAt": "2026-11-13T06:03:41+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "69d9ecc6f6393dd874ea",
+      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+      "summary": "Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-13T06:00:15+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "44fec9842de52a2607e4",
+      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+      "publishedAt": "2026-11-13T05:45:26+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "1eb8b17e81a35d5098f4",
+      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+      "publishedAt": "2026-11-13T05:08:59+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "ca864d1c47d47f7ab4e3",
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "publishedAt": "2026-11-13T03:37:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "48091c99b3fd2626b646",
+      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+      "summary": "The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-13T02:29:27+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "14fe4a93c76f70b15c68",
       "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
@@ -1022,83 +1099,6 @@
       "url": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-10T21:07:44+00:00",
       "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "88589055529b3496e625",
-      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
-      "summary": "The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-10T20:26:02+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "1a98c97c5b83bf4a3f89",
-      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
-      "publishedAt": "2026-11-10T20:15:08+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "6ccaed233252427c52a5",
-      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
-      "summary": "Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonprofits and launched a national ad campaign, as ZEC fell more than 11%.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
-      "publishedAt": "2026-11-10T19:16:02+00:00",
-      "category": "market",
-      "importance": "high"
-    },
-    {
-      "id": "096eb044f31b0c64d441",
-      "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants",
-      "summary": "The funding, backing a U.S.-incorporated issuer codenamed “Project Faro,” covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
-      "publishedAt": "2026-11-10T18:33:37+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "51520bc039fee583a101",
-      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
-      "summary": "Starting next week, customers can deposit and withdraw money through Brazil’s instant payment system. Crypto transfers remain suspended.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-10T18:12:07+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "ca31ecf5f7974f9a0014",
-      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
-      "publishedAt": "2026-11-10T17:32:22+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "c5c1462992d1ad9577ed",
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
-      "summary": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors.",
-      "impact": "اخبار اقتصاد کلان می‌توانند بر دارایی‌های پرریسک اثر بگذارند؛ جهت و شدت اثر از پیش قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-10T17:31:09+00:00",
-      "category": "macro",
       "importance": "low"
     }
   ]
