@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-11-13T16:29:25.090366+00:00",
+  "updatedAt": "2026-11-13T22:13:29.525886+00:00",
   "news": [
+    {
+      "id": "a039aef7efa5993b9b99",
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-13T22:01:03+00:00",
+      "category": "market",
+      "importance": "medium"
+    },
+    {
+      "id": "6700b4aaa1bdd70f586a",
+      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "summary": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-13T21:49:27+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "696b7f1c34801feccafe",
+      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+      "summary": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-13T20:53:20+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "87ee340a6f29761f4a7b",
+      "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+      "summary": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+      "publishedAt": "2026-11-13T20:16:03+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "f8bdbaa09cb5c6f97681",
+      "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+      "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+      "publishedAt": "2026-11-13T19:36:03+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "ada35918fbcbd6cfe99a",
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+      "publishedAt": "2026-11-13T18:39:58+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "61933f8bde9fe64675f7",
+      "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
+      "summary": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+      "publishedAt": "2026-11-13T18:36:02+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "9360cb6764b7a638f67d",
+      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+      "summary": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-13T18:28:29+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "be98bbd20aa185877266",
+      "title": "Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators",
+      "summary": "The bipartisan slate—two Republicans and two Democrats, Trump’s first Democratic picks for either agency—would refill commissions that have driven crypto policy since the Clarity Act’s collapse.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
+      "publishedAt": "2026-11-13T17:56:03+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "ea0cf94847385f2c418f",
+      "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
+      "summary": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
+      "publishedAt": "2026-11-13T17:22:54+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "d5c81aad4bd777de0e9d",
+      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+      "publishedAt": "2026-11-13T17:05:43+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "edc6c113d48004710be7",
+      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+      "summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-13T16:39:11+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "dfdf1d79559d4f6b01f5",
       "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
@@ -967,138 +1099,6 @@
       "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
       "publishedAt": "2026-11-11T13:00:00+00:00",
       "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "a2d9bac857aeff9c3b95",
-      "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
-      "publishedAt": "2026-11-11T12:57:36+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "ad4b8d5ab14ba5f0a805",
-      "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
-      "summary": "Hint: if it plays out similarly to the SpaceX IPO, it means the Bitcoin bottom is very close.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
-      "publishedAt": "2026-11-11T12:55:18+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "249ad88989b99979f5e1",
-      "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
-      "summary": "The expansion takes xStocks past 1,500 tokenized assets, though the new UK tokens still can't be bought by investors in the UK.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
-      "publishedAt": "2026-11-11T12:46:24+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "e96074d5e404f390d7d6",
-      "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
-      "summary": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-11T12:44:10+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "1cc5899e0ccc99e62051",
-      "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-      "publishedAt": "2026-11-11T12:21:24+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "6c6cd67584d343b632e5",
-      "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
-      "publishedAt": "2026-11-11T12:19:30+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "edd90f28c12f2c03d3d4",
-      "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
-      "summary": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity’s Bitcoin ETF.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-11T11:56:23+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "5a6f8e25a1fa9e7b337f",
-      "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-      "publishedAt": "2026-11-11T11:37:04+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "98263445bb4941ddbccf",
-      "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
-      "summary": "The expansion adds more than 200 tokenized UK and EU equities, including all 40 companies in Germany’s DAX index, as xStocks plans further expansion into Hong Kong.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-11T11:30:36+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "5c38b4b3f8dab57a8fef",
-      "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
-      "summary": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders’ average cost basis of about $75,700, according to CryptoQuant.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-11T11:05:26+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "da9dfd258316f835ffc0",
-      "title": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
-      "summary": "The New York Stock Exchange will use Avalanche infrastructure, but experts say that won't necessarily boost AVAX's price.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax",
-      "publishedAt": "2026-11-11T10:53:11+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "985dd6ea703302e6847e",
-      "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
-      "publishedAt": "2026-11-11T10:45:49+00:00",
-      "category": "btc",
       "importance": "low"
     }
   ]
