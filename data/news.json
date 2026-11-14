@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-13T22:13:29.525886+00:00",
+  "updatedAt": "2026-11-14T02:28:48.716945+00:00",
   "news": [
+    {
+      "id": "0d5d0393347927de3f2c",
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "publishedAt": "2026-11-13T23:30:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "a039aef7efa5993b9b99",
       "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
@@ -1088,17 +1099,6 @@
       "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-11T13:26:18+00:00",
       "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "176953e5238ba63dd555",
-      "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
-      "publishedAt": "2026-11-11T13:00:00+00:00",
-      "category": "exchange",
       "importance": "low"
     }
   ]
