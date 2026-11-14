@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-14T02:28:48.716945+00:00",
+  "updatedAt": "2026-11-14T09:28:37.605129+00:00",
   "news": [
+    {
+      "id": "b7be8f63bcc8bd3812d4",
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-14T08:12:30+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "6a6d922257e6f3ed7c3b",
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+      "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-14T06:33:13+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "0949d767caecba5ca83f",
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+      "publishedAt": "2026-11-14T04:30:00+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
     {
       "id": "0d5d0393347927de3f2c",
       "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
@@ -1067,39 +1100,6 @@
       "publishedAt": "2026-11-11T14:02:55+00:00",
       "category": "altcoin",
       "importance": "medium"
-    },
-    {
-      "id": "cd85949675c4e3794409",
-      "title": "Deutsche Bank launches crypto custody for companies and institutions",
-      "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-11T14:02:18+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "e28dc78a8dbe3a331e27",
-      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
-      "summary": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-11T13:30:00+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "61578f8848b7fbc443db",
-      "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-      "summary": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-11T13:26:18+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
