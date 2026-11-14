@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-14T16:08:20.884579+00:00",
+  "updatedAt": "2026-11-14T20:45:00.903570+00:00",
   "news": [
+    {
+      "id": "55702da5b58a6baa40be",
+      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+      "publishedAt": "2026-11-14T16:33:29+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "76fdb999c9cc02d3233d",
+      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+      "publishedAt": "2026-11-14T16:33:23+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "ce12d04a76d2165c76be",
       "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
@@ -1078,28 +1100,6 @@
       "publishedAt": "2026-11-11T19:36:02+00:00",
       "category": "usdt",
       "importance": "low"
-    },
-    {
-      "id": "73bf1cd1ff93958fbd07",
-      "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
-      "summary": "Deutsche Bank’s custody service now holds Bitcoin, Ethereum and three stablecoins for institutional and corporate clients in Europe.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
-      "publishedAt": "2026-11-11T19:06:02+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "1624cce69e4472214ed8",
-      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
-      "summary": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-11T18:30:43+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
