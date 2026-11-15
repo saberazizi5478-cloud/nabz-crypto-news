@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-15T00:23:37.626403+00:00",
+  "updatedAt": "2026-11-15T07:14:41.619500+00:00",
   "news": [
+    {
+      "id": "40324e9d8fa589e3af5b",
+      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-15T06:27:26+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "55e65d1272956070593e",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "publishedAt": "2026-11-15T02:50:57+00:00",
+      "category": "altcoin",
+      "importance": "low"
+    },
     {
       "id": "55702da5b58a6baa40be",
       "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
@@ -1077,28 +1099,6 @@
       "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
       "publishedAt": "2026-11-11T21:16:03+00:00",
       "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "65aa2b1cabee6a9dc40c",
-      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-      "summary": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-11T20:43:19+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "e352a1481f87fdc3f1e3",
-      "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
-      "summary": "BotPsy packs 800 million parameters into an AI assistant designed to manage everyday tasks locally, outperforming larger rivals as Tether expands its push into decentralized artificial intelligence.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
-      "publishedAt": "2026-11-11T19:36:02+00:00",
-      "category": "usdt",
       "importance": "low"
     }
   ]
