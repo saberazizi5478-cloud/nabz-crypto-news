@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-16T00:24:20.338335+00:00",
+  "updatedAt": "2026-11-16T07:21:03.369618+00:00",
   "news": [
+    {
+      "id": "0552fbbfc7645d5c7e5c",
+      "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+      "summary": "Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-16T05:28:40+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "8c41bc0d6c38ae9dc401",
+      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+      "publishedAt": "2026-11-16T05:01:17+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "4aa057cebd902c2db243",
+      "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+      "summary": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-16T02:33:07+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "ce90c066798387fd9bcc",
       "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
@@ -1066,39 +1099,6 @@
       "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-12T08:06:48+00:00",
       "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "7fb20a13661465faea95",
-      "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
-      "publishedAt": "2026-11-12T07:41:18+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "8441f9495845241f9b16",
-      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
-      "publishedAt": "2026-11-12T07:00:37+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "d67aad8933536e07b4b1",
-      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
-      "summary": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-12T05:54:48+00:00",
-      "category": "regulation",
       "importance": "high"
     }
   ]
