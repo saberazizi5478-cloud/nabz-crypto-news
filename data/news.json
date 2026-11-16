@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-15T20:24:29.552757+00:00",
+  "updatedAt": "2026-11-16T00:24:20.338335+00:00",
   "news": [
+    {
+      "id": "ce90c066798387fd9bcc",
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-15T22:50:59+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "69bef9e56dfc0c75c86d",
       "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
@@ -1089,17 +1100,6 @@
       "publishedAt": "2026-11-12T05:54:48+00:00",
       "category": "regulation",
       "importance": "high"
-    },
-    {
-      "id": "a0251da5736254cce62e",
-      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-      "publishedAt": "2026-11-12T05:22:31+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
