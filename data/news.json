@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-11-17T01:06:06.397198+00:00",
+  "updatedAt": "2026-11-17T09:15:52.707991+00:00",
   "news": [
+    {
+      "id": "9dcf65a4e80eb41b5a8d",
+      "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+      "summary": "Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-17T09:08:32+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "22f223f86f28ebd467fd",
+      "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
+      "summary": "CoinGecko has received backing from the Solana Foundation to expand into market intelligence and explore trading.",
+      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+      "publishedAt": "2026-11-17T09:01:03+00:00",
+      "category": "altcoin",
+      "importance": "low"
+    },
+    {
+      "id": "c91f1c79312011f50da1",
+      "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+      "publishedAt": "2026-11-17T07:38:07+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "9f6fd12f47a8efee776a",
+      "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
+      "summary": "The former Robinhood engineer used confidential information about upcoming Robinhood token listings to trade on Hyperliquid.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-17T06:35:19+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "6eb021fdf9a9a03476bc",
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+      "publishedAt": "2026-11-17T05:37:23+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "19fd9e7553c44b00b423",
+      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+      "summary": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-17T01:02:05+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "4e584e02bc638a8f6fd0",
       "title": "German lawmakers back crypto freezes outside criminal cases",
@@ -1034,72 +1100,6 @@
       "publishedAt": "2026-11-13T09:39:05+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "5dfa39decee8cca6dbfd",
-      "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-      "summary": "Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-13T09:27:14+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "2d775cf63e60988627b8",
-      "title": "Live updates: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-      "publishedAt": "2026-11-13T09:16:58+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "68f10abe62b6d30ee5e1",
-      "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
-      "summary": "Jane Street ended Q3 with 19% fewer shares in BlackRock’s Bitcoin ETF, and a higher share price lifted the stake’s value to $957 million.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-13T09:05:10+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "e25f7c9dcd544c737f51",
-      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-      "publishedAt": "2026-11-13T07:05:29+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "81a2324ddc1d81e8dc5c",
-      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-      "publishedAt": "2026-11-13T06:03:41+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "69d9ecc6f6393dd874ea",
-      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
-      "summary": "Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-13T06:00:15+00:00",
-      "category": "btc",
-      "importance": "high"
     }
   ]
 }
