@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-11-17T18:39:16.253979+00:00",
+  "updatedAt": "2026-11-18T01:19:48.222931+00:00",
   "news": [
+    {
+      "id": "c98aa30496eb80b826ea",
+      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+      "publishedAt": "2026-11-18T00:46:25+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "3529af9480121f5da0e8",
+      "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
+      "summary": "Microsoft's new coding, cybersecurity and image models challenge bigger rivals on performance and price. The company's bet is that doing one job exceptionally well matters more than doing absolutely everything.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
+      "publishedAt": "2026-11-17T23:16:03+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "79e245a020633a3ef035",
+      "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+      "summary": "The CFTC stayed Kalshi’s Trump-related mention markets after raising concerns about manipulation risks, giving the platform until Dec. 11 to defend its contracts.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-17T22:20:04+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "dbcb082ea1bd2891e470",
+      "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+      "summary": "Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm looks to expand into tokenized lending and traditional finance.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-17T21:56:35+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "45c358a147e95a46c5ef",
+      "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+      "summary": "The institution will test whether Circle’s USDC and blockchain rails can speed up and cut the cost of disbursing development funds.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
+      "publishedAt": "2026-11-17T20:56:03+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "875628f0327ac53cc6d0",
+      "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
+      "summary": "Glassnode says Bitcoin’s realized losses have reached levels seen only near the 2018, 2020, 2022 and early 2023 lows, as buyers defend the $62,000 to $66,000 range.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
+      "publishedAt": "2026-11-17T20:36:03+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "39968e3ca9422dcb726a",
+      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+      "summary": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-17T20:05:04+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "1e310e4d94c9d752f6c3",
+      "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
+      "summary": "Cathie Wood's funds trimmed Nvidia ahead of earnings while buying Block, Circle and Coinbase during Monday's selloff.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+      "publishedAt": "2026-11-17T19:46:03+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "a6724bd4a090c9f0036a",
+      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+      "publishedAt": "2026-11-17T19:45:57+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "d2034b4f080623f2363d",
+      "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+      "summary": "Developers warned on a core dev call that two scaling changes in the Glamsterdam upgrade break assumptions some contracts rely on—pitting a 3.3x capacity boost against the risk of disrupting thousands of apps.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+      "publishedAt": "2026-11-17T19:26:02+00:00",
+      "category": "market",
+      "importance": "medium"
+    },
     {
       "id": "4f0fa9b7a1a802046b59",
       "title": "Lighter incident exposes risks beyond withdrawal controls",
@@ -990,116 +1100,6 @@
       "publishedAt": "2026-11-15T11:18:48+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "1cb76d037ad29a4350c9",
-      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
-      "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-15T10:23:17+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "256f4495ca0379ae73b8",
-      "title": "Coinone warns of phishing, identity theft after customer data breach",
-      "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-15T08:07:58+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "18e99d5e1d6800ae2241",
-      "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
-      "publishedAt": "2026-11-15T07:00:00+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "40324e9d8fa589e3af5b",
-      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
-      "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-15T06:27:26+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "55e65d1272956070593e",
-      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-      "publishedAt": "2026-11-15T02:50:57+00:00",
-      "category": "altcoin",
-      "importance": "low"
-    },
-    {
-      "id": "55702da5b58a6baa40be",
-      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-      "publishedAt": "2026-11-14T16:33:29+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "76fdb999c9cc02d3233d",
-      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-      "publishedAt": "2026-11-14T16:33:23+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "ce12d04a76d2165c76be",
-      "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
-      "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
-      "publishedAt": "2026-11-14T16:01:02+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "9c40265a02882984b4cc",
-      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-      "publishedAt": "2026-11-14T15:38:27+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "a29ec008e695a75028cc",
-      "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
-      "publishedAt": "2026-11-14T15:00:00+00:00",
-      "category": "usdt",
-      "importance": "high"
     }
   ]
 }
