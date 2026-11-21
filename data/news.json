@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-11-21T12:43:04.229870+00:00",
+  "updatedAt": "2026-11-21T19:49:23.502446+00:00",
   "news": [
+    {
+      "id": "578566dbd5570b12990a",
+      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+      "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+      "publishedAt": "2026-11-21T18:01:02+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "e42107285320e8f45e26",
+      "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "publishedAt": "2026-11-21T17:50:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "90917f310dc029d32994",
+      "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+      "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certificates and filings—to defraud U.S. investors of more than $37 million.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+      "publishedAt": "2026-11-21T17:01:02+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "93911cdcd78594af4def",
+      "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+      "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+      "publishedAt": "2026-11-21T16:01:02+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "4bd3900dd7cd061ef9ea",
+      "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+      "summary": "Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+      "publishedAt": "2026-11-21T14:01:06+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "9e6ba09c4599f6217054",
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
@@ -1044,61 +1099,6 @@
       "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-18T21:13:58+00:00",
       "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "ad78e4b5a6249ee6b28f",
-      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
-      "summary": "Variational raised $110 million at a $1.5 billion valuation to expand Omni’s derivatives markets and increase trading limits.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-18T20:32:06+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "fff3718a30e93cf7415c",
-      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
-      "summary": "The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stolen assets, Binance’s lawyers said.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-18T20:20:37+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "0076a8a97156804104fe",
-      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
-      "summary": "The crypto asset manager sold $16.6 million in Ethereum and $2.7 million in Solana, freeing up $19.3 million. Here's why.",
-      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
-      "publishedAt": "2026-11-18T19:46:02+00:00",
-      "category": "altcoin",
-      "importance": "low"
-    },
-    {
-      "id": "0da426389537b4e79d95",
-      "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
-      "summary": "Bitcoin slid toward $63,000 as Anthropic prepared its blockbuster debut. Analysts dispute whether the IPO is draining crypto liquidity, pointing instead to ETF outflows, forced selling and rising interest rates.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
-      "publishedAt": "2026-11-18T19:16:02+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "7344c491d91fb69bb583",
-      "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
-      "summary": "MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
-      "publishedAt": "2026-11-18T18:46:03+00:00",
-      "category": "btc",
       "importance": "low"
     }
   ]
