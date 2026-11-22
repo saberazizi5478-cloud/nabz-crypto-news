@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-22T15:42:07.992743+00:00",
+  "updatedAt": "2026-11-22T21:18:11.311967+00:00",
   "news": [
+    {
+      "id": "a3d0fef62feb0dd21a0c",
+      "title": "More on the pending oversight hearings: State of Crypto",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/",
+      "publishedAt": "2026-11-22T19:30:00+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "4d688ad8603b028282f9",
       "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
@@ -1088,17 +1099,6 @@
       "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
       "publishedAt": "2026-11-19T03:40:48+00:00",
       "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "b9d4b6f386df54904cf1",
-      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
-      "publishedAt": "2026-11-18T22:30:00+00:00",
-      "category": "exchange",
       "importance": "low"
     }
   ]
