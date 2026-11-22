@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-22T07:30:06.418357+00:00",
+  "updatedAt": "2026-11-22T15:42:07.992743+00:00",
   "news": [
+    {
+      "id": "4d688ad8603b028282f9",
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+      "publishedAt": "2026-11-22T14:00:00+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "8c845ae83c5f42acbec2",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-22T09:33:06+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "a66548064018a88d4f14",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "summary": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-22T07:24:05+00:00",
+      "category": "security",
+      "importance": "high"
+    },
     {
       "id": "578566dbd5570b12990a",
       "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
@@ -1066,39 +1099,6 @@
       "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
       "publishedAt": "2026-11-18T22:30:00+00:00",
       "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "8fabe5a7a384722f118f",
-      "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
-      "summary": "Ledger says its hardware implant investigation has confirmed tampered devices in Berlin and is examining two suspected units in Dubai, as the incident spreads beyond Southeast Asia.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
-      "publishedAt": "2026-11-18T22:16:02+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "0e3b1eb3210ba062f54a",
-      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
-      "summary": "S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-18T21:57:35+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "47464c9ea209d350489e",
-      "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-      "summary": "Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-18T21:13:58+00:00",
-      "category": "market",
       "importance": "low"
     }
   ]
