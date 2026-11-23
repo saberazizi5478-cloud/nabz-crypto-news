@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-22T21:18:11.311967+00:00",
+  "updatedAt": "2026-11-23T01:59:31.815236+00:00",
   "news": [
+    {
+      "id": "a72e1a140237fc0efdb9",
+      "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+      "summary": "Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising questions over who is attending Trump’s memecoin dinner on Sunday.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-23T00:53:49+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "b974163c146a5b1ffbd6",
+      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+      "summary": "Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-22T22:47:09+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "a3d0fef62feb0dd21a0c",
       "title": "More on the pending oversight hearings: State of Crypto",
@@ -1078,28 +1100,6 @@
       "publishedAt": "2026-11-19T05:09:45+00:00",
       "category": "usdt",
       "importance": "high"
-    },
-    {
-      "id": "bc887968e1b602be2600",
-      "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
-      "publishedAt": "2026-11-19T04:46:10+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "0ddcd8a8adea7da047e1",
-      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
-      "publishedAt": "2026-11-19T03:40:48+00:00",
-      "category": "market",
-      "importance": "low"
     }
   ]
 }
