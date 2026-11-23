@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-11-23T01:59:31.815236+00:00",
+  "updatedAt": "2026-11-23T10:50:40.884373+00:00",
   "news": [
+    {
+      "id": "3ba439c7c8937ff31439",
+      "title": "Bitcoin breaks a record streak of 'lower highs.' Here's what it means",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means",
+      "publishedAt": "2026-11-23T10:31:02+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "58c82bb0aaa0bab0af5a",
+      "title": "U.S. inflation, Thanksgiving trading: Crypto Week Ahead",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "اخبار اقتصاد کلان می‌توانند بر دارایی‌های پرریسک اثر بگذارند؛ جهت و شدت اثر از پیش قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/23/u-s-inflation-thanksgiving-trading-crypto-week-ahead",
+      "publishedAt": "2026-11-23T09:40:25+00:00",
+      "category": "macro",
+      "importance": "low"
+    },
+    {
+      "id": "48e02c0dbe4d09a857f3",
+      "title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
+      "summary": "The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-23T09:05:44+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "ae3baf6a115ba5770def",
+      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+      "summary": "Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing June’s $4.51 billion total.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-23T08:08:52+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "9ceea5aee01c0c39aadc",
+      "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
+      "publishedAt": "2026-11-23T07:45:30+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "32a0359c4d63562a06bf",
+      "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
+      "publishedAt": "2026-11-23T07:18:45+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "e02229171e9ac11b41db",
+      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+      "publishedAt": "2026-11-23T05:42:22+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
     {
       "id": "a72e1a140237fc0efdb9",
       "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
@@ -1022,83 +1099,6 @@
       "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-11-19T08:54:58+00:00",
       "category": "market",
-      "importance": "high"
-    },
-    {
-      "id": "aea250bf9d7bcb7af66a",
-      "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-      "summary": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-19T08:26:19+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "14d87267a93283e222b5",
-      "title": "BTCPay Server issues emergency update for 5 security flaws",
-      "summary": "The EU’s cybersecurity service said the flaws could let attackers to run malicious code remotely on vulnerable servers without logging in.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-19T08:04:37+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "879abdcbe33ded6c9735",
-      "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-      "summary": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-19T07:55:56+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "8509805e7947de7a5e90",
-      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-      "summary": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-19T06:00:00+00:00",
-      "category": "btc",
-      "importance": "medium"
-    },
-    {
-      "id": "e2cff7a969cf4219ef4b",
-      "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
-      "publishedAt": "2026-11-19T05:39:06+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "fe87db187cc4774d4691",
-      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
-      "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-19T05:27:45+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "66af74d0575582020857",
-      "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
-      "summary": "Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-19T05:09:45+00:00",
-      "category": "usdt",
       "importance": "high"
     }
   ]
