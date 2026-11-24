@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-11-23T22:41:35.336725+00:00",
+  "updatedAt": "2026-11-24T06:27:51.857869+00:00",
   "news": [
+    {
+      "id": "be85112b0d7d1b05c451",
+      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+      "summary": "The independent macro research company warns the Bitcoin sell-off may not have yet run its course.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-24T05:07:30+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "d2459bb1e407f5a56adf",
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "summary": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-24T00:36:26+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "a3317fa02507b67f48c0",
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "publishedAt": "2026-11-24T00:25:04+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "23ea0f550a60cc9a8534",
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "summary": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-23T23:43:34+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
     {
       "id": "a69912e6bbbb02946b38",
       "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
@@ -1055,50 +1099,6 @@
       "url": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
       "publishedAt": "2026-11-20T08:04:40+00:00",
       "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "77db98aeef5ab8915ff3",
-      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-      "summary": "Fraudsters allegedly used social media ads, chat groups and forged SEC filings to defraud US investors of approximately $37 million.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-20T08:03:34+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "a2774c52b8768502c910",
-      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
-      "publishedAt": "2026-11-20T06:12:15+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "2da44a9573d6857605fe",
-      "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
-      "publishedAt": "2026-11-20T06:08:28+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "205c51c357c722a53c04",
-      "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-      "publishedAt": "2026-11-20T05:32:25+00:00",
-      "category": "btc",
       "importance": "low"
     }
   ]
