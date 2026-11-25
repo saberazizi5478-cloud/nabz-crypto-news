@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-11-24T18:22:09.263114+00:00",
+  "updatedAt": "2026-11-25T02:49:14.874726+00:00",
   "news": [
+    {
+      "id": "ef14e31f251107ac6b64",
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+      "summary": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-25T01:40:59+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "85b75c5ce107d18d422d",
+      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+      "summary": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-24T23:48:16+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "552e43ae5e35357af6a2",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-24T22:12:10+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "66db682ad3efc93b9060",
+      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+      "summary": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-24T21:50:25+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "7c82979904da138c506f",
+      "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+      "summary": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+      "publishedAt": "2026-11-24T21:16:02+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "d5933bd57374ec992697",
+      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "summary": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI threaten the mathematical assumptions that keep billions in crypto safe.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+      "publishedAt": "2026-11-24T20:36:02+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "fd3037e34d74750a7344",
+      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+      "summary": "The crypto asset manager warned that Bitcoin’s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-24T19:44:23+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "1a2b7c6f6cbb74da58f0",
+      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+      "summary": "Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
+      "publishedAt": "2026-11-24T19:35:32+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "d48db57892090747da54",
+      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+      "summary": "Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on compensation for affected customers.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-24T19:04:26+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "92fb044b797ffa3e78e0",
+      "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+      "summary": "Staff guidance lets swap venues and clearinghouses count Bitcoin, Ethereum, and stablecoins toward their 12-month operating-cost buffer. Here's the catch.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+      "publishedAt": "2026-11-24T18:55:27+00:00",
+      "category": "usdt",
+      "importance": "high"
+    },
+    {
+      "id": "97c03a875cd0d49dbd80",
+      "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+      "summary": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+      "publishedAt": "2026-11-24T18:36:03+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "2c01ae5fac0d53e08043",
+      "title": "CFTC sets new prediction market rules as more firms seek US entry",
+      "summary": "The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch prediction markets.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-24T18:31:42+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
     {
       "id": "5b1f6c68fcf5876f92c8",
       "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
@@ -966,138 +1098,6 @@
       "source": "Decrypt",
       "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
       "publishedAt": "2026-11-21T17:01:02+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "93911cdcd78594af4def",
-      "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
-      "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
-      "publishedAt": "2026-11-21T16:01:02+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "4bd3900dd7cd061ef9ea",
-      "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
-      "summary": "Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
-      "publishedAt": "2026-11-21T14:01:06+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "9e6ba09c4599f6217054",
-      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
-      "publishedAt": "2026-11-21T12:30:00+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "f8aa62b42b459146b904",
-      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-      "summary": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-21T09:48:56+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "94cf3004ba5be0d1f8b4",
-      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-      "publishedAt": "2026-11-21T06:16:42+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "bf56f7b9e9db27c1cbc2",
-      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر به یک یا چند آلت‌کوین مربوط است و ممکن است اثر آن به همان دارایی‌ها محدود باشد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-      "publishedAt": "2026-11-21T05:59:19+00:00",
-      "category": "altcoin",
-      "importance": "high"
-    },
-    {
-      "id": "517882350a3fd9c82843",
-      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-      "summary": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-21T05:40:35+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "28ffad314c63126113d7",
-      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-      "publishedAt": "2026-11-21T04:10:07+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "734d9357013a2078659c",
-      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-      "publishedAt": "2026-11-20T22:51:14+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "996e3859531c29f428ad",
-      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-      "publishedAt": "2026-11-20T22:05:31+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "dcf5ab8f47eb24c9b15b",
-      "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
-      "summary": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang’s resignation.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
-      "publishedAt": "2026-11-20T20:36:54+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "ed5777a2f93a30d5e0e7",
-      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-      "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-20T19:37:27+00:00",
       "category": "regulation",
       "importance": "high"
     }
