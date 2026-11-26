@@ -1,6 +1,182 @@
 {
-  "updatedAt": "2026-11-26T14:30:21.550569+00:00",
+  "updatedAt": "2026-11-26T23:21:24.747643+00:00",
   "news": [
+    {
+      "id": "895af4bd546f8fcbbd0b",
+      "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+      "summary": "Netflix’s The Altruist has been slammed for its ‘very racist’ portrayal of CZ. BitMart reportedly has a $319.5 million shortfall and just $1.9M in liquid assets.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-26T22:39:46+00:00",
+      "category": "market",
+      "importance": "high"
+    },
+    {
+      "id": "306908cb53d3808809f3",
+      "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+      "summary": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+      "publishedAt": "2026-11-26T22:01:02+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "68d8a979b0ebb3537c63",
+      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+      "summary": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-26T21:42:43+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "fee31cf7df3d5f7f642c",
+      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+      "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-26T21:33:47+00:00",
+      "category": "btc",
+      "importance": "high"
+    },
+    {
+      "id": "f55346ba6df9e467dbfe",
+      "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+      "summary": "Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without regulated access to decentralized finance.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-26T21:13:53+00:00",
+      "category": "regulation",
+      "importance": "low"
+    },
+    {
+      "id": "d9726acd7e98a1600d54",
+      "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+      "summary": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+      "publishedAt": "2026-11-26T21:01:03+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "2b56ee6df73ab798f8a0",
+      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+      "summary": "Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-26T20:05:18+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "9d4541b4960fd98e3669",
+      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "summary": "A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-26T18:26:31+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "690e6e791daeccdd306e",
+      "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+      "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+      "publishedAt": "2026-11-26T18:15:29+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "1ba22a843565eab1e41d",
+      "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+      "summary": "Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period.",
+      "impact": "اخبار اقتصاد کلان می‌توانند بر دارایی‌های پرریسک اثر بگذارند؛ جهت و شدت اثر از پیش قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-26T17:39:53+00:00",
+      "category": "macro",
+      "importance": "high"
+    },
+    {
+      "id": "b1b0a06543f6e2d22da5",
+      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+      "publishedAt": "2026-11-26T17:30:00+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "a26ffd61935ea72f3197",
+      "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+      "publishedAt": "2026-11-26T16:50:23+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "11e0014578e2f620898b",
+      "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+      "summary": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+      "publishedAt": "2026-11-26T16:43:02+00:00",
+      "category": "regulation",
+      "importance": "high"
+    },
+    {
+      "id": "f869b2a9e4a21a027537",
+      "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+      "summary": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-26T16:40:44+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "13b4a179155421dc88c5",
+      "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
+      "summary": "A vote on Kyrgyzstan could make an exchange’s home country the deciding factor in whether a European broker can use it to settle a trade.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-26T15:45:07+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "a3fa6ff399c4605e86e6",
+      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+      "publishedAt": "2026-11-26T15:42:43+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
     {
       "id": "7168748d960f953e2e97",
       "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
@@ -924,182 +1100,6 @@
       "publishedAt": "2026-11-24T17:09:11+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "80de72ee140e7c1a3340",
-      "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
-      "summary": "Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
-      "publishedAt": "2026-11-24T16:00:44+00:00",
-      "category": "exchange",
-      "importance": "low"
-    },
-    {
-      "id": "0db4bb9ccefb1bc62793",
-      "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
-      "publishedAt": "2026-11-24T16:00:25+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "9b0d3a08deed1e23e1e0",
-      "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
-      "publishedAt": "2026-11-24T14:40:53+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "b88ab0144ad1f2c1d1a7",
-      "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
-      "summary": "U.S. authorities say they've now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
-      "publishedAt": "2026-11-24T14:13:03+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "7c0716997d1db2d48b8a",
-      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
-      "summary": "Buyers will pay VAT on top of the trade price in December because Russia’s tax code has no explicit exemption for foreign digital instruments.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-24T14:10:23+00:00",
-      "category": "usdt",
-      "importance": "low"
-    },
-    {
-      "id": "6b6377b56b10e46849ac",
-      "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
-      "summary": "The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-24T13:57:56+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "3780cd1c24a2128f6838",
-      "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-      "summary": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-      "publishedAt": "2026-11-24T13:46:03+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "0980647a2212dd13f154",
-      "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
-      "summary": "Grayscale said Bitcoin’s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-24T13:11:44+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "8c94a2c3a8c905f5670f",
-      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
-      "summary": "It was a very green Monday for most markets, but crypto couldn’t hold the pump as ETF sellers race for the exits.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
-      "publishedAt": "2026-11-24T13:07:49+00:00",
-      "category": "market",
-      "importance": "high"
-    },
-    {
-      "id": "c5d77095c07b9e43a87d",
-      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
-      "publishedAt": "2026-11-24T12:47:49+00:00",
-      "category": "security",
-      "importance": "high"
-    },
-    {
-      "id": "0cda3ae89c0b012a478f",
-      "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
-      "publishedAt": "2026-11-24T12:47:40+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "7ba414298009a29ab69e",
-      "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
-      "summary": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
-      "publishedAt": "2026-11-24T12:40:47+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "2f7af8fabe2d35c4bd5e",
-      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
-      "publishedAt": "2026-11-24T12:36:28+00:00",
-      "category": "btc",
-      "importance": "high"
-    },
-    {
-      "id": "164ed44408b0259cea14",
-      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
-      "summary": "The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuers to disclose risks before soliciting buyers.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-24T12:04:16+00:00",
-      "category": "usdt",
-      "importance": "high"
-    },
-    {
-      "id": "9f949adc6413e21bef1a",
-      "title": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return",
-      "summary": "Bitcoin rose about 5% on Jensen Huang’s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-24T11:40:33+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "1a57e2d7ff16a8defcb6",
-      "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
-      "summary": "Lawmakers from both parties want to know what national security assurances the White House gave Nvidia's board before it brought Huang back.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
-      "publishedAt": "2026-11-24T11:35:13+00:00",
-      "category": "regulation",
-      "importance": "high"
     }
   ]
 }
