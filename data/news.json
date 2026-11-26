@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-25T22:35:14.579386+00:00",
+  "updatedAt": "2026-11-26T04:27:43.485546+00:00",
   "news": [
+    {
+      "id": "9d8c9620989ab6a09739",
+      "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+      "summary": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptography.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-26T01:33:20+00:00",
+      "category": "market",
+      "importance": "low"
+    },
     {
       "id": "6a0d48f224034997efda",
       "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
@@ -1089,17 +1100,6 @@
       "publishedAt": "2026-11-23T16:46:03+00:00",
       "category": "btc",
       "importance": "low"
-    },
-    {
-      "id": "bfa3d475717f2b46d798",
-      "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
-      "publishedAt": "2026-11-23T16:39:03+00:00",
-      "category": "market",
-      "importance": "high"
     }
   ]
 }
