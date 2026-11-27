@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-11-26T23:21:24.747643+00:00",
+  "updatedAt": "2026-11-27T05:24:09.959549+00:00",
   "news": [
+    {
+      "id": "edf23879652ace366730",
+      "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+      "publishedAt": "2026-11-27T05:06:32+00:00",
+      "category": "usdt",
+      "importance": "low"
+    },
+    {
+      "id": "cbc0eaba11250f44db1f",
+      "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
+      "summary": "Glamsterdam’s Hoodi upgrade was delayed in October after concerns that changes to gas pricing could break some existing smart contracts.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-27T04:47:36+00:00",
+      "category": "market",
+      "importance": "medium"
+    },
+    {
+      "id": "bd81bbe12d5e0864c13d",
+      "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+      "publishedAt": "2026-11-27T04:45:47+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "4a4ab37fc0818d64a613",
+      "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+      "publishedAt": "2026-11-27T04:29:47+00:00",
+      "category": "market",
+      "importance": "medium"
+    },
+    {
+      "id": "a4c02344bbf2cf884e36",
+      "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
+      "summary": "Bug bounty platform HackerOne said it’s increasing its triage throughput with AI agents after a record quarter of reports in the third quarter.",
+      "impact": "خبر امنیتی ممکن است بر اعتماد کاربران و دارایی‌های درگیر اثر بگذارد. جزئیات و تأیید مستقل مهم است.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-27T01:47:38+00:00",
+      "category": "security",
+      "importance": "high"
+    },
+    {
+      "id": "67ac6b978e5cc2813f6d",
+      "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+      "summary": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash’s privacy design sets it apart.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-27T00:35:39+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
     {
       "id": "895af4bd546f8fcbbd0b",
       "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
@@ -1034,72 +1100,6 @@
       "publishedAt": "2026-11-24T18:36:03+00:00",
       "category": "regulation",
       "importance": "high"
-    },
-    {
-      "id": "2c01ae5fac0d53e08043",
-      "title": "CFTC sets new prediction market rules as more firms seek US entry",
-      "summary": "The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch prediction markets.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-24T18:31:42+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "5b1f6c68fcf5876f92c8",
-      "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
-      "summary": "Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
-      "publishedAt": "2026-11-24T18:16:02+00:00",
-      "category": "btc",
-      "importance": "low"
-    },
-    {
-      "id": "0cfae8134efb10fa52ff",
-      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
-      "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.",
-      "impact": "خبر به تتر یا استیبل‌کوین‌ها مربوط است. در خبرهای مربوط به پشتوانه یا حفظ برابری قیمت، اعتبار منبع مهم است.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-24T18:07:22+00:00",
-      "category": "usdt",
-      "importance": "medium"
-    },
-    {
-      "id": "02d44940bb91ad9832df",
-      "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
-      "summary": "Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
-      "publishedAt": "2026-11-24T17:45:22+00:00",
-      "category": "market",
-      "importance": "medium"
-    },
-    {
-      "id": "3dbf843e451b52cd2d43",
-      "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-      "summary": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
-      "publishedAt": "2026-11-24T17:43:03+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "3176c45d185a82322a62",
-      "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-      "summary": "Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-24T17:09:11+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
