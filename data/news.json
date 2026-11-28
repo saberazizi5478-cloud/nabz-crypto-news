@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-11-28T05:01:06.173732+00:00",
+  "updatedAt": "2026-11-28T14:16:10.827694+00:00",
   "news": [
+    {
+      "id": "700a6622481c46211739",
+      "title": "Justin Sun calls for Trump family-linked WLFI token to be delisted",
+      "summary": "Sun also urged exchanges to issue warnings, restrict deposits and require disclosure of where funds had gone.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/justin-sun-calls-for-trump-family-linked-wlfi-token-to-be-delisted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-28T13:28:00+00:00",
+      "category": "exchange",
+      "importance": "low"
+    },
+    {
+      "id": "427877d06a8f525eea35",
+      "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
+      "publishedAt": "2026-11-28T13:02:18+00:00",
+      "category": "btc",
+      "importance": "low"
+    },
+    {
+      "id": "ded59b713f26b995d9a9",
+      "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+      "summary": "A working group will examine enhancing connectivity between domestic digital payment networks and bringing their regulations into more alignment.",
+      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-28T10:31:00+00:00",
+      "category": "regulation",
+      "importance": "low"
+    },
+    {
+      "id": "07ef84585bb4af6a7faa",
+      "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
+      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+      "publishedAt": "2026-11-28T09:32:51+00:00",
+      "category": "market",
+      "importance": "low"
+    },
+    {
+      "id": "eb0765bc5cb61c8b04d0",
+      "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
+      "summary": "The agreement is a milestone in Binance’s effort to expand its presence in Bhutan since launching a national crypto-powered tourism payment system in 2025.",
+      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-11-28T07:43:00+00:00",
+      "category": "exchange",
+      "importance": "high"
+    },
     {
       "id": "552e43ae5e35357af6a2",
       "title": "Here’s what happened in crypto today",
@@ -1045,61 +1100,6 @@
       "publishedAt": "2026-11-25T14:47:17+00:00",
       "category": "security",
       "importance": "high"
-    },
-    {
-      "id": "2bcfec8163bf1fd512dc",
-      "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
-      "summary": "Constance Waing said Netflix used racist stereotypes in its portrayal of CZ and misrepresented life at FTX before the exchange’s collapse.",
-      "impact": "خبر مرتبط با صرافی‌ها ممکن است بر کاربران یا دسترسی به خدمات اثر بگذارد.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-25T14:21:36+00:00",
-      "category": "exchange",
-      "importance": "high"
-    },
-    {
-      "id": "0bc3c1414a2995c54bbe",
-      "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
-      "summary": "The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
-      "publishedAt": "2026-11-25T13:41:38+00:00",
-      "category": "regulation",
-      "importance": "high"
-    },
-    {
-      "id": "dff296afe6661ccf3940",
-      "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
-      "summary": "Holders had warned that reporting wallets worth over €100,000 could expose them to risk in a country hit by a wave of crypto kidnappings.",
-      "impact": "این خبر به بازار کریپتو مربوط است. برای ارزیابی اثر آن باید متن کامل و منبع اصلی بررسی شود.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
-      "publishedAt": "2026-11-25T13:15:24+00:00",
-      "category": "market",
-      "importance": "low"
-    },
-    {
-      "id": "90bbd2dfbe418165b618",
-      "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
-      "summary": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027.",
-      "impact": "تغییرات مقرراتی ممکن است بر فعالیت شرکت‌ها و دسترسی سرمایه‌گذاران اثر بگذارد؛ نتیجه قطعی نیست.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-11-25T13:02:09+00:00",
-      "category": "regulation",
-      "importance": "low"
-    },
-    {
-      "id": "a7848a96153cb9dd1f30",
-      "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-      "summary": "خلاصه قابل‌دسترسی در فید خبری موجود نیست.",
-      "impact": "خبر مرتبط با بیت‌کوین است. اثر واقعی آن به جزئیات خبر و واکنش بازار بستگی دارد.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-      "publishedAt": "2026-11-25T11:57:50+00:00",
-      "category": "btc",
-      "importance": "low"
     }
   ]
 }
